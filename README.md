@@ -5,16 +5,14 @@ Agent skills for the [RawUGC](https://rawugc.com) Video Generation API. Install 
 ## Installation
 
 ```bash
-npx skills add <owner>/rawugc-skills
+npx skills add tfcbot/rawugc-skills
 ```
 
 To install only the RawUGC video API skill (if the CLI supports it):
 
 ```bash
-npx skills add <owner>/rawugc-skills --skill rawugc-video-api
+npx skills add tfcbot/rawugc-skills --skill rawugc-video-api
 ```
-
-Replace `<owner>` with your GitHub org or username (e.g. `blurware/rawugc-skills`).
 
 ## Setup
 
