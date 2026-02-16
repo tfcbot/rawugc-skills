@@ -1,9 +1,10 @@
 ---
-name: rawugc-video-api
+name: rawugc-api
 description: Call the RawUGC Video Generation API to create and manage AI videos (Sora 2 and other models). Use when the user wants to generate AI videos via RawUGC, integrate RawUGC API, check video status, list videos, or work with Sora/text-to-video/image-to-video generation.
 requires:
   env:
     - RAWUGC_API_KEY
+compatibility: Requires RAWUGC_API_KEY (Bearer token for https://rawugc.com/api/v1). Obtain from RawUGC dashboard.
 homepage: https://github.com/tfcbot/rawugc-skills
 source: https://github.com/tfcbot/rawugc-skills
 ---

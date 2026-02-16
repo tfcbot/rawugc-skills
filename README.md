@@ -2,6 +2,8 @@
 
 Agent skills for the [RawUGC](https://rawugc.com) Video Generation API. Install to give your AI agent procedural knowledge to generate and manage AI videos (Sora 2 and other models) via the RawUGC API.
 
+**Required env vars:** `RAWUGC_API_KEY` (Bearer token for the API; create in the [RawUGC dashboard](https://rawugc.com)).
+
 ## Installation
 
 ```bash
@@ -11,7 +13,7 @@ npx skills add tfcbot/rawugc-skills
 To install only the RawUGC video API skill (if the CLI supports it):
 
 ```bash
-npx skills add tfcbot/rawugc-skills --skill rawugc-video-api
+npx skills add tfcbot/rawugc-skills --skill rawugc-api
 ```
 
 ## Setup
@@ -36,7 +38,7 @@ The agent will use these skills when the user:
 
 | Skill | Description |
 |-------|-------------|
-| **rawugc-video-api** | Call the RawUGC Video Generation API: generate videos, get status, list videos. Uses `RAWUGC_API_KEY` for auth. |
+| **rawugc-api** | Call the RawUGC Video Generation API: generate videos, get status, list videos. Requires `RAWUGC_API_KEY`. |
 
 ## License
 
