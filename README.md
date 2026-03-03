@@ -1,7 +1,7 @@
 <p align="center">
   <strong>rawugc-skills</strong>
   <br />
-  Agent skills for <a href="https://rawugc.com">RawUGC</a> — the AI video generation platform
+  Agent skills for <a href="https://rawugc.com">RawUGC</a> — the AI UGC generation platform
   <br />
   <sub>API integration · 155+ UGC video formats · 10 industry verticals · content grading</sub>
 </p>
