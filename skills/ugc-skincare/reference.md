@@ -10,7 +10,7 @@ Quick-lookup shot lists for all 20 skincare UGC formats. For full prompt templat
 |---|--------|-------|---------|
 | 1 | GRWM ASMR Routine | Hands reach for product → Dispense onto fingertips → Apply to face, slow circles → Mirror, satisfied look | 10 |
 | 2 | Shelfie Tour | Pan across shelf → Hand picks up product → Sets back, picks another → Returns to hero product | 10 |
-| 3 | Texture Porn | Squeeze onto hand → Finger swirls through texture → Spread on skin, absorption → Subtle glow, bottle in bg | 10 |
+| 3 | Texture ASMR | Squeeze onto hand → Finger swirls through texture → Spread on skin, absorption → Subtle glow, bottle in bg | 10 |
 | 4 | Product on Wet Skin | Steamy bathroom, damp face → Squeeze product onto fingertips → Pat and press into damp skin → Dewy hydrated finish | 10 |
 | 5 | Night Routine Wind-Down | Lamp-lit bathroom, candle → Tap bottle (ASMR), open → Slow application, eyes closed → Settle into bed, glowing | 10 |
 | 6 | Skin Check-In Vlog | Face close to camera, no makeup → Gesture at skin areas → Hold up product casually → Apply while talking | 10 |

@@ -143,7 +143,7 @@ npx skills add tfcbot/rawugc-skills --skill ugc-skincare
 |---|---|---|:---:|:---:|:---:|:---:|
 | 1 | [GRWM ASMR Routine](skills/ugc-skincare/SKILL.md#1-grwm-asmr-routine) | Silent close-up of a full skincare routine, pure ASMR | 10 | 9 | low | 9 |
 | 2 | [Shelfie Tour](skills/ugc-skincare/SKILL.md#2-shelfie-tour) | POV browsing a bathroom shelf, picking up the favorite | 10 | 8 | low | 9 |
-| 3 | [Texture Porn](skills/ugc-skincare/SKILL.md#3-texture-porn) | Extreme close-up of product texture — satisfying swatch and spread | 10 | 9 | low | 10 |
+| 3 | [Texture ASMR](skills/ugc-skincare/SKILL.md#3-texture-asmr) | Extreme close-up of product texture — satisfying swatch and spread | 10 | 9 | low | 10 |
 | 4 | [Product on Wet Skin](skills/ugc-skincare/SKILL.md#4-product-on-wet-skin) | Applying product on damp skin post-shower, satisfying absorption | 10 | 9 | low | 9 |
 | 5 | [Night Routine Wind-Down](skills/ugc-skincare/SKILL.md#5-night-routine-wind-down) | Dimly lit, cozy vibes, ASMR bottle tapping | 10 | 9 | low | 9 |
 | 6 | [Skin Check-In Vlog](skills/ugc-skincare/SKILL.md#6-skin-check-in-vlog) | Talking to camera about skin, casually holding product | 10 | 8 | low | 9 |

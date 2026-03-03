@@ -65,7 +65,7 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 3. Texture Porn
+### 3. Texture ASMR
 
 **Vibe**: Extreme close-up of product texture on skin — satisfying swatch and spread.
 
