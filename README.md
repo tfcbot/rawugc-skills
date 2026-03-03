@@ -36,10 +36,11 @@ Give your AI agent procedural knowledge to generate TikTok-native, lofi UGC vide
 | 📦 | [ugc-dtc](#ugc-dtc) | 15 | Formats | Unboxings, honest reviews, subscription rituals, restock reveals |
 | 💊 | [ugc-supplements](#ugc-supplements) | 15 | Formats | Morning stacks, gym bag dumps, taste tests, scoop close-ups |
 | 🛒 | [ugc-b2c](#ugc-b2c) | 15 | Formats | First reactions, product hacks, desk companions, nightstand essentials |
+| 🗣️ | [ugc-yapper](#ugc-yapper) | 15 | Formats | Single-take, talking-head videos with high personality and no production value |
 | 🎬 | [ugc-lifestyle-broll](#ugc-lifestyle-broll) | 20 | B-Roll | Ambient mood footage, golden hour, rain windows, product-in-context |
 | 📊 | [ugc-content-grader](#ugc-content-grader) | 3 rubrics | Scoring | Quality, complexity, and nativeness auditing for UGC scripts |
 
-> **Total: 155 video formats + 3 scoring rubrics across 10 skills**
+> **Total: 170 video formats + 3 scoring rubrics across 11 skills**
 
 ---
 
@@ -404,6 +405,46 @@ npx skills add tfcbot/rawugc-skills --skill ugc-b2c
 | [SKILL.md](skills/ugc-b2c/SKILL.md) | Full format library — prompt templates, shot structures, settings |
 | [examples.md](skills/ugc-b2c/examples.md) | All 15 formats filled with real consumer products |
 | [reference.md](skills/ugc-b2c/reference.md) | Quick-lookup shot list table for all 15 formats |
+
+---
+
+### ugc-yapper
+
+> 15 lofi, TikTok-native video formats for Yapper-style ads. Raw, authentic, single-take, talking-head videos with high personality and no production value.
+
+```bash
+npx skills add tfcbot/rawugc-skills --skill ugc-yapper
+```
+
+**15 formats with prompt templates, shot-by-shot structures, and filled examples:**
+
+| # | Format | Vibe | Frames | Quality | Complexity | Native |
+|---|---|---|:---:|:---:|:---:|:---:|
+| 1 | [The Car Rant](skills/ugc-yapper/SKILL.md#1-the-car-rant) | Passionate, unfiltered, and direct rant in a car. | 10 | 9 | low | 10 |
+| 2 | [The Mid-Meal Monologue](skills/ugc-yapper/SKILL.md#2-the-mid-meal-monologue) | Casual, relatable, and slightly messy talk while eating. | 10 | 8 | low | 9 |
+| 3 | [The Cooking Confessional](skills/ugc-yapper/SKILL.md#3-the-cooking-confessional) | Intimate, messy, and genuine story while cooking. | 10 | 8 | low | 9 |
+| 4 | [The Distracted Diatribe](skills/ugc-yapper/SKILL.md#4-the-distracted-diatribe) | Chaotic, funny, and very real story with constant distractions. | 10 | 8 | low | 9 |
+| 5 | [The Walking and Talking Head](skills/ugc-yapper/SKILL.md#5-the-walking-and-talking-head) | Energetic, fast-paced, and in-the-moment talk while walking. | 10 | 8 | low | 8 |
+| 6 | [The Bathroom Mirror Monologue](skills/ugc-yapper/SKILL.md#6-the-bathroom-mirror-monologue) | Introspective, personal, and raw talk to one's reflection. | 10 | 9 | low | 9 |
+| 7 | [The Late-Night Thoughts](skills/ugc-yapper/SKILL.md#7-the-late-night-thoughts) | Sleepy, intimate, and unfiltered talk in bed. | 10 | 9 | low | 9 |
+| 8 | [The "Just Got Out of the Shower" Rant](skills/ugc-yapper/SKILL.md#8-the-just-got-out-of-the-shower-rant) | Fresh, energetic, and spontaneous rant after a shower. | 10 | 9 | low | 10 |
+| 9 | [The "I'm So Over This" Complaint](skills/ugc-yapper/SKILL.md#9-the-im-so-over-this-complaint) | Relatable, funny, and a little bit dramatic complaint. | 10 | 8 | low | 9 |
+| 10 | [The "I Can't Believe I'm Admitting This" Confession](skills/ugc-yapper/SKILL.md#10-the-i-cant-believe-im-admitting-this-confession) | Secretive, funny, and vulnerable confession. | 10 | 8 | low | 9 |
+| 11 | [The "Hot Take" Debate](skills/ugc-yapper/SKILL.md#11-the-hot-take-debate) | Bold, opinionated, and engaging debate on a controversial topic. | 10 | 8 | low | 8 |
+| 12 | [The "I'm a Genius" Hack](skills/ugc-yapper/SKILL.md#12-the-im-a-genius-hack) | Proud, excited, and helpful sharing of a clever hack. | 10 | 8 | low | 8 |
+| 13 | [The "Unboxing Gone Wrong" Story](skills/ugc-yapper/SKILL.md#13-the-unboxing-gone-wrong-story) | Humorous, self-deprecating, and relatable story of a bad unboxing. | 10 | 8 | low | 9 |
+| 14 | [The "I'm Obsessed" Rave Review](skills/ugc-yapper/SKILL.md#14-the-im-obsessed-rave-review) | Enthusiastic, passionate, and convincing gushing over a product. | 10 | 9 | low | 9 |
+| 15 | [The "A Day in the Life" Montage](skills/ugc-yapper/SKILL.md#15-the-a-day-in-the-life-montage) | Authentic, aspirational, and lifestyle-focused montage. | 10 | 8 | low | 7 |
+
+**Best for:** E-commerce, DTC, supplements, food/bev, and lifestyle products where authentic, personality-driven content is key.
+
+**Each format includes:** Vibe description, 4-shot structure with timestamps, prompt template with `[BRACKETED]` placeholders, recommended settings, and a filled example with a real product.
+
+| File | Description |
+|---|---|
+| [SKILL.md](skills/ugc-yapper/SKILL.md) | Full format library — prompt templates, shot structures, settings |
+| [examples.md](skills/ugc-yapper/examples.md) | All 15 formats filled with real products and scenarios |
+| [reference.md](skills/ugc-yapper/reference.md) | Quick-lookup shot list table for all 15 formats |
 
 ---
 
