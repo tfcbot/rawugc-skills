@@ -6,76 +6,76 @@ Shot-by-shot breakdowns for all 15 SaaS UGC formats with example products filled
 
 ---
 
-## 1. Emotional Hook + Demo
+## 1. The Tool I Won't Shut Up About
 
-**Vibe**: Face to camera sharing a frustration, then flipping to screen demo of the fix.
+**Vibe**: Talking to camera about the one SaaS tool you keep recommending — passionate, genuine advocacy.
 
-**Example Product**: Zapier
+**Example Product**: Linear
 
-- 0-3s: Close-up face, tired expression — "I was spending three hours a week copying rows between Google Sheets and our CRM"
-- 3-5s: Quick cut to laptop screen — Zapier dashboard open, clicking into a Zap builder
-- 5-8s: Connecting Google Sheets to HubSpot in three clicks, mapping fields, hitting "Turn on Zap" — done in seconds
-- 8-10s: Back to face — eyebrows up, relieved exhale, slight head shake — "three hours to three clicks"
+- 0-3s: Face to camera, sitting at desk — "my team is genuinely sick of me talking about this"
+- 3-6s: Holding up phone, gesturing — explaining what Linear does in plain terms, how it changed their workflow
+- 6-8s: Getting more animated — the specific thing that makes it different from every other project tool
+- 8-10s: Leaning in with genuine conviction — "seriously just try it" — the enthusiasm is real, not sponsored
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 2. Desk Setup ft. Product
+## 2. Desk Tour Namecheck
 
-**Vibe**: Aesthetic desk tour — product dashboard visible on screen, soft mention.
+**Vibe**: Casual desk tour, namecheck each tool in the stack — the SaaS product gets the hero spot.
 
 **Example Product**: Notion
 
-- 0-3s: Wide shot of a clean desk — ultrawide monitor, mechanical keyboard, small pothos in a ceramic pot, a latte
-- 3-6s: Camera pans right across the setup, past a vertical monitor with Slack, settling on the main screen
-- 6-8s: Notion is open — a project board with columns (Backlog, In Progress, Review, Done), colorful tags, a few inline databases
-- 8-10s: Person slides into the chair, adjusts their headphones, starts dragging a card from Backlog to In Progress — work begins
+- 0-3s: Camera panning across a clean home office desk — monitor, mechanical keyboard, coffee mug, a small plant
+- 3-6s: Hand pointing at different items casually, naming the tools and gear in the stack
+- 6-8s: Hand gestures toward the laptop — "and Notion basically lives here permanently" — the hero spot
+- 8-10s: Leaning back in the chair, hands behind head — the setup is dialed, everything chosen intentionally
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 3. Workflow ASMR
+## 3. The Laptop Close
 
-**Vibe**: Satisfying screen recording of clicking through a clean UI — no voiceover, pure flow.
+**Vibe**: End of workday — closing the laptop lid with satisfaction because the tool handled everything.
 
 **Example Product**: Monday.com
 
-- 0-3s: Cursor glides across the Monday.com board — hovering over columns, the interface gently highlighting each row on hover
-- 3-6s: Click — dragging a task card from "To Do" to "In Progress"; the status pill changes from red to yellow with a smooth animation
-- 6-8s: Opening an automation — "When status changes to Done, notify #team-channel" — toggling it on; a green checkmark pulses
-- 8-10s: Zooming out — the entire board is color-coded and organized; every row has a status, an owner, a due date — clean, complete, satisfying
+- 0-3s: Person at desk, typing final keystrokes, looking satisfied — wrapping up the last task of the day
+- 3-6s: Leaning back, stretching arms overhead, glancing at the clock — done earlier than expected thanks to Monday.com
+- 6-8s: Reaching forward and slowly closing the laptop lid — satisfying click, the kind that means "done"
+- 8-10s: Standing up and grabbing their coffee mug, heading out — day is done, the tool did its job
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 4. The 5pm Dashboard
+## 4. The "Before This Tool" Rant
 
-**Vibe**: End of day, looking at results — genuine "wow, we did that" reaction.
+**Vibe**: Talking to camera about how bad things were before this SaaS tool — relatable frustration turned relief.
 
-**Example Product**: HubSpot
+**Example Product**: Calendly
 
-- 0-3s: Person leaning back in their desk chair, afternoon light through blinds, stretching arms above head, glancing at laptop
-- 3-6s: HubSpot dashboard fills the screen — Weekly Report: 23 deals progressed, 8 closed-won, $47K pipeline added, green up-arrows everywhere
-- 6-8s: Close-up on the revenue chart — the bar for this week noticeably taller than the last three; cursor hovers over the $47K figure
-- 8-10s: Lean back, quiet exhale, slight satisfied smile — close the laptop lid gently, grab car keys
+- 0-3s: Face to camera, exasperated expression — recounting the scheduling nightmare before Calendly
+- 3-6s: Counting frustrations on fingers — the back-and-forth emails, the timezone confusion, the double-bookings
+- 6-8s: Expression shifts to visible relief — "and then I found Calendly" — the weight lifts
+- 8-10s: Relaxed, leaning back — "haven't thought about scheduling since" — the relief is palpable
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 5. Before This I Was Using Spreadsheets
+## 5. The Stack Ranking
 
-**Vibe**: Cringe flashback to the old way, cut to clean dashboard — instant upgrade energy.
+**Vibe**: Casually ranking your SaaS tools — the product gets top billing.
 
-**Example Product**: Airtable
+**Example Product**: Figma
 
-- 0-3s: Screen shows a Google Sheet nightmare — 47 tabs, rows color-coded in five different systems, a column labeled "FINAL_v2_REAL_USE_THIS"
-- 3-5s: Person grimaces, dramatically clicks the X on the spreadsheet tab — "never again" energy
-- 5-8s: Opens Airtable — the exact same client data but in a gallery view with thumbnails, linked records, and a built-in form; kanban and calendar views in the sidebar
-- 8-10s: Expression melts from stressed to peaceful — shoulders drop, jaw unclenches, soft nod — the chaos is over
+- 0-3s: Sitting at desk, talking to camera — "my top 3 tools right now"
+- 3-6s: Counting on fingers: "Number three — solid. Number two — really great."
+- 6-8s: "Number one, and it's not close — Figma" — said with emphasis, full confidence
+- 8-10s: Nodding definitively — the ranking is final, the confidence in this ranking is unshakeable
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -111,46 +111,46 @@ Shot-by-shot breakdowns for all 15 SaaS UGC formats with example products filled
 
 ---
 
-## 8. Automations Running
+## 8. The Meeting That Could've Been
 
-**Vibe**: Screen recording of automations firing — satisfying domino effect.
+**Vibe**: Talking about time saved — the meeting/process the product eliminated entirely.
 
-**Example Product**: Make (formerly Integromat)
+**Example Product**: Zapier
 
-- 0-3s: Make scenario builder on screen — a new Typeform submission triggers the workflow; the first module lights up green
-- 3-6s: Chain reaction — data flows to HubSpot (contact created), then Slack (message posted to #new-leads), then SendGrid (welcome email sent)
-- 6-8s: Each module pulses green in sequence like dominoes — the execution log shows timestamps milliseconds apart
-- 8-10s: Final state: all modules green, execution complete — "1 operation, 4 actions, 0 errors" displayed; zero manual intervention
+- 0-3s: Person at desk, gesturing at an empty notebook — "we used to have a whole meeting for this every Monday"
+- 3-6s: Shaking head at the absurdity, leaning forward — how did they ever tolerate that
+- 6-8s: Holding up phone — "Zapier just handles it automatically now" — casual but emphatic
+- 8-10s: Satisfied shrug and smile — "got an hour of my life back every week" — the automation replaced an entire recurring meeting
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 9. Onboarding Speedrun
+## 9. The Walk-Away Test
 
-**Vibe**: Sign up to first value in under 60 seconds — it's that smooth.
+**Vibe**: Talking about how the tool works even when you're not paying attention — set it and forget it.
 
-**Example Product**: Vercel
+**Example Product**: HubSpot
 
-- 0-3s: Vercel.com landing page — cursor clicks "Start Deploying"; GitHub OAuth popup, one-click authorize
-- 3-7s: Import repo screen — selects a Next.js project; framework auto-detected, settings auto-configured — slightly sped up (1.5x)
-- 7-12s: "Deploy" button clicked — build log scrolls, green checkmarks cascade — preview URL goes live; the site is running
-- 12-15s: Person leans back from screen — deploy took 38 seconds; "that was it?" blink; clicks the preview link and their app loads instantly
+- 0-3s: Person at desk, gesturing at their closed laptop — "I set this up on Monday"
+- 3-6s: Hands up, backing away slightly — "haven't touched it since"
+- 6-8s: Impressed expression — "and HubSpot's been running the whole pipeline perfectly" — genuinely surprised by their own setup
+- 8-10s: Finger guns at camera — "that's how you know it's the right tool" — the tool earns trust by working silently
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 10. Slack Notification Moment
+## 10. The Coffee Machine Pitch
 
-**Vibe**: Integration notification pops in — genuine "oh nice" excitement.
+**Vibe**: Casually explaining the product like you're pitching it to a coworker at the coffee machine — informal, persuasive.
 
-**Example Product**: Stripe
+**Example Product**: Loom
 
-- 0-2s: Person at their desk, typing in VS Code, Slack open in a split on the right
-- 2-5s: Slack notification pops: "#revenue — Stripe: New payment received: $2,400 from Acme Corp" — their typing stops mid-keystroke
-- 5-8s: Eyes shift to the notification, eyebrows lift; clicks through to Stripe dashboard — MRR chart trending up with a clean hockey-stick curve
-- 8-10s: Quiet fist pump under the desk, satisfied nod — back to coding, but the energy is different now
+- 0-3s: Person standing in their kitchen holding a coffee mug, casual posture — "okay so basically…"
+- 3-6s: Hand gestures while explaining Loom in plain terms — no jargon, just simple language about what it does
+- 6-8s: "And the best part is it replaces half the meetings we used to have" — the killer feature, delivered casually
+- 8-10s: Sips coffee with a shrug — "just works" — the elevator pitch is effortless and convincing
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -171,16 +171,16 @@ Shot-by-shot breakdowns for all 15 SaaS UGC formats with example products filled
 
 ---
 
-## 12. Side by Side
+## 12. The Whiteboard Moment
 
-**Vibe**: Split screen of old way vs new way — no commentary needed, the visuals speak.
+**Vibe**: Scribbling on a whiteboard/notebook about the tool's impact — visual thinking, casual.
 
-**Example Product**: Loom
+**Example Product**: Airtable
 
-- 0-3s: Left side: someone typing a feedback email — 500 words deep, three annotated screenshots pasted inline; clock shows 18 minutes elapsed
-- 3-5s: Right side: same person clicking "Record" in Loom — face cam + screen share; talking naturally while circling elements on a design file
-- 5-8s: Left side: still typing, editing a paragraph for the third time; Right side: clicks "Stop Recording" — 2 minutes 14 seconds, transcript auto-generated
-- 8-10s: Left side: still drafting. Right side: the Loom link is already sent, recipient has viewed it, left a comment. Done.
+- 0-3s: Person standing at a small whiteboard in their office, marker in hand
+- 3-6s: Scribbling a quick rough sketch — "before" on one side, "after" on the other — messy, casual, not polished
+- 6-8s: Pointing at the "after" side and tapping it — "Airtable did this" — the proof is visual and simple
+- 8-10s: Stepping back, capping the marker — the messy whiteboard sketch says more than any demo could
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -201,28 +201,28 @@ Shot-by-shot breakdowns for all 15 SaaS UGC formats with example products filled
 
 ---
 
-## 14. The Tab I Never Close
+## 14. The Group Chat Moment
 
-**Vibe**: Showing browser tabs — this one's always open, casual flex.
+**Vibe**: Talking about how you introduced the product to your team/group chat — the viral spread.
 
-**Example Product**: Figma
+**Example Product**: Arc Browser
 
-- 0-3s: Chrome tab bar visible — Gmail, Google Docs, Jira, a YouTube tab (paused), a dozen others; cursor moves across them
-- 3-6s: Lands on the Figma tab — it's pinned, first position, the Figma "F" icon always visible; clicks into it
-- 6-8s: The design system opens — a component library, an active project file, a teammate's cursor moving in real-time (multiplayer dot visible)
-- 8-10s: Cursor moves back to another tab, starting other work — but Figma stays pinned, its tab glowing slightly; it never closes
+- 0-3s: Face to camera, amused — "I sent Arc Browser to our team Slack channel"
+- 3-6s: Expression shifts — "within a week every single person had switched"
+- 6-8s: Counting on fingers the converts — one by one, the whole team fell
+- 8-10s: Proud expression — "I'm basically their sales team at this point and they're not paying me" — the organic spread speaks louder than any ad
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 15. Team Sync Moment
+## 15. The Solo Celebration
 
-**Vibe**: Quick collaboration moment showing shared workspace — natural, not staged.
+**Vibe**: Small private celebration at desk — fist pump, chair spin — because the tool just saved the day.
 
-**Example Product**: Notion
+**Example Product**: Vercel
 
-- 0-3s: Two people at a desk, laptop between them — one has a coffee, the other a notebook open; a Notion doc is on screen
-- 3-6s: Person on the left points at a decision log row — "let's go with option B for the API redesign"; the other nods
-- 6-8s: Quick action — they update the Status column to "Decided," type "@engineering" in a comment, hit Enter
-- 8-10s: Both nod, the decision is captured and assigned — person on the right closes their notebook; aligned in under 30 seconds
+- 0-3s: Person at desk, looking at their laptop with tension on their face — waiting for the deployment
+- 3-6s: Expression shifts to relief, then excitement — the Vercel deployment went through perfectly
+- 6-8s: Small fist pump, a quick chair spin — private victory celebration, nobody else needs to see this
+- 8-10s: Composing themselves, leaning back cool — "all under control" — the tool saved the day

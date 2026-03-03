@@ -34,11 +34,11 @@ Completed prompt examples for each DTC format. Replace brand/product details wit
 
 ---
 
-## 4. Subscription Day
+## 4. The Ritual Spot
 
-**Product**: Blueland Cleaning Supplies
+**Product**: Oatly Barista Edition
 
-> Subscription day ritual. A person grabs the familiar Blueland refill package from their door. They sit down and open it with "it's that time of the month" excitement. They pull out each tablet refill — bathroom cleaner, glass cleaner, hand soap — showing each to the camera briefly. Everything laid out on the kitchen counter, a satisfying colorful spread. They're genuinely happy with what they got — especially since it all arrives in compostable packaging. Cozy home setting, natural light, recurring-customer energy, vertical video.
+> Camera on a kitchen counter corner — Oatly Barista Edition sitting naturally next to the coffee maker, a mug, and a small plant. It just lives there. A hand reaches in, grabs the carton, pours some into the coffee. Sets it back in its spot — part of the daily landscape. Kitchen, morning light, vertical video, permanent fixture energy. This counter wouldn't look right without it.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -54,11 +54,11 @@ Completed prompt examples for each DTC format. Replace brand/product details wit
 
 ---
 
-## 6. Gift Reaction
+## 6. The Repurchase Moment
 
-**Product**: Our Place Always Pan
+**Product**: Native Deodorant (Coconut & Vanilla)
 
-> A person handing the Our Place Always Pan (wrapped in the signature box) as a housewarming gift to their friend. The friend opens it — genuine surprise at the beautiful spice color and the included beechwood spatula. They immediately want to cook something — heating it up on the stove, admiring how it looks. Both people are smiling. The product makes a great gift and it shows. Kitchen counter, natural light, candid energy, vertical video. The friend keeps saying "this is so pretty."
+> A nearly empty Native Deodorant in Coconut & Vanilla on the bathroom counter, the tube clearly well-loved and almost done. A hand places the fresh replacement right next to it — pristine packaging, full product. Side-by-side moment — the battle-worn original and the brand new one. Tossing the old tube, sliding the new Native into its spot on the shelf — the cycle continues. Bathroom, natural light, vertical video, loyalty loop energy. Third repurchase and counting.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -74,31 +74,31 @@ Completed prompt examples for each DTC format. Replace brand/product details wit
 
 ---
 
-## 8. Expectation vs Reality
+## 8. The Smell Test
 
-**Product**: Brooklinen Sheets
+**Product**: Byredo Mojave Ghost
 
-> Expectation vs reality. A person shows Brooklinen's Classic Core Sheet Set on their phone screen — the website photo, perfectly styled bed, crisp white sheets. Quick cut to the real sheets on their actual bed. They compare — and it actually looks like the photo. "The sateen has this subtle sheen in person," "the white is actually bright white, not cream." Pleasantly surprised — the brand delivered on the promise. Honest, trustworthy energy. Bedroom, natural light, vertical video.
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
-
----
-
-## 9. The Collection
-
-**Product**: Aesop Hand Care Line
-
-> A collection showcase. Multiple Aesop products arranged on a bathroom shelf — Resurrection Aromatique Hand Wash, Hand Balm, and the Reverence Hand Wash. The person picks up each one, briefly showing the amber glass bottles. Then they demonstrate the routine — wash with the Resurrection, dry, apply the Balm. The collection makes sense as a system. Final shot of everything together on the marble shelf — cohesive, beautiful, the brand has range. Clean display, natural light, vertical video.
+> Holding the Byredo Mojave Ghost box, looking at it with curiosity. Opening it — pulling out the bottle, leaning in for the first smell. Face reaction — eyes close, slight smile, inhaling deeper. Nodding approvingly, holding the bottle up — the scent is everything. Clean surface, natural light, vertical video, sensory discovery energy. The woody violet ambrette scent hits perfectly.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 10. Packing an Order POV
+## 9. Counter Flat-Lay
 
-**Product**: Small candle brand
+**Product**: Aesop Reverence Aromatique Hand Wash
 
-> POV of packing a customer order for a small soy candle brand. Clean white workspace, an order slip visible. Hands carefully pick a hand-poured lavender candle and a matchbox, placing them in a kraft box. Tissue paper folded neatly, a branded wax seal sticker placed just right, a handwritten thank-you card tucked in. The box is sealed and a shipping label applied. Every detail is intentional — this is a brand that cares about the experience. ASMR packing energy, close-up hands, vertical video.
+> Overhead shot of a bathroom counter — a hand towel, a small ceramic dish with rings, a plant cutting in a glass. Aesop Reverence Hand Wash sits naturally in the arrangement, the amber pump bottle fitting the aesthetic. A hand enters frame and nudges the Aesop bottle slightly toward center. Final overhead — the curated but lived-in counter. Bathroom, natural overhead light, vertical video, everyday aesthetic energy. It looks like a magazine but it's just how they live.
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+## 10. The Texture Moment
+
+**Product**: Bellroy Note Sleeve Wallet
+
+> The Bellroy Note Sleeve Wallet sitting on a wooden desk, camera close. Hands pick it up, fingers running across the leather surface — feeling the texture, the slim profile, the weight. Turning it slowly, close-up of the stitching detail, the edge paint, the embossed logo. Setting it down gently — satisfied with the quality. Desk, natural light, vertical video, tactile quality check energy. The vegetable-tanned leather has a beautiful hand feel.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -124,11 +124,11 @@ Completed prompt examples for each DTC format. Replace brand/product details wit
 
 ---
 
-## 13. Apartment Tour Cameo
+## 13. The Shelf Moment
 
-**Product**: Brightland Olive Oil
+**Product**: Vitruvi Stone Diffuser
 
-> A casual apartment tour. A person walks through their space, showing off their setup — the gallery wall, the reading nook, the plant shelf. As they pass through the kitchen, a Brightland olive oil bottle and vinegar duo sit on the counter — visible in their natural spot among the salt, pepper, and cutting boards. They don't stop to highlight it — it's just there, living in the space. The product belongs. Casual home tour energy, natural light, walking steadicam feel, vertical video.
+> Camera on a styled bookshelf — art books stacked horizontally, a small succulent, a framed photo, and the Vitruvi Stone Diffuser in white porcelain sitting among them. The diffuser looks intentional — decorative object and functional product. Camera slowly pushes in toward the matte porcelain form. A hand reaches in and adjusts the top — turning it on, a soft wisp of mist beginning to rise. Warm room light, vertical video, curated shelf energy. It's the piece that ties the shelf together.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -144,10 +144,10 @@ Completed prompt examples for each DTC format. Replace brand/product details wit
 
 ---
 
-## 15. Side by Side Dupe Test
+## 15. The "Just One Thing" Buy
 
-**Product**: Bala Bangles vs generic ankle weights
+**Product**: Caraway Ceramic Frying Pan
 
-> Side-by-side comparison. Bala Bangles next to generic Velcro ankle weights from Amazon. The person tests both — wearing each during a walk, checking comfort, adjusting fit. They point out the differences honestly — "these dig into my skin, these feel like wearing a bracelet," "the Bala ones stay put without readjusting." Bala wins naturally through genuine comfort and design, not bias. The comparison is fair, which makes the conclusion trustworthy. Clean table for close-ups, living room for the walk test, vertical video.
+> A person face to camera, holding the Caraway Ceramic Frying Pan — "I told myself just one thing this month." Holding it up, showing the sage green ceramic coating — "and this was it." Explaining why — non-toxic coating, aesthetically gorgeous, replaces three old pans. Setting it on the kitchen counter with finality — money well spent. Kitchen, natural light, vertical video, intentional purchase energy. The restraint makes the choice feel more special.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

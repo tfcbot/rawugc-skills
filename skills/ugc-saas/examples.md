@@ -4,51 +4,51 @@ Completed prompt examples for each SaaS format. Replace product/feature details 
 
 ---
 
-## 1. Emotional Hook + Demo
+## 1. The Tool I Won't Shut Up About
 
-**Product**: Zapier
+**Product**: Linear
 
-> A person talking directly to camera with genuine frustration — "I was spending hours copying data between Google Sheets and our CRM every week." Their expression is relatable and tired. Quick cut to their laptop screen showing Zapier's dashboard. They click through a Zap that auto-syncs form submissions to the CRM — the problem gets solved in seconds. Cut back to their face — visible relief and satisfaction. The contrast between pain and solution tells the story. Desk setting, natural light, selfie angle, vertical video.
+> A person sitting at their desk, face to camera — "my team is genuinely sick of me talking about this." Gesturing while explaining what Linear does in plain terms, getting more animated about the specific thing that makes it different. Leaning in with genuine conviction — "seriously just try it." Home office, natural light, vertical video, passionate recommendation energy. The enthusiasm is real, not sponsored.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 2. Desk Setup ft. Product
+## 2. Desk Tour Namecheck
 
 **Product**: Notion
 
-> An aesthetic desk tour. Clean workspace — ultrawide monitor, mechanical keyboard, coffee, a small pothos plant. The camera pans slowly across the setup, settling on the monitor where Notion is open — showing a project board with tasks in columns: Backlog, In Progress, Done. A person sits down and starts working naturally. Notion isn't the focus — it's just part of a well-curated workspace. Warm lighting, vertical video, aesthetic productivity vibes. A second monitor shows Slack in the background.
+> Camera panning across a clean home office desk — monitor, mechanical keyboard, coffee mug, a plant. Hand pointing at items casually. Hand gestures toward the laptop — "and Notion basically lives here permanently." Leaning back in the chair, hands behind head — the setup is dialed. Home office, natural light, vertical video, desk tour energy. Everything on this desk was chosen intentionally.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 3. Workflow ASMR
+## 3. The Laptop Close
 
 **Product**: Monday.com
 
-> A satisfying screen recording of Monday.com in action. A cursor moves smoothly through the clean interface — clicking, dragging, organizing. Moving cards across a kanban board, changing statuses with colorful dropdowns, triggering an automation that sends a Slack notification. Each click is satisfying, each transition smooth. No voiceover, no music — just the zen of a well-designed tool doing its job. The final state is clean and organized. Screen recording style, vertical video.
+> A person at their desk, typing final keystrokes with a satisfied expression. Leaning back and stretching, glancing at the clock — done earlier than expected thanks to Monday.com keeping everything on track. Reaching forward and slowly closing the laptop lid — satisfying click. Standing up and grabbing their coffee mug, heading out. Home office, afternoon light, vertical video, end-of-day satisfaction energy. The tool did its job so they could finish theirs.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 4. The 5pm Dashboard
+## 4. The "Before This Tool" Rant
 
-**Product**: HubSpot
+**Product**: Calendly
 
-> End of workday. A person leans back in their desk chair, stretching, then glances at their laptop. HubSpot's dashboard is open showing this week's metrics — 23 deals progressed, 8 closed-won, $47K pipeline added. The numbers are impressive. Close-up of the dashboard, key metrics highlighted in green. They lean back with a satisfied, quiet "we did that" expression. Closes the laptop. Natural home office lighting, golden hour, vertical video. A team Slack celebration is visible on a second monitor.
+> A person face to camera with an exasperated expression — recounting the scheduling nightmare before Calendly. Counting frustrations on their fingers — the back-and-forth emails, the timezone confusion, the double-bookings. Expression shifts to visible relief — "and then I found Calendly." Relaxed, leaning back — "haven't thought about scheduling since." Home office, natural light, vertical video, before-and-after storytelling energy. The relief is palpable.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 5. Before This I Was Using Spreadsheets
+## 5. The Stack Ranking
 
-**Product**: Airtable
+**Product**: Figma
 
-> A person grimacing at a chaotic spreadsheet on their screen — messy rows, confusing color codes, three tabs called "FINAL_v2_REAL." They dramatically close the tab. Opens Airtable instead — the same client data but in a clean gallery view with linked records and built-in forms. Their expression shifts from stressed to peaceful. The spreadsheet era is over. Split between laptop screen and face reactions, natural light, vertical video. The kanban and calendar views are visible in the sidebar.
+> A person sitting at their desk, talking to camera — "my top 3 tools right now." Counting on fingers: "Number three — solid. Number two — really great." Then with emphasis — "Number one, and it's not close — Figma." Nodding definitively, the ranking is final. Home office, natural light, vertical video, hot take energy. The confidence in this ranking is unshakeable.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -74,31 +74,31 @@ Completed prompt examples for each SaaS format. Replace product/feature details 
 
 ---
 
-## 8. Automations Running
+## 8. The Meeting That Could've Been
 
-**Product**: Make (formerly Integromat)
+**Product**: Zapier
 
-> A satisfying screen recording of Make's automation in action. It starts with a trigger — a new Typeform submission comes in. Then automations cascade: the lead gets added to HubSpot, a Slack notification fires in the sales channel, a personalized welcome email sends via SendGrid, and a row gets added to the tracking sheet. Each step happens automatically, one after another like dominoes. The final state shows everything updated — zero manual intervention. Clean, efficient, mesmerizing. Screen recording, vertical video.
+> A person at their desk, gesturing at an empty notebook — "we used to have a whole meeting for this every Monday." Shaking their head at the absurdity, leaning forward. Holding up their phone — "Zapier just handles it automatically now." Satisfied shrug and smile — "got an hour of my life back every week." Home office, natural light, vertical video, time-saved celebration energy. The automation replaced an entire recurring meeting.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 9. Onboarding Speedrun
+## 9. The Walk-Away Test
 
-**Product**: Vercel
+**Product**: HubSpot
 
-> Speedrun of Vercel onboarding. Starting from the landing page — clicking "Start Deploying." The onboarding flow is quick and clean — GitHub connect, select repo, framework auto-detected. Slightly sped up. Within moments they're watching their first deploy go live — green checkmark, preview URL ready. They lean back, genuinely impressed by how fast they went from zero to production. Screen recording mixed with face reactions, vertical video. The deploy took 38 seconds.
+> A person at their desk, gesturing at their closed laptop — "I set this up on Monday." Hands up, backing away slightly — "haven't touched it since." Impressed expression — "and HubSpot's been running the whole pipeline perfectly." Finger guns at camera — "that's how you know it's the right tool." Home office, natural light, vertical video, set-it-and-forget-it energy. The tool earns trust by working silently.
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 10. Slack Notification Moment
+## 10. The Coffee Machine Pitch
 
-**Product**: Stripe
+**Product**: Loom
 
-> A person working at their desk. A Slack notification pops up from the Stripe integration — "New payment received: $2,400 from Acme Corp." They read it, eyebrows raise — genuinely impressed. They click through to the Stripe dashboard to see the full payment detail and the monthly recurring revenue chart trending upward. Satisfied nod. The integration works silently in the background and surfaces wins. Natural desk setting, screen visible, vertical video. The MRR chart shows a nice hockey-stick curve.
+> A person standing in their kitchen holding a coffee mug, casual posture — "okay so basically…" Hand gestures while explaining Loom in plain terms — no jargon, just simple language. "And the best part is it replaces half the meetings we used to have." Sips coffee with a shrug — "just works." Kitchen, morning light, vertical video, watercooler pitch energy. The elevator pitch is effortless and convincing.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -114,11 +114,11 @@ Completed prompt examples for each SaaS format. Replace product/feature details 
 
 ---
 
-## 12. Side by Side
+## 12. The Whiteboard Moment
 
-**Product**: Loom
+**Product**: Airtable
 
-> Split-screen comparison. On one side: the old way of giving async feedback — typing a 500-word email with annotated screenshots, taking 20 minutes. On the other side: Loom handling the same task — recording a 2-minute video walking through the design file with cursor and voice. The contrast speaks for itself. The email is still being typed while the Loom is already sent and viewed. No voiceover needed. Clean split-screen composition, vertical video.
+> A person standing at a small whiteboard in their office, marker in hand. Scribbling a quick rough sketch — "before" on one side, "after" on the other. Pointing at the after side and tapping it — "Airtable did this." Stepping back and capping the marker — the proof is simple and visual. Home office, natural light, vertical video, visual thinker energy. The messy whiteboard sketch says more than any demo could.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -134,20 +134,20 @@ Completed prompt examples for each SaaS format. Replace product/feature details 
 
 ---
 
-## 14. The Tab I Never Close
+## 14. The Group Chat Moment
 
-**Product**: Figma
+**Product**: Arc Browser
 
-> Close-up of a browser with multiple tabs open. The cursor moves across them — Gmail, Google Docs, Jira. Then it lands on Figma — pinned tab, always open. Quick glance at the design system with components and a project file in progress. The person moves on to other work, but Figma stays pinned. It's the tab that never closes — always running, always useful. Screen recording style with slight face cam, vertical video. The Figma multiplayer cursors show a teammate also working in the file.
+> A person face to camera, amused — "I sent Arc Browser to our team Slack channel." Expression shifts — "within a week every single person had switched." Counting on fingers the converts. Proud expression — "I'm basically their sales team at this point and they're not paying me." Home office, natural light, vertical video, grassroots evangelism energy. The organic spread speaks louder than any ad.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 15. Team Sync Moment
+## 15. The Solo Celebration
 
-**Product**: Slack + Notion
+**Product**: Vercel
 
-> Two coworkers casually looking at a Notion doc on a laptop screen together. One points at a decision log entry — "we should go with option B for the API." The other nods. A quick action — they update the status to "Decided" and @mention the engineering lead in a comment. They're aligned in seconds. The vibe is efficient collaboration, not a formal meeting. Natural office or coworking space, candid energy, vertical video. Coffee cups on both sides of the laptop.
+> A person at their desk, looking at their laptop with tension on their face. Expression shifts to relief, then excitement — the Vercel deployment went through perfectly. Small fist pump, a quick chair spin — private victory celebration. Composing themselves and leaning back cool — "all under control." Home office, natural light, vertical video, small-win celebration energy. The tool saved the day and nobody needs to know there was ever a worry.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

@@ -4,11 +4,11 @@ Completed prompt examples for each mobile app format. Replace app/feature detail
 
 ---
 
-## 1. POV You Just Downloaded
+## 1. Phone in Hand Reaction
 
 **App**: Notion
 
-> POV of someone opening Notion for the first time on their phone. Their thumb taps the app icon, the app loads. The camera captures both the phone screen and their face — genuine curiosity turning into pleasant surprise as they explore the template gallery. They scroll naturally, discovering the workspace feature organically. The reaction is authentic, not performative. Bedroom or couch setting, natural light, vertical video. The clean interface and pre-built templates immediately impress them.
+> A person sitting on their couch, phone in hand, casually tapping. Their expression shifts — eyebrows raise, mouth opens slightly, genuinely impressed by what they see. They look up at the camera with a "wait, seriously?" expression, holding the phone up with the screen facing away from camera. Nodding slowly, looking back at the phone — completely convinced. Natural living room light, vertical video, authentic reaction energy. The excitement is understated but real.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -24,81 +24,81 @@ Completed prompt examples for each mobile app format. Replace app/feature detail
 
 ---
 
-## 3. Dark Mode Tour
+## 3. The Morning Phone Grab
 
-**App**: Spotify
+**App**: Headspace
 
-> Late night scene — a person lying in bed in a dim room, the glow of their phone illuminating their face. They're slowly scrolling through Spotify in dark mode. The clean, dark UI is visible as they tap through different features — Discover Weekly, Daily Mixes, their recently played. They look content, relaxed, lost in the app. The vibe is late-night phone scroll before sleep. Dim lighting, vertical video, intimate. Headphones on, one earbud out.
+> A nightstand with a phone, hand reaching from under the covers to grab it. Squinting at the brightness, adjusting. A few taps and their expression softens — the calm of opening Headspace first thing. Sitting up in bed, phone in hand, a peaceful start. Bedroom morning light, vertical video, quiet ritual energy. The routine clearly starts here every day.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 4. Before/After My Workflow
+## 4. The Couch Scroll
+
+**App**: Pinterest
+
+> A person lounged on their couch, legs up on the armrest, phone held at a comfortable angle. Scrolling with their thumb through Pinterest, face showing genuine interest, occasionally pausing. Small reactions — a smile at an idea, a head tilt at an image, an exhaled laugh. They shift position to get more comfortable, still fully engaged. Living room, warm afternoon light, vertical video, cozy scroll energy. This is the happy place.
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+## 5. Told a Friend About It
+
+**App**: Splitwise
+
+> A person face-to-camera, casual energy — like they're telling a story. Gesturing while explaining, holding their phone casually in one hand. Amused expression — "and now they won't stop using it." Holding the phone up with a knowing look — the recommendation that stuck. Natural light, vertical video, word-of-mouth storytelling energy. Splitwise has clearly become the friend group's go-to.
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+## 6. The "I Forgot How I Lived Without This" Moment
 
 **App**: Todoist
 
-> Split before/after scene. BEFORE: a person surrounded by sticky notes, a messy spreadsheet on their laptop, looking frustrated and overwhelmed. Quick swipe transition. AFTER: the same person looking at Todoist on their phone — clean, organized interface showing their project boards with color-coded priorities. They lean back with a relieved, satisfied expression. Everything is handled. Natural office/desk lighting, vertical video. The sticky notes are gone from the monitor.
+> A person talking to camera, slight headshake — genuine disbelief. Holding their phone and gesturing at it, explaining casually how Todoist changed their routine. Emphatic expression — "it just handles everything for me now." Setting the phone down and leaning back — can't go back to the old way. Natural light, sitting at desk, vertical video, honest testimonial energy. The conviction is real, not scripted.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 5. Notification Storytelling
+## 7. Phone Flat on Table
 
-**App**: Mint (budgeting)
+**App**: Calm
 
-> A phone sitting on a table buzzes with a notification from Mint — the banner shows "You've reached your savings goal of $5,000!" A hand picks up the phone, the person reads it with a surprised expression. They open the app and see their savings chart trending upward. They look up at the camera with genuine "wait, this actually works" energy. Natural setting, vertical video, candid reaction. Their jaw drops slightly seeing the milestone.
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
-
----
-
-## 6. Hidden Feature Reveal
-
-**App**: Google Maps
-
-> A person holding their phone with Google Maps open, a knowing smile on their face like they're about to share a secret. They navigate through the app to the "Immersive View" feature — zooming into a 3D aerial view of a restaurant they're considering. When they find it, their expression shifts to genuine excitement. They tap through it, exploring the photorealistic 3D environment. The vibe is "I can't believe more people don't know about this." Close-up of phone and face, vertical video, natural light.
+> A person sets their phone face-up on the kitchen table, taps once, pulls their hands away. They go about making tea while the phone sits there — Calm running in the background. Glances at the phone with a satisfied nod — it's doing its thing. Picks it up briefly, smiles, sets it back down. Kitchen, warm light, vertical video, effortless background energy. The app works without demanding attention.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 7. 60-Second Setup
+## 8. Charging Nightstand
 
-**App**: Arc Browser
+**App**: Kindle (app)
 
-> Speedrun of setting up Arc Browser. Starting from the app store — tapping download, watching it install. Opening the app, breezing through sign-up (slightly sped up). Then the first real action — creating their first Space, pinning favorite tabs, customizing the sidebar. Everything happens fast and smooth. The person leans back with an impressed "that was it?" expression. The message is effortless onboarding. Screen recording energy, vertical video. The sidebar design immediately feels different from other browsers.
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
-
----
-
-## 8. Day in My Life ft. App
-
-**App**: Strava
-
-> A "day in my life" vlog where Strava appears naturally throughout. Morning: person checks their training plan while sipping coffee at their kitchen counter. Midday: they use the route feature during a lunch run, phone strapped to arm. Evening: they review their pace splits and weekly mileage on the couch. The app isn't the star — it's a natural part of their day. Vlog transitions, multiple settings, natural light, vertical video. Their running shoes sit by the door in the last shot.
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
-
----
-
-## 9. Rage Quit to Calm
-
-**App**: Calendly
-
-> A person visibly frustrated — sighing at their laptop, rubbing their temples, dealing with a 15-email-deep scheduling back-and-forth. They pick up their phone and open Calendly with skeptical, last-resort energy. The app loads — clean, intuitive interface. Their expression softens immediately. Within seconds they've sent a booking link that handles everything. Visible relief. The contrast between frustration and calm is the story. Desk setting, natural light, vertical video.
+> A nightstand scene — a hand places the phone on a wireless charger pad. The person looks at the phone one last time with a content expression — done reading on Kindle for the night. Reaches for the bedside lamp and clicks it off. Settling into bed, the phone's subtle charging light glowing in the dim room. Warm bedroom light transitioning to darkness, vertical video, end-of-day ritual energy. The reading session was the perfect wind-down.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 10. Screenshot Flex
+## 9. Waiting Room Scroll
 
-**App**: Apple Health / Fitness
+**App**: Duolingo
 
-> A person holding their phone, navigating to the fitness summary section of Apple Health. They turn the phone toward the camera to show their monthly step count of 350,000 steps and a 45-day move streak. Their expression is quietly proud — a slight smile, a subtle nod. They let the numbers speak for themselves. No over-the-top reaction, just genuine satisfaction. Natural setting, vertical video. The green and red rings are all closed for the month.
+> A person sitting in a waiting room chair, slightly bored expression, looking around. They pull out their phone and start using Duolingo — expression brightens immediately. Completely absorbed, small smiles at what they're doing, boredom completely gone. They look up briefly as if their name was called, putting the phone away reluctantly. Bright waiting room, vertical video, productive dead-time energy. The five-minute lesson fit perfectly.
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+## 10. Coffee Shop Phone Moment
+
+**App**: Spotify
+
+> A coffee shop table — a latte in one hand, phone in the other. Sipping coffee while scrolling through Spotify, relaxed expression. Setting the coffee down, both thumbs on the phone, leaning in with interest — found the perfect playlist. Leaning back satisfied, coffee shop ambiance surrounding them. Warm cafe light, vertical video, curated moment energy. The music and the coffee are the whole vibe.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -114,40 +114,40 @@ Completed prompt examples for each mobile app format. Replace app/feature detail
 
 ---
 
-## 12. Widget Check
+## 12. The Double Tap
 
-**App**: Weather (Carrot Weather)
+**App**: Venmo
 
-> A phone home screen with Carrot Weather's widget visible among other apps. The person glances at the widget showing today's forecast — 72°F, sunny, snarky comment from the app. They set the phone down and go about their day. Later, they pick it up again — the widget has updated with an afternoon rain warning. A quick satisfied glance. The app is passively useful, always there without demanding attention. Natural daily settings, vertical video. The sarcastic weather descriptions make them smirk.
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
-
----
-
-## 13. Duo Reaction
-
-**App**: Be Real
-
-> Two friends sitting together on a couch. One hands their phone to the other, showing them BeReal for the first time. The friend starts exploring — their eyebrows raise, they start tapping through the dual-camera feature and friends' posts, getting more impressed with each screen. They look up from the phone with a "why didn't you show me this sooner" expression. Genuine reaction, natural chemistry between friends. Living room, casual setting, vertical video. They immediately take their first BeReal together.
+> A person pulls their phone from their back pocket confidently. Quick, purposeful taps — they know exactly what they're doing in Venmo. Done in seconds — slips the phone back in their pocket with a satisfied nod. Carries on with what they were doing, hands free, task complete. Natural light, vertical video, quick-draw efficiency energy. The payment took literally five seconds.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 14. The Thing That Replaced
+## 13. Bedtime Last App
 
-**App**: Linear (replacing Jira)
+**App**: Reddit
 
-> A person on their phone briefly showing Jira — maybe scrolling past it, the cluttered interface visible. Then they open Linear and do the same task — creating an issue — but smoother, cleaner, faster. They navigate through the keyboard-first interface naturally. At the end, a casual shrug and slight smile — they switched and haven't looked back. No dramatic comparison, just a natural evolution. Close-up phone view, vertical video, natural light. The minimal UI speaks for itself.
+> A person lying in bed, warm dim lamp light, phone held above their face. Gentle scrolling through Reddit, sleepy but engaged expression. Eyes getting heavy but still looking at the phone with a small smile at something they read. The phone slowly drops to their chest as their eyes close — drifting off mid-scroll. Bedroom, warm dim light, vertical video, late-night scroll energy. The classic "just one more thread" moment.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 15. Lock Screen Peek
+## 14. Phone Face-Down Focus
 
-**App**: Slack
+**App**: TikTok
 
-> A phone sitting face-up on a table. A notification from Slack slides onto the lock screen — "Sarah: The client approved the proposal!" A hand reaches for the phone, reads it, and unlocks to open the app. The app shows the full message thread with team celebrations. Quick, satisfied interaction. The app is working in the background, surfacing things that matter. Clean desk or table setting, natural light, vertical video. They type a quick emoji reaction and set the phone back down.
+> A person working at their desk, phone beside them. They deliberately flip the phone face-down — focus time. After working for a beat, they flip it back over with reward energy. Using TikTok briefly with a satisfied smile — they earned this break. Desk setup, natural light, vertical video, work-reward balance energy. The face-down flip is a whole ritual.
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+## 15. The AirPod Tap
+
+**App**: Audible
+
+> A person standing in their kitchen, AirPods in, one hand reaches up to double-tap the AirPod. Listening intently, expression softening — absorbed in what they're hearing on Audible. Nodding along, a small smile at a passage. Double-taps the AirPod again to bookmark, keeps going about their morning — hands-free, seamless. Kitchen, morning light, vertical video, audio-first experience energy. The book is clearly gripping.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

@@ -14,21 +14,21 @@ Completed prompt examples for each B2C format. Replace brand/product details wit
 
 ---
 
-## 2. A Day With This
+## 2. The Desk Companion
 
-**Product**: AirPods Pro
+**Product**: Yeti Rambler 20oz Tumbler
 
-> A day-in-the-life featuring AirPods Pro. Morning: popping them in while making breakfast, listening to a podcast. Midday: noise cancellation on during a busy coffee shop work session, focus mode activated. Evening: transparency mode on while walking the dog, hearing the neighborhood. End of day — case sitting on the nightstand, charging. The product is always there but never the focus — it's just part of a real day. Multiple settings, natural light transitions, vlog energy, vertical video.
+> A clean desk setup — mechanical keyboard, monitor, a small plant, and the Yeti Rambler 20oz Tumbler in Charcoal sitting naturally to the right. A person working, hand casually reaches for the Yeti, takes a sip through the straw lid. Sets it back down without looking, continues typing — completely seamless. Wide shot of the desk — the Rambler belongs in this workspace. Home office, natural light, vertical video, desk companion energy. It's been sitting there all day and it's still ice cold.
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 3. The Comparison
+## 3. The First Touch
 
-**Product**: Yeti Rambler vs Hydro Flask
+**Product**: Apple AirPods Max
 
-> Honest product comparison. Yeti Rambler 26oz next to Hydro Flask 24oz. A person examines both — checking the powder coat finish, the lid mechanism, the weight in hand. They test both with ice water over a work day — same amount of ice, same starting temp. The comparison is fair and honest. Yeti wins on ice retention by two hours and the lid doesn't leak in a bag — not forced, just demonstrated. Clean kitchen counter, good lighting for comparison, vertical video.
+> Apple AirPods Max sitting on a desk in their case. Hands approach and pick them up for the first time — feeling the weight of the aluminum cups, the mesh headband tension. Turning them over, examining the Digital Crown, the anodized finish. An impressed nod — the build quality is undeniable. Setting them down with care on the desk — first impression locked in. Desk, natural light, vertical video, first-touch discovery energy. The premium weight says everything.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -54,13 +54,13 @@ Completed prompt examples for each B2C format. Replace brand/product details wit
 
 ---
 
-## 6. Setup Timelapse
+## 6. The One Detail
 
-**Product**: IKEA KALLAX Shelf Unit
+**Product**: Bellroy Classic Backpack
 
-> Setup timelapse of an IKEA KALLAX shelf. Starting with the flat-pack box — opening, removing all the panels and hardware. Assembly sped up 2-3x — laying out pieces, hammering in wooden dowels, screwing panels together, the satisfying moment the shelf stands upright. When it's fully assembled, the video slows to normal speed. The finished shelf against a wall — bins and books placed inside. First step back to admire. Satisfying start-to-finish progression. Living room, natural light, vertical video.
+> The Bellroy Classic Backpack sitting on a bench. Camera pushes in close to the magnetic clasp closure — the satisfying snap mechanism. A finger presses the clasp open and closed, demonstrating the smooth magnetic connection. "This right here" energy. Pull back to the full backpack — but now the clever clasp is all you notice. Natural light, vertical video, design-detail obsession energy. The small things separate good products from great ones.
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -84,11 +84,11 @@ Completed prompt examples for each B2C format. Replace brand/product details wit
 
 ---
 
-## 9. Family Test
+## 9. The Friend Text
 
 **Product**: Dyson Airwrap
 
-> Family product test. A person introduces the Dyson Airwrap to their mom and sister. Mom tries the smoothing brush attachment — genuine surprise at how it tames her frizz without heat damage. Sister tries the curling barrels — different hair type, both impressed. No coaching, no retakes. The reactions range from "this is sorcery" to "I need my own immediately." The family test is the ultimate credibility check. Bathroom setting, good mirror lighting, multiple reactions, vertical video.
+> A person face to camera, holding the Dyson Airwrap in one hand and phone in the other — "I literally just texted my best friend about this." Holding the Airwrap up, explaining what makes it worth every penny — the attachments, the results, the time saved. Gesturing at their phone — "she's already ordering one." Satisfied expression, holding the Airwrap — the genuine word-of-mouth moment. Bathroom, natural light, vertical video, recommendation energy. When you find something good, you share it.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -114,11 +114,11 @@ Completed prompt examples for each B2C format. Replace brand/product details wit
 
 ---
 
-## 12. Durability Check
+## 12. The Restock Click
 
 **Product**: Patagonia Better Sweater
 
-> Durability check. A person showing a Patagonia Better Sweater after two years of heavy use — weekend hikes, camping trips, daily fall/winter wear. They point out how it's held up — "no pilling on the fleece," "the zipper still works perfectly," "the color hasn't faded." They demonstrate the fleece is still soft and warm. The message: this product is built to last. The patina of real use makes it look even better. Close-up details of the fleece texture, natural light, vertical video.
+> A person holding their well-worn Patagonia Better Sweater — clearly loved, softened from years of wear. Glancing at it with an immediate decision — "yep, getting another." Casually tapping their phone to reorder, no browsing alternatives, no comparing — they know what they want. Setting the sweater down with a satisfied nod — the loyalty is automatic. Bedroom, natural light, vertical video, rebuy-without-thinking energy. When it's this good, research is unnecessary.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -134,11 +134,11 @@ Completed prompt examples for each B2C format. Replace brand/product details wit
 
 ---
 
-## 14. POV You Own This
+## 14. The Nightstand Essential
 
-**Product**: Aeropress Coffee Maker
+**Product**: Kindle Paperwhite
 
-> First-person POV of making morning coffee with an Aeropress. The camera IS the person. Hands reach for the Aeropress on the kitchen counter. Scooping coffee, pouring hot water, stirring for 10 seconds, pressing down — the satisfying resistance and hiss of the plunge. Pouring the concentrate into a mug, adding hot water for an Americano. First sip — steam rising. Setting the mug down and moving on to the day. The message: this is what mornings feel like with this product — simple, ritualistic, good. POV camera, natural movements, vertical video.
+> A nightstand scene — warm lamp, a half-read book, phone on charger, and the Kindle Paperwhite. A hand reaches for the Kindle, picks it up, opens the cover — the screen illuminates. A moment of reading, comfortable and settled. Sets it back on the nightstand within arm's reach. Settling back into the pillows — the Kindle is the last thing before sleep. Bedroom, warm lamp light, vertical video, nightstand essential energy. The e-reader has permanently replaced the phone for bedtime.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 

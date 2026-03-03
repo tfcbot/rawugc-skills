@@ -11,18 +11,18 @@ Quick-lookup shot lists for all 20 skincare UGC formats. For full prompt templat
 | 1 | GRWM ASMR Routine | Hands reach for product → Dispense onto fingertips → Apply to face, slow circles → Mirror, satisfied look | 10 |
 | 2 | Shelfie Tour | Pan across shelf → Hand picks up product → Sets back, picks another → Returns to hero product | 10 |
 | 3 | Texture Porn | Squeeze onto hand → Finger swirls through texture → Spread on skin, absorption → Subtle glow, bottle in bg | 10 |
-| 4 | Morning Routine Speedrun | Splash water (2x speed) → Rapid cleanser/toner/serum → Hero product at normal speed → Fresh face, grab keys | 15 |
+| 4 | Product on Wet Skin | Steamy bathroom, damp face → Squeeze product onto fingertips → Pat and press into damp skin → Dewy hydrated finish | 10 |
 | 5 | Night Routine Wind-Down | Lamp-lit bathroom, candle → Tap bottle (ASMR), open → Slow application, eyes closed → Settle into bed, glowing | 10 |
 | 6 | Skin Check-In Vlog | Face close to camera, no makeup → Gesture at skin areas → Hold up product casually → Apply while talking | 10 |
 | 7 | This or That | Both hands hold a product each → Look back and forth playfully → Put one down, hold hero → Open and apply, case closed | 10 |
 | 8 | Empty Jar Reveal | Scrape last bit from empty jar → Show it's truly empty → Reveal brand new replacement → First scoop from fresh jar | 10 |
 | 9 | Fridge Skincare | Open mini-fridge → Reveal organized products, cold mist → Select hero product → Press chilled product to cheek | 10 |
-| 10 | Ingredient Decoded | Hold bottle, flip to back → Point at key ingredient → Tap ingredient emphatically → Flip to front, apply | 10 |
-| 11 | 3-Step Only | Three products lined up → Quick apply product 1 → Quick apply product 2 → Hero product gets lingering apply → Fresh face | 15 |
+| 10 | Skincare Stash Close-Up | Overhead flat-lay of products → Hand enters, centers hero product → Camera pushes in toward product → Pick up and hold above flat-lay | 10 |
+| 11 | The Double Cleanse | Pump oil cleanser into palm → Massage oil into face, dissolving texture → Rinse, then hero water cleanser lather → Pat dry, bare clean skin | 10 |
 | 12 | Sunscreen Reapply | Pull product from bag (car/outdoors) → Check face in mirror → Pat sunscreen over makeup → Nod, toss back in bag | 10 |
-| 13 | Skin Diary | Day 1 bare skin close-up → Day 7 same angle → Day 14 improvement → Day 30 glow + smile, product in bg | 15 |
+| 13 | The Pat-In Technique | Dispense product into palm, knowing look → Press palms together, press into face → Fingertips patting into cheeks and forehead → Glowing absorbed finish | 10 |
 | 14 | No-Makeup Makeup Prep | Bare clean face → Layer toner, serum → Hero product application → Dewy glass skin result, admire | 10 |
-| 15 | Unpacking Haul | Open package on bed → Pull products one by one → Hero product excited reaction, open/smell → First swatch | 10 |
+| 15 | Vanity Shelfie Restock | Vanity with gap where product was → Place fresh product into empty spot → Adjust surrounding products → Step back, admire restocked vanity | 10 |
 | 16 | Travel Minis | Open suitcase, toiletry bag → Select from collection → Hero product goes straight in → Zip up, ready | 10 |
 | 17 | Slugging Routine | Bedroom night, pajamas → Generous thick layer application → Close-up glistening sheen → Lie back, cozy glow | 10 |
 | 18 | Maskimize | Apply sheet mask → Lounge on couch, scroll phone → Peel off, plump skin → Product visible on coffee table | 10 |

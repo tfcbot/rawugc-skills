@@ -36,31 +36,31 @@ Shot-by-shot breakdowns for all 15 supplement UGC formats with example products 
 
 ---
 
-## 3. Smoothie Build
+## 3. The Scoop Close-Up
 
-**Vibe**: Making a smoothie, casually adding the supplement — blending, taste reaction.
+**Vibe**: Satisfying close-up of scooping powder — the scoop dips in, comes out full, taps on the rim.
 
-**Example Product**: Vital Proteins Collagen Peptides
+**Example Product**: AG1 Athletic Greens
 
-- 0-3s: Counter spread: frozen blueberries in a bowl, a banana, a carton of almond milk, a bag of spinach, ice
-- 3-5s: Dropping ingredients into the blender one by one — banana snapped in half, berries poured, a glug of almond milk, a fistful of spinach
-- 5-7s: Scooping two scoops of Vital Proteins Collagen Peptides from the blue tub — the white powder falling into the blender on top of the berries
-- 7-10s: Lid on, blend for 5 seconds, pour into a glass — deep purple color; first sip through a straw, genuine nod — "you can't taste it at all, it just dissolves"
+- 0-3s: Open AG1 pouch on the kitchen counter, camera tight on the green powder surface — the fine texture and color filling the frame
+- 3-6s: The scoop dips in, fills up completely, and lifts out — the fine green powder catching the light, a satisfying full scoop with no spillage
+- 6-8s: A tap on the rim to level it off — clean and precise, excess powder falling back into the pouch
+- 8-10s: Pouring into a glass, the powder cascading down with satisfying weight — the green cloud settling into the water below
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 4. What I Take and Why
+## 4. The Cabinet Pull
 
-**Vibe**: Pointing at each bottle, one sentence each — casual education, no lecture.
+**Vibe**: Opening the supplement cabinet, pulling out the product — it has its own spot, front and center.
 
-**Example Product**: Seed DS-01 Synbiotic
+**Example Product**: Thorne Magnesium Bisglycinate
 
-- 0-2s: Five supplement bottles on the bathroom counter in a row, person standing behind them, selfie-style
-- 2-5s: Pointing at the first bottle — "fish oil, for my brain." Second — "vitamin D, because I live indoors." Third — "magnesium, for sleep."
-- 5-7s: Reaching the green Seed DS-01 jar, picking it up — "this is my gut health non-negotiable. It's the only probiotic that survived my research rabbit hole — clinically studied strains, not just filler."
-- 7-10s: Sets it back down, steps back — "that's my stack. Nothing crazy, just what actually works for me." Casual, no lecture.
+- 0-3s: Hand wraps around the kitchen cabinet handle and pulls the door open — the interior comes into view
+- 3-6s: Supplements organized inside on the shelf — various bottles and jars lined up; Thorne Magnesium Bisglycinate sits front and center, clearly the most-used bottle
+- 6-8s: Hand reaches past the other bottles and grabs the Thorne bottle with purpose — a decisive pull, no hesitation
+- 8-10s: Closes the cabinet, holds the bottle in frame — this is the daily essential; the placement said everything about the hierarchy
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -156,16 +156,16 @@ Shot-by-shot breakdowns for all 15 supplement UGC formats with example products 
 
 ---
 
-## 11. Reading the Label
+## 11. The Palm Display
 
-**Vibe**: Flipping the bottle, pointing at key ingredients — "this is actually clean."
+**Vibe**: Capsules/pills in an open palm — showing what you actually take, the physical ritual.
 
 **Example Product**: Nordic Naturals Ultimate Omega
 
-- 0-3s: Holding the Nordic Naturals bottle, flipping it around to show the Supplement Facts panel — the camera gets close enough to read the text
-- 3-6s: Index finger lands on "1280mg Omega-3s" — "that's actually a clinical dose, most brands are half this"; taps it twice
-- 6-8s: Finger moves to the form — "triglyceride form, not ethyl ester — this is the one your body actually absorbs"; then points to the IFOS 5-star rating on the front
-- 8-10s: Flips the bottle back to the front — "no artificial flavors, third-party tested, and the lemon coating means no fish burps" — satisfied expression; this one passes the label test
+- 0-3s: Open palm over a clean kitchen counter — hand relaxed, fingers slightly spread, the surface below clean and minimal
+- 3-6s: Tipping the Nordic Naturals Ultimate Omega bottle — soft gel capsules falling into palm, one, two — the amber capsules landing with a soft tap
+- 6-8s: Close-up of the amber soft gels in palm — the concentrated fish oil visible through the translucent casing, the size and shape clear
+- 8-10s: Quick toss into mouth, chase with a glass of water — done, daily ritual complete; two capsules and the omega-3s are handled for the day
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -216,15 +216,15 @@ Shot-by-shot breakdowns for all 15 supplement UGC formats with example products 
 
 ---
 
-## 15. Vs My Old Brand
+## 15. The Water Drop
 
-**Vibe**: Holding old brand and new side by side — explaining the switch honestly.
+**Vibe**: Dropping powder/liquid supplement into water — watching it dissolve, swirl, transform.
 
-**Example Product**: Momentous Creatine vs generic GNC brand
+**Example Product**: LMNT Electrolytes (Citrus Salt)
 
-- 0-3s: Holding the old GNC creatine tub in the left hand, the Momentous tub in the right — both facing camera, labels visible
-- 3-6s: Flipping the GNC bottle to the back — "artificial sweeteners, fillers, and the sourcing is unclear"; flipping Momentous — "single ingredient: Creapure monohydrate, NSF Certified for Sport"
-- 6-8s: "I was paying $25 for 60 servings of questionable quality versus $40 for 60 servings I can actually trust — the math made sense once I read the labels"
-- 8-10s: Setting the GNC tub off to the side, pulling Momentous front and center — the decision is made, no going back; honest, fact-based, no brand-bashing
+- 0-3s: A clear glass of water on a white kitchen counter, LMNT Citrus Salt packet beside it — the bright packaging contrasting the clean surface
+- 3-6s: Tearing the packet open and pouring the powder into the water — the yellow-orange powder hitting the surface and beginning to dissolve on contact
+- 6-8s: Watching the swirl of citrus color spread through the clear water — mesmerizing diffusion, the orange plume expanding outward from the center
+- 8-10s: A quick stir with a spoon, lifting the glass — the water now a uniform bright citrus color, ready to drink; the transformation from plain water to electrolyte drink is oddly beautiful
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

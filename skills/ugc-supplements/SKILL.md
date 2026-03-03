@@ -65,35 +65,35 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 3. Smoothie Build
+### 3. The Scoop Close-Up
 
-**Vibe**: Making a smoothie, casually adding the supplement — blending, taste reaction.
+**Vibe**: Satisfying close-up of scooping powder — the scoop dips in, comes out full, taps on the rim.
 
 **Structure**:
-- 0-3s: Ingredients on counter — fruit, milk, ice
-- 3-5s: Dropping ingredients into blender one by one
-- 5-7s: Adding [PRODUCT] — a scoop or pour, the key addition
-- 7-10s: Blending, pouring into glass, first sip, genuine taste reaction
+- 0-3s: Open tub of [PRODUCT], camera close on the powder surface
+- 3-6s: Scoop dips in, fills up, lifts out — powder visible, satisfying full scoop
+- 6-8s: Taps the scoop on the rim to level it off — clean, precise
+- 8-10s: Pours into shaker/glass, powder falling in slow motion energy
 
 **Prompt Template**:
-> Smoothie making scene. A kitchen counter with [SMOOTHIE INGREDIENTS — e.g. banana, berries, almond milk, ice]. A person drops each ingredient into a blender. Then they add [PRODUCT] from [BRAND] — [FORMAT, e.g. a scoop of powder, a pour of liquid]. They blend it, pour into a glass. First sip — genuine reaction. The supplement blends in naturally, both literally and as part of the routine. Bright kitchen, vertical video. [ADDITIONAL DETAILS].
+> Satisfying scoop close-up. An open tub of [PRODUCT] from [BRAND], camera tight on the powder surface. The scoop dips in, fills up completely, and lifts out — [POWDER DESCRIPTION, e.g. fine green powder, white creatine crystals] catching the light. A tap on the rim to level it off — clean and precise. Pouring into a [VESSEL — shaker, glass], the powder cascading down with satisfying weight. Kitchen counter, natural light, vertical video, ASMR scoop energy. The ritual is as important as the supplement. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 4. What I Take and Why
+### 4. The Cabinet Pull
 
-**Vibe**: Pointing at each bottle, one sentence each — casual education, no lecture.
+**Vibe**: Opening the supplement cabinet, pulling out [PRODUCT] — it has its own spot, front and center.
 
 **Structure**:
-- 0-2s: All supplement bottles on counter or shelf
-- 2-5s: Pointing at first bottle — quick one-liner explanation
-- 5-7s: Pointing at [PRODUCT] — slightly more detail, it matters most
-- 7-10s: Last bottle, done — "that's my stack"
+- 0-3s: Hand opens a kitchen cabinet or medicine cabinet
+- 3-6s: Supplements visible inside, organized — [PRODUCT] is front and center
+- 6-8s: Hand reaches past others and grabs [PRODUCT] with purpose
+- 8-10s: Closes cabinet, holds [PRODUCT] — this is the one
 
 **Prompt Template**:
-> A person standing in front of their supplement lineup, casually explaining each one. They point at each bottle with a one-liner — [QUICK EXPLANATIONS, e.g. "this for energy," "this for gut health"]. When they reach [PRODUCT] from [BRAND], they spend a beat longer — [WHY THIS ONE MATTERS]. They finish with a casual "that's my stack." No lecture energy — just sharing what works for them. Kitchen or bathroom counter, natural light, selfie angle, vertical video. [ADDITIONAL DETAILS].
+> Cabinet supplement reveal. A hand opens a [CABINET TYPE — kitchen cabinet, medicine cabinet] — supplements organized inside on the shelf. [PRODUCT] from [BRAND] sits front and center, clearly the most-used bottle. Hand reaches past the others and grabs [PRODUCT] with purpose. Closes the cabinet, holds the bottle — this is the daily essential. [SETTING], natural light, vertical video, medicine cabinet reveal energy. The placement says everything about the hierarchy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -201,18 +201,18 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 11. Reading the Label
+### 11. The Palm Display
 
-**Vibe**: Flipping the bottle, pointing at key ingredients — "this is actually clean."
+**Vibe**: Capsules/pills in an open palm — showing what you actually take, the physical ritual.
 
 **Structure**:
-- 0-3s: Holding [PRODUCT], flipping to the back — supplement facts panel
-- 3-6s: Pointing at specific ingredients, reading key ones aloud
-- 6-8s: Nodding at what's NOT on the label — no fillers, no junk
-- 8-10s: Flipping back to front, satisfied — "this is clean"
+- 0-3s: Open palm, empty, clean surface below
+- 3-6s: Tipping [PRODUCT] bottle, capsules falling into palm — one, two, three
+- 6-8s: Close-up of the capsules in palm — color, size, shape visible
+- 8-10s: Quick toss into mouth, chase with water — done, daily ritual complete
 
 **Prompt Template**:
-> A person examining [PRODUCT] from [BRAND]. They flip the bottle to show the supplement facts panel. They point at key ingredients — [KEY INGREDIENTS] — nodding approvingly. They also note what's absent — [CLEAN LABEL NOTES, e.g. "no artificial sweeteners," "no fillers," "third-party tested"]. They flip the bottle back to the front with a satisfied expression — this passes the label test. Close-up, readable label, natural light, vertical video. [ADDITIONAL DETAILS].
+> Supplement palm display. Open palm over a clean [SURFACE — kitchen counter, table]. Tipping the [PRODUCT] from [BRAND] bottle — [CAPSULE/PILL DESCRIPTION, e.g. soft gel capsules, white tablets] falling into palm, [COUNT]. Close-up of the [CAPSULES/PILLS] in palm — [VISUAL DETAIL, e.g. the amber soft gels, the white round tablets]. Quick toss into mouth, chase with a glass of water — done, daily ritual complete. [SETTING], [LIGHTING — morning light, natural light], vertical video, supplement ritual energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -269,17 +269,17 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 15. Vs My Old Brand
+### 15. The Water Drop
 
-**Vibe**: Holding old brand and new side by side — explaining the switch honestly.
+**Vibe**: Dropping powder/liquid supplement into water — watching it dissolve, swirl, transform.
 
 **Structure**:
-- 0-3s: Holding two bottles — old brand in one hand, [PRODUCT] in the other
-- 3-6s: Comparing them — label, ingredients, form factor
-- 6-8s: Explaining what made them switch — better ingredients, results, value
-- 8-10s: Setting old one aside, keeping [PRODUCT] — decision made
+- 0-3s: Clear glass of water on a surface, [PRODUCT] beside it
+- 3-6s: Pouring/dropping the supplement into water — the moment of contact
+- 6-8s: Watching it dissolve, swirl, change the water's color — mesmerizing
+- 8-10s: Stirring once, lifting the glass — ready to drink
 
 **Prompt Template**:
-> Brand comparison. A person holds [OLD BRAND SUPPLEMENT] in one hand and [PRODUCT] from [BRAND] in the other. They compare — [COMPARISON POINTS, e.g. "this one has fillers, this one doesn't," "I was paying more for less with the old one," "the dosage is actually effective here"]. They explain why they switched — honest, not brand-bashing, just facts. They set the old one aside and keep [PRODUCT]. Decision made. Good lighting for label readability, vertical video. [ADDITIONAL DETAILS].
+> Satisfying supplement dissolve. A clear glass of water on a [SURFACE — white counter, wooden table], [PRODUCT] from [BRAND] beside it. [ACTION — tearing the packet open, scooping the powder] and pouring into the water — [POWDER/LIQUID DESCRIPTION] hitting the surface and beginning to dissolve. Watching the swirl of [COLOR] spread through the clear water — mesmerizing diffusion. A quick stir with a spoon, lifting the glass — ready to drink. Kitchen, bright natural light, vertical video, satisfying dissolve energy. The transformation from plain water to [RESULT] is oddly beautiful. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

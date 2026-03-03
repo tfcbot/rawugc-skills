@@ -51,16 +51,16 @@ Shot-by-shot breakdowns for all 15 DTC UGC formats with example products filled 
 
 ---
 
-## 4. Subscription Day
+## 4. The Ritual Spot
 
-**Vibe**: Monthly box arrives — ritual of opening it, what's inside this time.
+**Vibe**: Showing where the product lives in your home — its permanent spot, part of the furniture now.
 
-**Example Product**: Blueland Cleaning Supplies
+**Example Product**: Oatly Barista Edition
 
-- 0-3s: Walking to the front door, picking up the slim Blueland mailer from the doormat — the familiar blue packaging
-- 3-6s: Sitting at the kitchen table, tearing the compostable mailer open — "it's refill day"
-- 6-8s: Pulling out tablet refills one by one — bathroom cleaner (purple), glass cleaner (blue), hand soap (green) — holding each up briefly, the colors are satisfying
-- 8-10s: All tablets laid out on the counter in a neat row, ready to drop into their forever bottles — "love that this is all the packaging there is"
+- 0-3s: Camera on a kitchen counter corner — the coffee maker, a ceramic mug, a small potted plant, morning light catching the surface
+- 3-6s: Oatly Barista Edition sitting there naturally among the items — the tall carton fits the scene, not staged, just where it always is
+- 6-8s: A hand reaches in, grabs the carton casually, pours oat milk into the coffee — easy, practiced, no hesitation
+- 8-10s: Sets the Oatly back in its spot next to the coffee maker — part of the daily landscape; this counter wouldn't look right without it
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -81,16 +81,16 @@ Shot-by-shot breakdowns for all 15 DTC UGC formats with example products filled 
 
 ---
 
-## 6. Gift Reaction
+## 6. The Repurchase Moment
 
-**Vibe**: Giving the product to someone and capturing their genuine reaction.
+**Vibe**: Showing the new one arriving right as the old one runs out — timing, loyalty, routine.
 
-**Example Product**: Our Place Always Pan
+**Example Product**: Native Deodorant (Coconut & Vanilla)
 
-- 0-3s: Handing the Our Place box across a kitchen island to a friend — it's a housewarming gift, the signature sage-colored box
-- 3-6s: Friend opens the box, lifts out the Always Pan in Spice — eyes widen at the color, immediately feels the weight, discovers the beechwood spatula nested inside
-- 6-8s: Friend puts it straight on the stove, turning on the burner — "can we use it right now?" — already reaching for ingredients
-- 8-10s: Both people grinning, the friend keeps running their hand over the ceramic surface — "this is so pretty" — the gift landed
+- 0-3s: A nearly empty Native Deodorant in Coconut & Vanilla on the bathroom counter — the tube twisted all the way up, barely any product left, clearly well-loved
+- 3-6s: A hand places the fresh replacement right next to it — pristine packaging, full product, same scent; the contrast is immediate
+- 6-8s: Side-by-side moment — the battle-worn original with its scuffed label and the brand new one still sealed; loyalty visualized
+- 8-10s: Tossing the old tube into the recycling, sliding the new Native into its spot on the bathroom shelf — the cycle continues; third repurchase and counting
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -111,46 +111,46 @@ Shot-by-shot breakdowns for all 15 DTC UGC formats with example products filled 
 
 ---
 
-## 8. Expectation vs Reality
+## 8. The Smell Test
 
-**Vibe**: Website photo vs in-hand — honest comparison that lands positive.
+**Vibe**: Opening the product and smelling it — genuine sensory reaction, face tells the whole story.
 
-**Example Product**: Brooklinen Sheets
+**Example Product**: Byredo Mojave Ghost
 
-- 0-3s: Phone screen showing the Brooklinen website — perfectly styled bed, crisp white Classic Core sheets, golden-hour lighting
-- 3-5s: Quick cut to the actual sheets on their real bed — same white, slightly rumpled from use
-- 5-8s: Running a hand across the sateen fabric — "the sheen is actually real," pulling the corner to show the deep pocket, checking the tag — it matches the website specs
-- 8-10s: Pleasantly surprised nod — "honestly looks better in person because the sateen has more weight than I expected" — trust earned
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
-
----
-
-## 9. The Collection
-
-**Vibe**: Showing multiple products from the same brand — how they work as a system.
-
-**Example Product**: Aesop Hand Care Line
-
-- 0-3s: Three Aesop amber glass bottles arranged on a white marble bathroom shelf — Resurrection Aromatique Hand Wash, Reverence Hand Wash, and the Hand Balm
-- 3-6s: Picking up each one in sequence — "this is the everyday wash," "this is the exfoliating one for deeper clean," "this goes on after"
-- 6-8s: Demonstrating the routine — pump of Resurrection, wash, dry, then a dot of the Balm rubbed into hands — the system in action
-- 8-10s: Final shot of all three back on the marble shelf — amber glass, black text, white marble; cohesive, beautiful, the brand has a clear vision
+- 0-3s: Holding the Byredo Mojave Ghost box, looking at it with curiosity — turning it over, reading the notes on the back
+- 3-6s: Opening the box, pulling out the bottle — minimalist glass design; leaning in for the first smell, spraying once on the wrist
+- 6-8s: Face reaction — eyes close, slight smile, inhaling deeper; the woody violet ambrette combination hits immediately
+- 8-10s: Nodding approvingly, holding the bottle up to camera — the scent is everything; this is the one
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 10. Packing an Order POV
+## 9. Counter Flat-Lay
 
-**Vibe**: Brand-side content — satisfying packing process, ASMR energy.
+**Vibe**: Overhead shot of the product in its natural habitat — styled but real, the everyday aesthetic.
 
-**Example Product**: Small soy candle brand
+**Example Product**: Aesop Reverence Aromatique Hand Wash
 
-- 0-3s: Clean white workspace, a handwritten order slip pinned to a cork board, empty kraft box centered on the table
-- 3-6s: Hands pick up a hand-poured lavender candle in a ceramic vessel, wrap it in tissue paper, place it in the box; a matchbox goes beside it
-- 6-8s: Folding tissue paper over the top, pressing a gold wax-seal sticker to close it, tucking a handwritten thank-you card along the edge
-- 8-10s: Close the box, tape it with branded kraft tape, peel a shipping label and press it flat — the package is ready; every detail intentional
+- 0-3s: Overhead shot of a bathroom counter — a folded hand towel, a small ceramic dish with rings, a plant cutting in a clear glass; the surface is lived-in but curated
+- 3-6s: Aesop Reverence Hand Wash sits naturally in the arrangement — the amber pump bottle fitting the warm aesthetic, not centered but present
+- 6-8s: A hand enters frame and nudges the Aesop bottle slightly toward center — a subtle adjustment, the composition tightens
+- 8-10s: Final overhead — the curated but lived-in counter; it looks like a magazine but it's just how they live
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+## 10. The Texture Moment
+
+**Vibe**: Close-up of the product's material/texture/finish — tactile, sensory, satisfying detail.
+
+**Example Product**: Bellroy Note Sleeve Wallet
+
+- 0-3s: The Bellroy Note Sleeve Wallet sitting on a wooden desk, camera close — the vegetable-tanned leather catches the natural light
+- 3-6s: Hands pick it up, fingers running across the leather surface — feeling the texture, the slim profile, the weight; the leather is soft but structured
+- 6-8s: Turning it slowly in hands — close-up of the stitching detail, the clean edge paint, the embossed Bellroy owl logo on the back
+- 8-10s: Setting it down gently on the desk — satisfied with the quality; the vegetable-tanned leather has a beautiful hand feel
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -186,16 +186,16 @@ Shot-by-shot breakdowns for all 15 DTC UGC formats with example products filled 
 
 ---
 
-## 13. Apartment Tour Cameo
+## 13. The Shelf Moment
 
-**Vibe**: Home tour where the product just lives naturally in the space.
+**Vibe**: Product on a styled shelf among other objects — it belongs in this curated world.
 
-**Example Product**: Brightland Olive Oil
+**Example Product**: Vitruvi Stone Diffuser
 
-- 0-3s: "Quick tour of my place" energy — starting in the living room, panning across the gallery wall and reading nook
-- 3-6s: Moving through the apartment — showing the plant shelf, the desk setup, the bedroom with its made bed
-- 6-8s: Passing through the kitchen — on the counter next to the salt cellar and cutting board, a Brightland olive oil bottle and vinegar duo sit naturally; the camera doesn't pause on them
-- 8-10s: Continuing past to the balcony — the Brightland was just there, part of the apartment, not a feature; it belongs
+- 0-3s: Camera on a styled bookshelf — art books stacked horizontally, a small succulent in a terra cotta pot, a framed photo leaning against the books
+- 3-6s: The Vitruvi Stone Diffuser in white porcelain sits among them — the matte form looks intentional, a decorative object that happens to be functional
+- 6-8s: Camera slowly pushes in toward the diffuser, centering the porcelain form — the matte texture and minimal shape draw the eye
+- 8-10s: A hand reaches in and adjusts the top — turning it on, a soft wisp of mist beginning to rise; it's the piece that ties the shelf together
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -216,15 +216,15 @@ Shot-by-shot breakdowns for all 15 DTC UGC formats with example products filled 
 
 ---
 
-## 15. Side by Side Dupe Test
+## 15. The "Just One Thing" Buy
 
-**Vibe**: Comparing product to a mainstream alternative — honest, fair, real.
+**Vibe**: Talking to camera about buying just this one thing — disciplined, intentional purchase.
 
-**Example Product**: Bala Bangles vs generic ankle weights
+**Example Product**: Caraway Ceramic Frying Pan
 
-- 0-3s: Both products on a clean counter — Bala Bangles in sage on the left, generic black Velcro ankle weights from Amazon on the right
-- 3-6s: Testing the generic first — strapping it on, the Velcro catches on legging fabric, the weight distribution feels uneven, adjusting it twice
-- 6-8s: Switching to Bala — the silicone-wrapped design slips on cleanly, the weight is evenly distributed, the clasp is magnetic and stays put through movement
-- 8-10s: Standing side by side comparison: "these dig in, these feel like wearing a bracelet" — Bala wins on comfort and design; the comparison was fair, making the conclusion trustworthy
+- 0-3s: A person face to camera, holding the Caraway Ceramic Frying Pan — "I told myself just one thing this month"; the sage green pan is held up beside their face
+- 3-6s: Holding it up, showing the ceramic coating, the wooden handle detail — "and this was it"; genuine pride in the choice
+- 6-8s: Explaining why this was the pick — non-toxic ceramic coating, aesthetically gorgeous sage green, replaces three old scratched-up pans; thoughtful, not impulsive
+- 8-10s: Setting it on the kitchen counter with finality — money well spent; the restraint makes the choice feel more special
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

@@ -82,20 +82,20 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 4. Morning Routine Speedrun
+### 4. Product on Wet Skin
 
-**Vibe**: Sped-up morning skincare routine in 15 seconds — real bathroom, natural light.
+**Vibe**: Applying product right after shower on damp skin — the steam, the absorption, the glow.
 
 **Structure**:
-- 0-4s: Quick splash of water on face (sped up 2x)
-- 4-8s: Rapid application of cleanser, toner, serum (each ~1.5s)
-- 8-12s: [PRODUCT] application — slows to normal speed for this one, hero moment
-- 12-15s: Final look in mirror, fresh-faced, grabbing keys and heading out
+- 0-3s: Bathroom mirror, steam still lingering, person's face is freshly washed and damp
+- 3-6s: Squeeze [PRODUCT] onto fingertips, the texture visible against wet skin
+- 6-8s: Pat and press into damp face — the product melts in instantly on the wet surface
+- 8-10s: Close-up of the dewy, hydrated finish — skin drinks it up
 
 **Prompt Template**:
-> A person speedrunning their morning skincare routine in a bright bathroom. Everything is slightly sped up — splashing water, applying cleanser, patting on toner. When they reach [PRODUCT], the video slows to normal speed, highlighting the application moment. They look fresh and glowing. The energy is fun, efficient, relatable. Smartphone quality, vertical, natural light. [ADDITIONAL DETAILS].
+> A person in a steamy bathroom, face freshly washed and still damp. They squeeze [PRODUCT] onto their fingertips — the [TEXTURE — e.g. rich cream, lightweight serum, whipped balm] texture visible against wet skin. They pat and press it into their damp face, the product melting instantly into the wet surface. Close-up of the dewy, hydrated finish — the skin drinks it up completely. Warm bathroom light, vertical video, post-shower glow energy. [ADDITIONAL DETAILS].
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -184,38 +184,37 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 10. Ingredient Decoded
+### 10. Skincare Stash Close-Up
 
-**Vibe**: Casual explainer pointing at ingredient list — "this is the one that actually works."
+**Vibe**: Overhead flat-lay of your current skincare stash — curated, aesthetic, personal.
 
 **Structure**:
-- 0-3s: Holding product bottle, flipping it to show the back/ingredients
-- 3-6s: Finger pointing at a specific ingredient on the label
-- 6-8s: Tapping the ingredient name emphatically, nodding
-- 8-10s: Flips bottle back to front, applies product, confident expression
+- 0-3s: Overhead shot of products arranged on a marble or wood surface
+- 3-6s: Hand enters frame, rearranges slightly, centering [PRODUCT]
+- 6-8s: Camera slowly pushes in toward [PRODUCT], the star of the collection
+- 8-10s: Hand picks up [PRODUCT], holds it above the flat-lay — hero moment
 
 **Prompt Template**:
-> A person holding [PRODUCT] and flipping it around to show the ingredient list on the back. They point at a specific ingredient — [KEY INGREDIENT, e.g. niacinamide, hyaluronic acid] — tapping it with their finger and nodding knowingly. They flip the bottle back to the front and start applying the product. The vibe is casual education, like telling a friend a secret. Natural light, vertical video, close-up. [ADDITIONAL DETAILS].
+> Overhead flat-lay shot of a curated skincare collection on a [SURFACE — e.g. white marble, wood tray, linen cloth] surface — toner, moisturizer, SPF, and [PRODUCT] arranged naturally. A hand enters the frame and nudges [PRODUCT] toward the center. The camera slowly pushes in toward [PRODUCT]. The hand picks it up and holds it above the flat-lay — the clear winner. Natural light, vertical video, aesthetic flat-lay energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 11. 3-Step Only
+### 11. The Double Cleanse
 
-**Vibe**: "My entire routine is 3 products" — minimal routine flex.
+**Vibe**: Two-step cleansing ritual — oil cleanser dissolving makeup, then water cleanser, satisfying clean feeling.
 
 **Structure**:
-- 0-2s: Three products lined up on counter, clean and minimal
-- 2-5s: Pick up first product, quick application, set down
-- 5-8s: Second product, same energy
-- 8-12s: Third product is [PRODUCT], slightly longer application — the star
-- 12-15s: Fresh face, done. That's it. Simple.
+- 0-3s: Person at bathroom sink, pumping oil cleanser into palm
+- 3-6s: Massaging oil into face, close-up of the satisfying dissolving texture
+- 6-8s: Rinse off, then [PRODUCT] water cleanser — lather and gentle wash
+- 8-10s: Pat face dry with towel, bare clean skin, fresh and squeaky
 
 **Prompt Template**:
-> Three skincare products lined up neatly on a clean bathroom counter. A person picks up each one in sequence and applies it quickly — cleanser, then toner, then [PRODUCT]. The application of [PRODUCT] lingers slightly longer, the hero of the routine. They finish and look at the camera with a fresh, glowing face. The message is simplicity — this is all you need. Minimal, clean aesthetic, vertical video, natural light. [ADDITIONAL DETAILS].
+> A person at their bathroom sink pumping an oil cleanser into their palm. They massage it into their face — close-up of the oil breaking down and dissolving. They rinse, then pump [PRODUCT] and work up a gentle lather. Soft circular motions, the [TEXTURE — e.g. gel-to-foam, creamy, milky] texture visible. They pat their face dry with a towel — bare, clean, fresh skin. Bathroom setting, natural light, vertical video, satisfying cleansing ritual energy. [ADDITIONAL DETAILS].
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -236,21 +235,20 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 13. Skin Diary
+### 13. The Pat-In Technique
 
-**Vibe**: Sequence showing skin over days/weeks — no pressure, just documenting.
+**Vibe**: Focused on the application technique — gentle patting vs rubbing, satisfying skin contact sounds.
 
 **Structure**:
-- 0-3s: Day 1 — close-up of bare skin, natural light, no filter
-- 3-6s: Day 7 — same angle, same lighting, subtle changes visible
-- 6-9s: Day 14 — clearer improvement, same framing
-- 9-12s: Day 30 — noticeable glow, person touches face and smiles
-- 12-15s: [PRODUCT] bottle shown casually on counter in background
+- 0-3s: Product dispensed into palm, person looking at camera knowingly
+- 3-6s: Pressing palms together to warm the product, then pressing into face
+- 6-8s: Close-up of fingertips gently patting product into cheeks and forehead — rhythmic, satisfying
+- 8-10s: Pull back to show the glowing, absorbed finish — technique matters
 
 **Prompt Template**:
-> A skin transformation diary. Close-up of a person's bare face on Day 1 — natural light, no makeup, honest. The same shot repeats for Day 7, Day 14, and Day 30, each time showing gradual improvement in skin clarity and glow. The framing stays consistent. On the final frame, the person touches their face and smiles. [PRODUCT] is visible on the bathroom counter in the background — never the focus, just present. Vertical video, documentary style. [ADDITIONAL DETAILS].
+> A person dispensing [PRODUCT] into their palm, looking at the camera with a knowing expression. They press their palms together to warm the product, then press it into their face. Close-up of fingertips gently patting [PRODUCT] into their cheeks and forehead — rhythmic, satisfying tapping. Pull back to show the glowing, absorbed finish — the technique makes all the difference. Bathroom vanity, natural light, vertical video. [ADDITIONAL DETAILS].
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -271,18 +269,18 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 15. Unpacking Haul
+### 15. Vanity Shelfie Restock
 
-**Vibe**: Opening a skincare delivery, first impressions, genuine reactions.
+**Vibe**: Restocking your vanity — removing empty, placing new. Satisfying organization moment.
 
 **Structure**:
-- 0-3s: Package on table/bed, hands pulling tape, opening box
-- 3-6s: Pulling out products one by one, holding each up briefly
-- 6-8s: [PRODUCT] gets an excited reaction — opening it immediately, smelling it
-- 8-10s: First swatch on hand, genuine "ooh" expression
+- 0-3s: Vanity counter with a gap where a product used to be, other products flanking the empty spot
+- 3-6s: Hand places fresh [PRODUCT] into the empty spot — satisfying fit
+- 6-8s: Adjusting surrounding products to frame it perfectly, organizing the vanity
+- 8-10s: Step back to admire the restocked, curated vanity — everything in its place
 
 **Prompt Template**:
-> A person sitting on their bed opening a skincare delivery package. They pull products out one by one, holding each up to the camera. When they get to [PRODUCT], their face lights up — they immediately open it, smell it, and swatch it on the back of their hand. Genuine excitement, not performative. Natural bedroom lighting, vertical video, real unboxing energy. [ADDITIONAL DETAILS].
+> A bathroom vanity counter with a visible gap where a product used to live, other skincare products flanking the empty spot. A hand places a fresh [PRODUCT] into the gap — it fits perfectly. They adjust the surrounding products to frame it beautifully, organizing the vanity with intention. Step back to admire the restocked, curated counter — everything in its place. Soft bathroom lighting, vertical video, satisfying organization energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 

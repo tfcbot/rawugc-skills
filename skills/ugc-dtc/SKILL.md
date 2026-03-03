@@ -82,18 +82,18 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 4. Subscription Day
+### 4. The Ritual Spot
 
-**Vibe**: Monthly box arrives — ritual of opening it, what's inside this time.
+**Vibe**: Showing where the product lives in your home — its permanent spot, part of the furniture now.
 
 **Structure**:
-- 0-3s: Walking to door or mailbox, picking up the familiar package
-- 3-6s: Sitting down, opening it — "it's that time again" energy
-- 6-8s: Pulling items out one by one, showing each briefly
-- 8-10s: Everything laid out, satisfied with the haul, ready to use
+- 0-3s: Camera on a specific spot — kitchen counter, bathroom shelf, desk corner
+- 3-6s: [PRODUCT] sitting there naturally among everyday items
+- 6-8s: Hand reaches in and uses/interacts with it casually
+- 8-10s: Puts it back in its spot — it lives here, part of the daily landscape
 
 **Prompt Template**:
-> Subscription day ritual. A person grabs the familiar [BRAND] package from their door. They sit down and open it with "it's that time of the month" excitement. They pull out each item — [ITEMS] — showing each to the camera briefly. Everything laid out on the table, a satisfying spread. They're genuinely happy with what they got. Cozy home setting, natural light, recurring-customer energy, vertical video. [ADDITIONAL DETAILS].
+> Camera on a specific spot in the home — [LOCATION, e.g. kitchen counter corner, bathroom shelf, desk edge]. [PRODUCT] from [BRAND] sitting there naturally among everyday items — [SURROUNDING ITEMS]. It just lives there. A hand reaches in, grabs it, [INTERACTION, e.g. uses it, pours some, applies a bit]. Sets it back in its spot — part of the daily landscape. [ROOM], natural light, vertical video, permanent fixture energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -116,18 +116,18 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 6. Gift Reaction
+### 6. The Repurchase Moment
 
-**Vibe**: Giving [PRODUCT] to someone and capturing their genuine reaction.
+**Vibe**: Showing the new one arriving right as the old one runs out — timing, loyalty, routine.
 
 **Structure**:
-- 0-3s: Handing a wrapped or boxed [PRODUCT] to someone
-- 3-6s: They open it — genuine surprise, reading the label, examining it
-- 6-8s: Trying it or using it for the first time — real reaction
-- 8-10s: Both people happy — the gift was a hit
+- 0-3s: Nearly empty [PRODUCT] on counter, clearly well-used
+- 3-6s: Hand places the fresh replacement right next to the old one
+- 6-8s: Side-by-side comparison — the battle-worn original and the pristine new one
+- 8-10s: Tossing the old one, sliding the new one into its spot — the cycle continues
 
 **Prompt Template**:
-> A person handing [PRODUCT] from [BRAND] as a gift to [RECIPIENT — e.g. friend, partner, parent]. The recipient opens it — genuine surprise and curiosity. They examine it, read the label, then try it or use it. Their reaction is authentic — impressed, happy, grateful. Both people are smiling. The product makes a great gift and it shows. Living room or kitchen, natural light, candid energy, vertical video. [ADDITIONAL DETAILS].
+> A nearly empty [PRODUCT] from [BRAND] on the counter, clearly well-loved and almost done. A hand places the fresh replacement right next to it — pristine packaging, full product. Side-by-side moment — the battle-worn original and the brand new one. Tossing the old one, sliding the new [PRODUCT] into its spot — the cycle continues. [ROOM], natural light, vertical video, loyalty loop energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -150,52 +150,52 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 8. Expectation vs Reality
+### 8. The Smell Test
 
-**Vibe**: Website photo vs in-hand — honest comparison that lands positive.
+**Vibe**: Opening the product and smelling it — genuine sensory reaction, face tells the whole story.
 
 **Structure**:
-- 0-3s: Showing the product on website/phone screen — the marketing version
-- 3-5s: Transition to the real product in hand
-- 5-8s: Side-by-side comparison energy — "actually looks like the photo"
-- 8-10s: Pleasantly surprised nod — it delivered
+- 0-3s: Holding [PRODUCT], unopened, looking at it with curiosity
+- 3-6s: Opening it — first peek inside, leaning in to smell
+- 6-8s: Face reaction — eyes close, slight smile, inhaling deeper
+- 8-10s: Nodding approvingly, holding it up — the scent is everything
 
 **Prompt Template**:
-> Expectation vs reality. A person shows [PRODUCT] from [BRAND] on their phone screen — the website photo, polished and professional. Quick cut to the real product in their hands. They compare — and it actually matches. [COMPARISON DETAILS, e.g. "the color is accurate," "the quality is even better in person"]. Pleasantly surprised — the brand delivered on the promise. Honest, trustworthy energy. Natural light, vertical video. [ADDITIONAL DETAILS].
+> Holding [PRODUCT] from [BRAND], looking at it with curiosity. Opening it — [OPENING ACTION, e.g. pulling out the bottle, unscrewing the cap, unwrapping]. Leaning in for the first smell. Face reaction — eyes close, slight smile, inhaling deeper. Nodding approvingly, holding it up — the scent is everything. Clean surface, natural light, vertical video, sensory discovery energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 9. The Collection
+### 9. Counter Flat-Lay
 
-**Vibe**: Showing multiple products from the same brand — how they work as a system.
+**Vibe**: Overhead shot of [PRODUCT] in its natural habitat — styled but real, the everyday aesthetic.
 
 **Structure**:
-- 0-3s: All [BRAND] products laid out together — flat lay or shelf display
-- 3-6s: Picking up each one, brief description of its role
-- 6-8s: Showing how they work together — a routine, a combo, a system
-- 8-10s: Full collection shot, "this brand just gets it" energy
+- 0-3s: Overhead shot of a counter/surface with everyday items
+- 3-6s: [PRODUCT] sits naturally in the arrangement, not centered but present
+- 6-8s: Hand enters frame, adjusts [PRODUCT] slightly toward center
+- 8-10s: Final overhead — the curated but lived-in flat-lay
 
 **Prompt Template**:
-> A collection showcase. Multiple products from [BRAND] arranged on a counter or shelf — [PRODUCT LIST]. The person picks up each one, briefly showing it. Then they demonstrate how they work together — [SYSTEM/ROUTINE, e.g. "cleanser then serum then moisturizer," "the full kit for mornings"]. The collection makes sense as a system. Final shot of everything together — cohesive, well-designed, the brand has range. Clean display, natural light, vertical video. [ADDITIONAL DETAILS].
+> Overhead shot of a [SURFACE, e.g. bathroom counter, kitchen counter, desk] — [SURROUNDING ITEMS, e.g. a hand towel, a small ceramic dish, a plant cutting]. [PRODUCT] from [BRAND] sits naturally in the arrangement, fitting the aesthetic. A hand enters frame and nudges [PRODUCT] slightly toward center. Final overhead — the curated but lived-in surface. [ROOM], natural overhead light, vertical video, everyday aesthetic energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 10. Packing an Order POV
+### 10. The Texture Moment
 
-**Vibe**: Brand-side content — satisfying packing process, ASMR energy.
+**Vibe**: Close-up of the product's material/texture/finish — tactile, sensory, satisfying detail.
 
 **Structure**:
-- 0-3s: Clean workspace, order slip or label visible
-- 3-6s: Picking products and placing them in box, careful arrangement
-- 6-8s: Adding tissue paper, stickers, thank-you card — the details
-- 8-10s: Sealing the box, applying shipping label — ready to ship
+- 0-3s: Product sitting on a surface, camera close
+- 3-6s: Hands pick it up, fingers explore the surface — texture, finish, weight
+- 6-8s: Turning it slowly in hands, close-up of material detail
+- 8-10s: Setting it down gently, satisfied with the quality
 
 **Prompt Template**:
-> POV of packing a customer order for [BRAND]. Clean workspace, an order slip visible. Hands carefully pick [PRODUCTS] and arrange them in a box. Tissue paper folded neatly, a branded sticker placed just right, a handwritten thank-you card tucked in. The box is sealed and a shipping label applied. Every detail is intentional — this is a brand that cares about the experience. ASMR packing energy, close-up hands, vertical video. [ADDITIONAL DETAILS].
+> [PRODUCT] from [BRAND] sitting on a [SURFACE, e.g. wooden desk, marble counter, clean table], camera close. Hands pick it up, fingers running across the surface — feeling the [TEXTURE DETAILS, e.g. texture, the slim profile, the weight]. Turning it slowly, close-up of [MATERIAL DETAILS, e.g. the stitching, the edge paint, the embossed logo]. Setting it down gently — satisfied with the quality. [ROOM], natural light, vertical video, tactile quality check energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -235,18 +235,18 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 13. Apartment Tour Cameo
+### 13. The Shelf Moment
 
-**Vibe**: Home tour where the product just lives naturally in the space.
+**Vibe**: Product on a styled shelf among other objects — it belongs in this curated world.
 
 **Structure**:
-- 0-3s: "Tour of my space" energy — walking through apartment
-- 3-6s: Passing through rooms, showing decor and setup
-- 6-8s: [PRODUCT] appears naturally in its spot — kitchen, bathroom, desk
-- 8-10s: Continuing the tour, product was just a natural part of the home
+- 0-3s: Camera on a styled shelf — books, a candle, small objects
+- 3-6s: [PRODUCT] sits among them, looking intentional
+- 6-8s: Camera slowly pushes in toward [PRODUCT], centering it
+- 8-10s: Hand reaches in and picks it up for use — it's decorative AND functional
 
 **Prompt Template**:
-> A casual apartment tour. A person walks through their space, showing off their setup — living room, kitchen, bedroom. As they pass through [ROOM], [PRODUCT] from [BRAND] is visible in its natural spot — [LOCATION, e.g. on the kitchen counter, in the bathroom shelf, on the desk]. They don't stop to highlight it — it's just there, living in the space. The product belongs. Casual home tour energy, natural light, walking steadicam feel, vertical video. [ADDITIONAL DETAILS].
+> Camera on a styled shelf — [SHELF ITEMS, e.g. art books stacked horizontally, a small succulent, a framed photo]. [PRODUCT] from [BRAND] sits among them, looking intentional — decorative object and functional product. Camera slowly pushes in toward [PRODUCT]. A hand reaches in and [INTERACTION, e.g. picks it up, adjusts it, turns it on]. [ROOM LIGHT DESCRIPTION], vertical video, curated shelf energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -269,17 +269,17 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 15. Side by Side Dupe Test
+### 15. The "Just One Thing" Buy
 
-**Vibe**: Comparing product to a mainstream alternative — honest, fair, real.
+**Vibe**: Talking to camera about buying just this one thing — disciplined, intentional purchase.
 
 **Structure**:
-- 0-3s: Both products on table — [PRODUCT] and the mainstream alternative
-- 3-6s: Testing both side by side — applying, using, comparing
-- 6-8s: Pointing out differences — texture, performance, feel
-- 8-10s: Honest conclusion — [PRODUCT] earns the win naturally
+- 0-3s: Face to camera, holding [PRODUCT] — "I told myself just one thing this month"
+- 3-6s: Holding it up, showing it off — "and this was it"
+- 6-8s: Explaining why this was the pick — genuine, thoughtful reasoning
+- 8-10s: Setting it on the counter with finality — money well spent
 
 **Prompt Template**:
-> Side-by-side comparison. [PRODUCT] from [BRAND] next to [MAINSTREAM ALTERNATIVE]. The person tests both — [TEST, e.g. swatching both, using both, comparing texture/performance]. They point out the differences honestly — [COMPARISON NOTES]. [PRODUCT] wins naturally through genuine performance, not bias. The comparison is fair, which makes the conclusion trustworthy. Clean table or counter, good lighting for comparison, vertical video. [ADDITIONAL DETAILS].
+> A person face to camera, holding [PRODUCT] from [BRAND] — "I told myself just one thing this month." Holding it up, showing it off — "and this was it." Explaining why — [REASONING, e.g. replaces something old, non-toxic, aesthetically perfect, solves a real problem]. Setting it on the counter with finality — money well spent. [ROOM], natural light, vertical video, intentional purchase energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

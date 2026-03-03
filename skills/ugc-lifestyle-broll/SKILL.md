@@ -82,18 +82,18 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 4. Walk and Carry
+### 4. Desk Drop
 
-**Vibe**: Someone walking down a street holding or carrying the product — motion b-roll.
+**Vibe**: Person sets [PRODUCT] down on their desk with a satisfying thud — it's arrived, it's here, hero moment.
 
 **Structure**:
-- 0-3s: Tracking shot of someone walking on a sidewalk, product in hand
-- 3-6s: Close-up of hand holding [PRODUCT] while walking, background blurred with motion
-- 6-8s: They pause, glance down at the product casually
-- 8-10s: Resume walking, camera follows from behind, city/neighborhood in background
+- 0-3s: Clean desk surface, slightly off-center framing, anticipation
+- 3-6s: Hand enters frame from above, placing [PRODUCT] down with a deliberate, satisfying drop
+- 6-8s: The product settles, camera holds — hero still moment
+- 8-10s: Hand pulls away, [PRODUCT] owns the frame — the desk is its stage
 
 **Prompt Template**:
-> Tracking shot of a person walking down a [SETTING — e.g. tree-lined sidewalk, city street, beach boardwalk]. They're casually carrying [PRODUCT] in one hand. Close-up of their hand holding [PRODUCT] while walking, background blurred with natural motion. Relaxed pace, natural stride, golden hour lighting. The vibe is effortless — this product is just part of their day. Vertical video, cinematic handheld feel. [ADDITIONAL DETAILS].
+> Clean desk surface with soft natural light. A hand enters the frame from above, placing [PRODUCT] down with a deliberate, satisfying drop. The [PRODUCT DESCRIPTION] settles on the wooden surface. The camera holds — hero still moment. The hand pulls away and [PRODUCT] owns the frame, the desk is its stage. Vertical video, natural light, satisfying product-drop energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -184,18 +184,18 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 10. Grocery Run
+### 10. Lap Blanket Cozy
 
-**Vibe**: Product spotted in a store aisle or being placed in a shopping basket.
+**Vibe**: Product resting on a lap or blanket — intimate, cozy, personal scale.
 
 **Structure**:
-- 0-3s: Walking through a store aisle, camera at basket level
-- 3-6s: Hand reaches out and grabs [PRODUCT] from a shelf
-- 6-8s: Drops it into the basket/cart with a satisfying placement
-- 8-10s: Continue walking, basket in frame with [PRODUCT] visible inside
+- 0-3s: Soft blanket draped over a lap on a couch, warm indoor lighting
+- 3-6s: [PRODUCT] resting naturally on the blanket, surrounded by softness
+- 6-8s: A hand gently picks it up, holds it briefly
+- 8-10s: Sets it back down on the blanket — intimate, personal, cozy
 
 **Prompt Template**:
-> POV or low-angle shot of someone walking through a [STORE TYPE — e.g. clean beauty store, pharmacy, grocery store] aisle. A hand reaches out and confidently grabs [PRODUCT] from the shelf without hesitation. They drop it into their shopping basket. The camera lingers on [PRODUCT] sitting in the basket as they continue walking. Casual, decisive, "I know what I came for" energy. Fluorescent or natural store lighting, vertical video. [ADDITIONAL DETAILS].
+> A soft blanket draped over a lap on a couch, warm indoor lighting. [PRODUCT] resting naturally on the blanket-covered lap. A hand gently picks it up, holds it briefly, examining it. Sets it back down on the blanket — intimate, personal, cozy. Vertical video, warm tones, comfort energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 

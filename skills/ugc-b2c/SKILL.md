@@ -48,35 +48,35 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 2. A Day With This
+### 2. The Desk Companion
 
-**Vibe**: The product follows you through a normal day — it's a background character in your life.
+**Vibe**: Product sitting on your desk while you work — it's just always there, part of the setup.
 
 **Structure**:
-- 0-3s: Morning — [PRODUCT] appears in morning context
-- 3-6s: Midday — using it again, different setting
-- 6-9s: Evening — one more touchpoint, it's always around
-- 9-12s: End of day — product sitting where it lives, integrated into life
+- 0-3s: Desk setup shot — keyboard, monitor, and [PRODUCT] sitting naturally in the scene
+- 3-6s: Person working, hand casually reaches for [PRODUCT], uses it briefly
+- 6-8s: Sets it back down, continues working — seamless, not a disruption
+- 8-10s: Wide shot of the desk — [PRODUCT] belongs in this workspace
 
 **Prompt Template**:
-> A day-in-the-life featuring [PRODUCT] from [BRAND]. Morning: [MORNING USE — e.g. grabbing it on the way out, using it during breakfast]. Midday: [MIDDAY USE — e.g. at the office, during lunch, on a walk]. Evening: [EVENING USE — e.g. at home, unwinding, with friends]. The product is always there but never the focus — it's just part of a real day. Multiple settings, natural light transitions, vlog energy, vertical video. [ADDITIONAL DETAILS].
+> A clean desk setup — keyboard, monitor, and [PRODUCT] from [BRAND] sitting naturally in the scene. A person working, hand casually reaches for [PRODUCT], [BRIEF USE — e.g. takes a sip, checks a reading, adjusts a setting]. Sets it back down without looking, continues working — completely seamless. Wide shot of the desk — [PRODUCT] belongs in this workspace. Home office, natural light, vertical video, desk companion energy. [ADDITIONAL DETAILS].
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 3. The Comparison
+### 3. The First Touch
 
-**Vibe**: Your product vs the obvious alternative — honest, no-script take.
+**Vibe**: First time holding/touching the product — genuine tactile discovery, quality check.
 
 **Structure**:
-- 0-3s: Both products side by side on a table
-- 3-6s: Picking up each one, quick comparison — look, feel, build
-- 6-8s: Using both — honest test, same task
-- 8-10s: Verdict — [PRODUCT] wins naturally, no forced conclusion
+- 0-3s: [PRODUCT] in packaging or on a surface, hands approaching
+- 3-6s: Picking it up for the first time, feeling the weight, the texture, the build
+- 6-8s: Turning it over in hands, examining details — impressed nod
+- 8-10s: Setting it down with care — first impression locked in, it's quality
 
 **Prompt Template**:
-> Honest product comparison. [PRODUCT] from [BRAND] next to [COMPETITOR/ALTERNATIVE]. A person examines both — [COMPARISON CRITERIA, e.g. build quality, design, feel in hand, performance]. They test both doing [SAME TASK]. The comparison is fair and honest. [PRODUCT] wins on [WINNING POINTS] — not forced, just demonstrated. Clean surface, good lighting for comparison, vertical video. [ADDITIONAL DETAILS].
+> First-touch discovery of [PRODUCT] from [BRAND]. [PRODUCT] sitting on a surface or in packaging. Hands approach and pick it up for the first time — feeling the weight, the texture, the build quality. Turning it over, examining [DETAILS — e.g. the finish, the hardware, the craftsmanship]. An impressed nod — the build quality is undeniable. Setting it down with care — first impression locked in. Natural light, vertical video, first-touch discovery energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -116,20 +116,20 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 6. Setup Timelapse
+### 6. The One Detail
 
-**Vibe**: Unbox to fully set up in a satisfying sped-up sequence.
+**Vibe**: Zeroing in on one specific design detail that makes the product special — the little thing.
 
 **Structure**:
-- 0-3s: Box on floor/table, opening begins
-- 3-7s: Assembly/setup in progress — sped up 2-3x, satisfying progression
-- 7-10s: Final product set up and in place — slows to normal speed
-- 10-15s: First use, stepping back to admire, satisfied
+- 0-3s: [PRODUCT] in frame, camera at normal distance
+- 3-6s: Camera pushes in close to one specific detail — a button, a hinge, a finish
+- 6-8s: Finger points at or interacts with the detail — "this right here"
+- 8-10s: Pull back to full product — but now you can't unsee that detail
 
 **Prompt Template**:
-> Setup timelapse of [PRODUCT] from [BRAND]. Starting with the box — opening, removing packaging. Assembly or setup sped up 2-3x — [SETUP STEPS, e.g. connecting pieces, placing components, plugging in, arranging]. When it's fully set up, the video slows to normal speed. The finished [PRODUCT] in its spot — clean, ready. First use moment. Stepping back to admire. Satisfying start-to-finish progression. Room or desk setting, natural light, vertical video. [ADDITIONAL DETAILS].
+> Design-detail obsession video. [PRODUCT] from [BRAND] in frame at normal distance. Camera pushes in close to [SPECIFIC DETAIL — e.g. a clasp, a button, a hinge, a texture, a finish]. A finger points at or interacts with the detail — "this right here" energy. Pull back to the full product — but now the detail is all you notice. Natural light, vertical video, design-detail obsession energy. [ADDITIONAL DETAILS].
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -167,18 +167,18 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 9. Family Test
+### 9. The Friend Text
 
-**Vibe**: Giving it to family members, collecting their genuine reactions.
+**Vibe**: Talking to camera about texting a friend to recommend this — word-of-mouth moment.
 
 **Structure**:
-- 0-2s: "I'm going to let my family try [PRODUCT]" — setup
-- 2-5s: First family member tries it — genuine reaction
-- 5-8s: Second family member — different reaction, both honest
-- 8-10s: Collecting verdicts — the product passed the family test (or didn't)
+- 0-3s: Face to camera, holding [PRODUCT] and phone — "I literally just texted my friend about this"
+- 3-6s: Holding product up, explaining what makes it worth recommending
+- 6-8s: Gesturing at phone — "she's already ordering one"
+- 8-10s: Satisfied expression, holding product — the genuine recommendation
 
 **Prompt Template**:
-> Family product test. A person introduces [PRODUCT] from [BRAND] to their family — [FAMILY MEMBERS, e.g. mom, partner, sibling]. Each person tries it and gives a genuine reaction — [REACTIONS]. No coaching, no retakes. The reactions range from [REACTION RANGE — e.g. "surprised by the quality" to "immediately wanted their own"]. The family test is the ultimate credibility check. Home setting, candid, multiple reactions, vertical video. [ADDITIONAL DETAILS].
+> Word-of-mouth recommendation video. A person face to camera, holding [PRODUCT] from [BRAND] in one hand and phone in the other — "I literally just texted my friend about this." Holding [PRODUCT] up, explaining what makes it worth recommending — [KEY SELLING POINTS]. Gesturing at phone — "she's already ordering one." Satisfied expression, holding [PRODUCT] — the genuine word-of-mouth moment. [SETTING], natural light, vertical video, recommendation energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -218,18 +218,18 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 12. Durability Check
+### 12. The Restock Click
 
-**Vibe**: Showing the product after heavy use — "still going strong" or honest wear report.
+**Vibe**: The moment you rebuy without hesitation — loyalty confirmed, no research needed.
 
 **Structure**:
-- 0-3s: Holding [PRODUCT] — visible signs of real use over time
-- 3-6s: Showing specific wear points — "here's how it's held up"
-- 6-8s: Demonstrating it still works perfectly (or showing honest wear)
-- 8-10s: Verdict on longevity — "built to last" energy
+- 0-3s: Person holding nearly-empty/well-used [PRODUCT]
+- 3-6s: Glancing at it, immediate decision — "yep, reordering"
+- 6-8s: Casually tapping on phone to reorder, no browsing, no comparing
+- 8-10s: Setting old product down, satisfied nod — loyalty is automatic
 
 **Prompt Template**:
-> Durability check. A person showing [PRODUCT] from [BRAND] after [TIME PERIOD] of regular use. They point out how it's held up — [DURABILITY NOTES, e.g. "no scratches," "the fabric hasn't pilled," "still works like day one," "some patina that actually looks cool"]. They demonstrate it still functioning perfectly. The message: this product is built to last and gets better with use. Close-up details, natural light, vertical video. [ADDITIONAL DETAILS].
+> Rebuy-without-thinking video. A person holding their well-used [PRODUCT] from [BRAND] — [SIGNS OF USE — e.g. nearly empty, well-worn, clearly loved]. Glancing at it with an immediate decision — "yep, getting another." Casually tapping their phone to reorder, no browsing alternatives, no comparing — they know what they want. Setting it down with a satisfied nod — the loyalty is automatic. [SETTING], natural light, vertical video, rebuy-without-thinking energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -252,18 +252,18 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 14. POV You Own This
+### 14. The Nightstand Essential
 
-**Vibe**: First-person POV of daily life with the product — you're living it.
+**Vibe**: Product on the nightstand — the last thing you see at night or first thing in the morning.
 
 **Structure**:
-- 0-3s: POV reaching for [PRODUCT] on shelf/counter/desk
-- 3-6s: Using it in first-person — hands visible, product in action
-- 6-8s: The result or satisfaction of using it
-- 8-10s: Setting it down, moving on with your day — it just works
+- 0-3s: Nightstand scene — lamp, book, phone, and [PRODUCT]
+- 3-6s: Hand reaches for [PRODUCT], uses it briefly
+- 6-8s: Sets it back on the nightstand, it stays within arm's reach
+- 8-10s: Settling into bed or getting up — [PRODUCT] is bookending the day
 
 **Prompt Template**:
-> First-person POV of owning [PRODUCT] from [BRAND]. The camera IS the person. Hands reach for [PRODUCT] on [LOCATION]. Using it — [USE IN POV, e.g. opening it, operating it, applying it, activating it]. The result is satisfying. Setting it back down and moving on. The message: this is what daily life with this product feels like — seamless, easy, good. POV camera, natural movements, vertical video. [ADDITIONAL DETAILS].
+> Nightstand essential video. A nightstand scene — lamp, book, phone, and [PRODUCT] from [BRAND]. A hand reaches for [PRODUCT], [BRIEF USE — e.g. picks it up, opens it, checks it, uses it]. A moment of use, comfortable and settled. Sets it back on the nightstand within arm's reach. Settling into bed or getting up — [PRODUCT] is bookending the day. Bedroom, warm lamp light, vertical video, nightstand essential energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 

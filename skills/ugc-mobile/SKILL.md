@@ -3,8 +3,9 @@ name: ugc-mobile
 description: >-
   UGC video format templates for mobile app brands. Contains 15 TikTok-native,
   lofi video formats with shot-by-shot structure and AI video generation prompts.
-  Use when the user wants to create mobile app UGC content — app demos, feature reveals,
-  screen recordings, or app lifestyle content.
+  Focuses on the person and their physical relationship with their phone — reactions,
+  rituals, and real moments — never screen content or app UI.
+  Use when the user wants to create mobile app UGC content.
 requires:
   env:
     - RAWUGC_API_KEY
@@ -17,7 +18,7 @@ source: https://github.com/tfcbot/rawugc-skills
 
 # Mobile App UGC Video Formats
 
-15 lofi, TikTok-native video formats for mobile app brands. Raw, authentic, easy to produce. No hard CTAs — these feel like real people discovering and using apps they genuinely love.
+15 lofi, TikTok-native video formats for mobile app brands. Raw, authentic, easy to produce. No hard CTAs — these feel like real people and their phones. The focus is always on the person, their reactions, and their physical rituals with the phone — never the screen content itself.
 
 ## How to Use These Formats
 
@@ -25,24 +26,24 @@ source: https://github.com/tfcbot/rawugc-skills
 2. Select the format below that best matches.
 3. Use the **Prompt Template** to compose the `prompt` field for `POST /videos/generate`. Replace `[BRACKETED]` placeholders with details from the user.
 4. Default to `aspectRatio: "portrait"` (9:16) and `nFrames: "10"` unless the format specifies otherwise.
-5. Keep the tone casual, genuine, unscripted. These should feel like someone naturally discovering an app.
+5. Keep the tone casual, genuine, unscripted. These should feel like someone naturally living with an app they love.
 
 ---
 
 ## Formats
 
-### 1. POV You Just Downloaded
+### 1. Phone in Hand Reaction
 
-**Vibe**: Screen recording of first open — real reactions via voiceover, fresh discovery energy.
+**Vibe**: Holding phone, looking at screen (we don't see the screen), genuine reaction to what the app just did.
 
 **Structure**:
-- 0-3s: Phone in hand, thumb tapping the app icon for the first time
-- 3-6s: App opens, first screen visible, person's face reflecting surprise/interest
-- 6-8s: Scrolling through key features, natural exploration
-- 8-10s: Genuine impressed reaction — raised eyebrows, slight nod
+- 0-3s: Person sitting on couch, phone in hand, tapping casually
+- 3-6s: Expression shifts — eyebrows raise, mouth opens slightly, impressed
+- 6-8s: Looks up at camera with a "wait, seriously?" expression, holds phone up (screen facing away)
+- 8-10s: Nodding slowly, looking back at phone — convinced
 
 **Prompt Template**:
-> POV of someone opening [APP NAME] for the first time on their phone. Their thumb taps the app icon, the app loads. The camera captures both the phone screen and their face — genuine curiosity turning into pleasant surprise as they explore [KEY FEATURE]. They scroll naturally, discovering features organically. The reaction is authentic, not performative. Bedroom or couch setting, natural light, vertical video. [ADDITIONAL DETAILS].
+> A person sitting on their couch, phone in hand, casually tapping. Their expression shifts — eyebrows raise, mouth opens slightly, genuinely impressed by what they see on [APP NAME]. They look up at the camera with a "wait, seriously?" expression, holding the phone up with the screen facing away from camera. Nodding slowly, looking back at the phone — completely convinced. Natural living room light, vertical video, authentic reaction energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -65,137 +66,137 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 3. Dark Mode Tour
+### 3. The Morning Phone Grab
 
-**Vibe**: Late night in bed scrolling through app features — chill, intimate vibe.
+**Vibe**: First thing in the morning — reaching for phone on nightstand, opening the app that starts the day.
 
 **Structure**:
-- 0-3s: Dim bedroom, person lying in bed, phone screen illuminating their face
-- 3-6s: Slow scroll through app in dark mode, clean UI visible
-- 6-8s: Tapping through different sections, exploring at night
-- 8-10s: Content expression, settling deeper into pillow, still scrolling
+- 0-3s: Nightstand with phone, alarm going off, hand reaches from under covers
+- 3-6s: Picks up phone, squinting at brightness, adjusting
+- 6-8s: A few taps, expression softens — the app they open first
+- 8-10s: Sitting up in bed, phone in hand, ready to start the day
 
 **Prompt Template**:
-> Late night scene — a person lying in bed in a dim room, the glow of their phone illuminating their face. They're slowly scrolling through [APP NAME] in dark mode. The clean, dark UI is visible as they tap through different features — [FEATURES]. They look content, relaxed, lost in the app. The vibe is late-night phone scroll before sleep. Dim lighting, vertical video, intimate. [ADDITIONAL DETAILS].
+> A nightstand with a phone, hand reaching from under the covers to grab it. Squinting at the brightness, adjusting. A few taps and their expression softens — the calm of opening [APP NAME] first thing. Sitting up in bed, phone in hand, a peaceful start. Bedroom morning light, vertical video, quiet ritual energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 4. Before/After My Workflow
+### 4. The Couch Scroll
 
-**Vibe**: Split showing the messy old way vs the clean new app way.
+**Vibe**: Casually scrolling on the couch, genuinely engaged with the app — the comfort zone.
 
 **Structure**:
-- 0-3s: "Before" — chaotic scene of sticky notes, messy spreadsheet, frustrated expression
-- 3-5s: Quick transition effect (swipe or cut)
-- 5-8s: "After" — clean app dashboard, organized, same person looking relieved
-- 8-10s: Satisfied lean back, everything handled
+- 0-3s: Person lounged on couch, legs up, phone held at comfortable angle
+- 3-6s: Scrolling with thumb, face showing genuine interest, occasionally pausing
+- 6-8s: Small reactions — a smile, a head tilt, an exhaled laugh
+- 8-10s: Shifts position to get more comfortable, still fully engaged
 
 **Prompt Template**:
-> Split before/after scene. BEFORE: a person surrounded by sticky notes, a messy spreadsheet on their laptop, looking frustrated and overwhelmed. Quick swipe transition. AFTER: the same person looking at [APP NAME] on their phone — clean, organized interface showing [KEY FEATURE]. They lean back with a relieved, satisfied expression. Everything is handled. Natural office/desk lighting, vertical video. [ADDITIONAL DETAILS].
+> A person lounged on their couch, legs up, phone held at a comfortable angle. Scrolling with their thumb through [APP NAME], face showing genuine interest, occasionally pausing. Small reactions — a smile, a head tilt, an exhaled laugh. They shift position to get more comfortable, still fully engaged. Living room, warm afternoon light, vertical video, cozy scroll energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 5. Notification Storytelling
+### 5. Told a Friend About It
 
-**Vibe**: Phone buzzes with app notification — "wait this actually works."
+**Vibe**: Talking to camera about recommending the app to someone — genuine word-of-mouth.
 
 **Structure**:
-- 0-2s: Phone sitting on table, notification banner slides down from [APP]
-- 2-5s: Hand picks up phone, reads notification, surprised expression
-- 5-8s: Opens app to see the full context — it delivered on something
-- 8-10s: Looking at camera with "no way" energy, genuinely impressed
+- 0-3s: Face to camera, casual energy — "okay so I told my friend about this…"
+- 3-6s: Gesturing while explaining what the app does, holding phone casually
+- 6-8s: "And now they won't stop using it" — amused expression
+- 8-10s: Holding phone up with a knowing look — "you're welcome"
 
 **Prompt Template**:
-> A phone sitting on a table buzzes with a notification from [APP NAME] — the banner shows [NOTIFICATION TEXT, e.g. "Your goal is complete" or "New result ready"]. A hand picks up the phone, the person reads it with a surprised expression. They open the app and see [RESULT]. They look up at the camera with genuine "wait, this actually works" energy. Natural setting, vertical video, candid reaction. [ADDITIONAL DETAILS].
+> A person face-to-camera, casual energy — like they're telling a story about [APP NAME]. Gesturing while explaining, holding their phone casually in one hand. Amused expression — "and now they won't stop using it." Holding the phone up with a knowing look — the recommendation that stuck. Natural light, vertical video, word-of-mouth storytelling energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 6. Hidden Feature Reveal
+### 6. The "I Forgot How I Lived Without This" Moment
 
-**Vibe**: "Bet you didn't know it could do this" — screen recording energy.
+**Vibe**: Talking to camera about life before vs after the app — casual, no screen shown.
 
 **Structure**:
-- 0-2s: Phone in hand, app already open, knowing smile
-- 2-5s: Navigating to a non-obvious feature, tapping through menus
-- 5-8s: Feature revealed — the "hidden gem" moment
-- 8-10s: Impressed expression, tapping through it, mind blown energy
+- 0-3s: Talking to camera, slight headshake — "I genuinely don't remember how I did this before"
+- 3-6s: Holding phone, gesturing at it — explaining casually
+- 6-8s: Emphatic expression — "it just handles it for me now"
+- 8-10s: Setting phone down, leaning back — "can't go back"
 
 **Prompt Template**:
-> A person holding their phone with [APP NAME] open, a knowing smile on their face like they're about to share a secret. They navigate through the app to a hidden or non-obvious feature — [HIDDEN FEATURE]. When they find it, their expression shifts to genuine excitement. They tap through it, exploring. The vibe is "I can't believe more people don't know about this." Close-up of phone and face, vertical video, natural light. [ADDITIONAL DETAILS].
+> A person talking to camera, slight headshake — genuine disbelief. Holding their phone and gesturing at it, explaining casually how [APP NAME] changed their routine. Emphatic expression — "it just handles everything for me now." Setting the phone down and leaning back — can't go back to the old way. Natural light, sitting at desk, vertical video, honest testimonial energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 7. 60-Second Setup
+### 7. Phone Flat on Table
 
-**Vibe**: Speedrun from download to first value — it's that quick.
-
-**Structure**:
-- 0-3s: App Store/Play Store, tapping "Download," progress bar
-- 3-6s: Opening app, quick sign-up flow (sped up slightly)
-- 6-10s: First meaningful action in the app — creating something, seeing a result
-- 10-15s: Done. Leaning back, "that was it?" expression, impressed
-
-**Prompt Template**:
-> Speedrun of setting up [APP NAME]. Starting from the app store — tapping download, watching it install. Opening the app, breezing through sign-up (slightly sped up). Then the first real action — [FIRST ACTION, e.g. creating a project, setting a goal, scanning a document]. Everything happens fast and smooth. The person leans back with an impressed "that was it?" expression. The message is effortless onboarding. Screen recording energy, vertical video. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
-
----
-
-### 8. Day in My Life ft. App
-
-**Vibe**: Vlog-style day where the app appears naturally at multiple touchpoints.
+**Vibe**: Phone placed on table, person reacting to what it does while their hands are free — the app works in the background.
 
 **Structure**:
-- 0-3s: Morning — checking the app with coffee, casual glance
-- 3-6s: Midday — using a feature during work/commute
-- 6-9s: Evening — checking results or winding down with the app
-- 9-12s: End of day, phone on nightstand, app notification visible
+- 0-3s: Person sets phone face-up on table, taps once, then pulls hands away
+- 3-6s: Goes about their activity — cooking, reading, working — while phone sits there
+- 6-8s: Glances at phone, quick satisfied nod — it's doing its thing
+- 8-10s: Picks phone up briefly, smiles, sets it back down — effortless
 
 **Prompt Template**:
-> A "day in my life" vlog where [APP NAME] appears naturally throughout. Morning: person checks the app while sipping coffee at their kitchen counter. Midday: they use [FEATURE] during a break, phone propped on desk. Evening: they review [RESULTS/STATS] on the couch. The app isn't the star — it's a natural part of their day. Vlog transitions, multiple settings, natural light, vertical video. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
-
----
-
-### 9. Rage Quit to Calm
-
-**Vibe**: Frustrated with old tool, switches to app, immediate relief.
-
-**Structure**:
-- 0-3s: Visibly frustrated — typing angrily, sighing at laptop/old app
-- 3-5s: Picks up phone, opens [APP NAME] with a "fine, let me try this" energy
-- 5-8s: App interface loads, clean and simple, tension draining from face
-- 8-10s: Relaxed smile, the thing that was hard is now easy
-
-**Prompt Template**:
-> A person visibly frustrated — sighing at their laptop, rubbing their temples, dealing with [OLD TOOL/METHOD]. They pick up their phone and open [APP NAME] with skeptical, last-resort energy. The app loads — clean, intuitive interface. Their expression softens immediately. Within seconds they've done what was frustrating them. Visible relief. The contrast between frustration and calm is the story. Desk setting, natural light, vertical video. [ADDITIONAL DETAILS].
+> A person sets their phone face-up on the table, taps once, pulls their hands away. They go about their activity while [APP NAME] runs in the background. Glances at the phone with a satisfied nod — it's doing its thing. Picks it up briefly, smiles, sets it back down. Natural setting, warm light, vertical video, effortless background energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 10. Screenshot Flex
+### 8. Charging Nightstand
 
-**Vibe**: Showing screenshots of results/stats from the app — quiet pride.
+**Vibe**: End of day, phone going on charger, the app is the last thing used — bookending the day.
 
 **Structure**:
-- 0-3s: Phone in hand, navigating to stats/results section
-- 3-6s: Turning phone to show screen — impressive numbers or achievements
-- 6-8s: Slight smile, nodding — letting the results speak
-- 8-10s: Casually locking phone, confident energy
+- 0-3s: Nightstand, hand places phone on wireless charger
+- 3-6s: Person looks at phone one last time — a content expression
+- 6-8s: Reaches for lamp, clicks it off
+- 8-10s: Settling into bed, the phone's subtle charging light visible in the dark
 
 **Prompt Template**:
-> A person holding their phone, navigating to the stats or results section of [APP NAME]. They turn the phone toward the camera to show [STATS — e.g. streak count, savings amount, project completions, fitness progress]. Their expression is quietly proud — a slight smile, a subtle nod. They let the numbers speak for themselves. No over-the-top reaction, just genuine satisfaction. Natural setting, vertical video. [ADDITIONAL DETAILS].
+> A nightstand scene — a hand places the phone on a wireless charger pad. The person looks at the phone one last time with a content expression — done with [APP NAME] for the night. Reaches for the bedside lamp and clicks it off. Settling into bed, the phone's subtle charging light glowing in the dim room. Warm bedroom light transitioning to darkness, vertical video, end-of-day ritual energy. [ADDITIONAL DETAILS].
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+### 9. Waiting Room Scroll
+
+**Vibe**: Using the app while waiting somewhere — making dead time productive or enjoyable.
+
+**Structure**:
+- 0-3s: Person sitting in a waiting area (dentist, salon, etc.), slightly bored expression
+- 3-6s: Pulls phone out, starts using the app, expression brightens
+- 6-8s: Completely absorbed, boredom gone, small smiles
+- 8-10s: Looks up briefly as if called, puts phone away reluctantly
+
+**Prompt Template**:
+> A person sitting in a waiting room chair, slightly bored expression, looking around. They pull out their phone and start using [APP NAME] — expression brightens immediately. Completely absorbed, small smiles, boredom completely gone. They look up briefly as if their name was called, putting the phone away reluctantly. Bright waiting room, vertical video, productive dead-time energy. [ADDITIONAL DETAILS].
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+### 10. Coffee Shop Phone Moment
+
+**Vibe**: Using the app at a coffee shop — the aesthetic of being out and connected.
+
+**Structure**:
+- 0-3s: Coffee shop table, latte in one hand, phone in the other
+- 3-6s: Sipping coffee while using the app, relaxed expression
+- 6-8s: Setting the coffee down, both hands on phone, leaning in with interest
+- 8-10s: Leaning back, satisfied, coffee shop ambiance surrounding them
+
+**Prompt Template**:
+> A coffee shop table — a latte in one hand, phone in the other. Sipping coffee while using [APP NAME], relaxed expression. Setting the coffee down, both thumbs on the phone, leaning in with interest. Leaning back satisfied, coffee shop ambiance surrounding them. Warm cafe light, vertical video, curated moment energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -218,68 +219,68 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 12. Widget Check
+### 12. The Double Tap
 
-**Vibe**: Home screen widget glance throughout the day — it's always there.
+**Vibe**: Quick, decisive interaction — open app, do the thing, close it. Under 5 seconds of actual use.
 
 **Structure**:
-- 0-3s: Phone home screen visible, [APP] widget prominent among other apps
-- 3-6s: Quick glance at widget info — a stat, status, or update
-- 6-8s: Phone set down, going about their day
-- 8-10s: Later — picking phone up again, widget shows updated info, satisfied glance
+- 0-3s: Person pulls phone from pocket confidently
+- 3-6s: Quick taps — purposeful, they know exactly what they're doing
+- 6-8s: Done — slips phone back in pocket with a satisfied expression
+- 8-10s: Carries on with their day, hands free — the task took seconds
 
 **Prompt Template**:
-> A phone home screen with [APP NAME]'s widget visible among other apps. The person glances at the widget showing [WIDGET INFO — e.g. today's progress, a quick stat, upcoming task]. They set the phone down and go about their day. Later, they pick it up again — the widget has updated with new info. A quick satisfied glance. The app is passively useful, always there without demanding attention. Natural daily settings, vertical video. [ADDITIONAL DETAILS].
+> A person pulls their phone from their pocket confidently. Quick, purposeful taps — they know exactly what they're doing in [APP NAME]. Done in seconds — slips the phone back in their pocket with a satisfied nod. Carries on with what they were doing, hands free, task complete. Natural light, vertical video, quick-draw efficiency energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 13. Duo Reaction
+### 13. Bedtime Last App
 
-**Vibe**: Showing a friend the app for the first time — capturing their genuine reaction.
+**Vibe**: In bed, phone propped on chest, the last app before sleep.
 
 **Structure**:
-- 0-3s: Two people sitting together, one handing their phone to the other
-- 3-6s: Friend looking at the app, eyebrows raising, "wait what?"
-- 6-8s: Friend tapping through features, increasingly impressed
-- 8-10s: Friend looking up — "where has this been?" expression
+- 0-3s: Person lying in bed, dim light, phone held above face
+- 3-6s: Gentle scrolling or tapping, sleepy but engaged expression
+- 6-8s: Eyes getting heavy, but still looking at phone with a small smile
+- 8-10s: Phone drops to chest, eyes close — drifting off
 
 **Prompt Template**:
-> Two friends sitting together on a couch. One hands their phone to the other, showing them [APP NAME]. The friend starts exploring — their eyebrows raise, they start tapping through [KEY FEATURES], getting more impressed with each screen. They look up from the phone with a "why didn't you show me this sooner" expression. Genuine reaction, natural chemistry between friends. Living room, casual setting, vertical video. [ADDITIONAL DETAILS].
+> A person lying in bed, warm dim lamp light, phone held above their face. Gentle scrolling through [APP NAME], sleepy but engaged expression. Eyes getting heavy but still looking at the phone with a small smile. The phone slowly drops to their chest as their eyes close — drifting off. Bedroom, warm dim light, vertical video, late-night scroll energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 14. The Thing That Replaced
+### 14. Phone Face-Down Focus
 
-**Vibe**: "I used to use X, now I use this" — casual comparison, no drama.
+**Vibe**: Deliberately putting the phone face-down to focus, then picking it up as a reward — the app earned the break.
 
 **Structure**:
-- 0-3s: Briefly showing old tool/app — maybe a dusty icon or closed tab
-- 3-6s: Opening [APP NAME] instead, smooth transition
-- 6-8s: Navigating through it naturally, doing the same task but better
-- 8-10s: Small shrug — it just makes more sense now
+- 0-3s: Person working at desk, phone beside them, screen visible
+- 3-6s: Deliberately flipping the phone face-down — focus time
+- 6-8s: After a beat of working, they flip it back over with a reward-energy
+- 8-10s: Using the app briefly with a satisfied smile — earned it
 
 **Prompt Template**:
-> A person on their phone briefly showing [OLD APP/TOOL] — maybe scrolling past it, or closing it. Then they open [APP NAME] and do the same task — but smoother, cleaner, faster. They navigate through [KEY FEATURE] naturally. At the end, a casual shrug and slight smile — they switched and haven't looked back. No dramatic comparison, just a natural evolution. Close-up phone view, vertical video, natural light. [ADDITIONAL DETAILS].
+> A person working at their desk, phone beside them. They deliberately flip the phone face-down — focus time. After working for a beat, they flip it back over with reward energy. Using [APP NAME] briefly with a satisfied smile — they earned this break. Desk setup, natural light, vertical video, work-reward balance energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 15. Lock Screen Peek
+### 15. The AirPod Tap
 
-**Vibe**: Notification lands on lock screen, unlocking to see what it does.
+**Vibe**: AirPod tap to interact with the app without looking at screen — audio-first experience.
 
 **Structure**:
-- 0-2s: Phone face-up on table, lock screen visible, notification drops in
-- 2-5s: Hand reaches for phone, reads the notification preview
-- 5-8s: Unlocks phone, app opens to the relevant content
-- 8-10s: Quick interaction — the notification was useful, satisfied
+- 0-3s: Person walking/standing, AirPods in, one hand reaches up to tap the AirPod
+- 3-6s: Listening, expression changes — reacting to audio content
+- 6-8s: Nods along, mouths "yes" or smiles at what they're hearing
+- 8-10s: Double taps AirPod again, keeps moving — hands-free, seamless
 
 **Prompt Template**:
-> A phone sitting face-up on a table. A notification from [APP NAME] slides onto the lock screen — "[NOTIFICATION PREVIEW TEXT]". A hand reaches for the phone, reads it, and unlocks to open the app. The app shows [RELEVANT CONTENT] — the notification led somewhere useful. Quick, satisfied interaction. The app is working in the background, surfacing things that matter. Clean desk or table setting, natural light, vertical video. [ADDITIONAL DETAILS].
+> A person standing, AirPods in, one hand reaches up to double-tap the AirPod. Listening intently, expression softening — absorbed in what they're hearing on [APP NAME]. Nodding along, a small smile. Double-taps the AirPod again, keeps going about their activity — hands-free, seamless. Natural light, vertical video, audio-first experience energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

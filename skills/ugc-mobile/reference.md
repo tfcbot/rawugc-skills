@@ -6,16 +6,16 @@ Shot-by-shot breakdowns for all 15 mobile app UGC formats with example apps fill
 
 ---
 
-## 1. POV You Just Downloaded
+## 1. Phone in Hand Reaction
 
-**Vibe**: Screen recording of first open — real reactions via voiceover, fresh discovery energy.
+**Vibe**: Holding phone, looking at screen (we don't see the screen), genuine reaction to what the app just did.
 
 **Example App**: Notion
 
-- 0-3s: Thumb taps the Notion icon on the home screen for the first time, app splash screen loads
-- 3-6s: The workspace opens — template gallery visible; face in the background shows genuine curiosity, eyebrows lifting
-- 6-8s: Scrolling through templates naturally — project trackers, reading lists, meal planners — tapping one to preview
-- 8-10s: Slight nod, impressed; lips part like they're about to say "okay, this is actually good"
+- 0-3s: Sitting on the couch, phone in hand, casually tapping with one thumb — relaxed posture, no urgency
+- 3-6s: Expression shifts — eyebrows raise, mouth opens slightly, head tilts forward with genuine interest at what Notion just showed them
+- 6-8s: Looks up at camera with a "wait, seriously?" expression, holds phone up with screen facing away — sharing the moment without showing the screen
+- 8-10s: Nodding slowly, looking back at the phone — completely convinced; the subtle "okay, this is good" energy
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -36,121 +36,121 @@ Shot-by-shot breakdowns for all 15 mobile app UGC formats with example apps fill
 
 ---
 
-## 3. Dark Mode Tour
+## 3. The Morning Phone Grab
 
-**Vibe**: Late night in bed scrolling through app features — chill, intimate vibe.
+**Vibe**: First thing in the morning — reaching for phone on nightstand, opening the app that starts the day.
 
-**Example App**: Spotify
+**Example App**: Headspace
 
-- 0-3s: Dark bedroom, only the phone screen illuminating their face, lying on a pillow, headphones in
-- 3-6s: Slow scroll through Spotify's dark UI — Discover Weekly playlist, album art thumbnails glowing
-- 6-8s: Tapping into Daily Mix 1, then swiping to the lyrics view, then checking listening stats
-- 8-10s: Content half-smile, settling deeper into pillow, thumb still lazily scrolling through Recently Played
+- 0-3s: Nightstand — phone beside a glass of water, alarm chiming softly, a hand reaches out from under the duvet
+- 3-6s: Picks up the phone, squinting at the brightness, adjusting grip — the just-woke-up fumble
+- 6-8s: A few taps, expression softens into calm — opening Headspace is the first ritual, before anything else
+- 8-10s: Sitting up in bed, phone in hand, taking a slow breath — the day starts here, peacefully
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 4. Before/After My Workflow
+## 4. The Couch Scroll
 
-**Vibe**: Split showing the messy old way vs the clean new app way.
+**Vibe**: Casually scrolling on the couch, genuinely engaged with the app — the comfort zone.
+
+**Example App**: Pinterest
+
+- 0-3s: Lounged on the couch, legs draped over the armrest, phone held at that perfect lazy angle
+- 3-6s: Thumb scrolling through Pinterest — face showing genuine interest, pausing on something, head tilting
+- 6-8s: Small reactions — a smile at a room design idea, a head tilt at a recipe, an exhaled laugh at a meme board
+- 8-10s: Shifts to get more comfortable — pulling a blanket up — still fully engaged, not looking up
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+## 5. Told a Friend About It
+
+**Vibe**: Talking to camera about recommending the app to someone — genuine word-of-mouth.
+
+**Example App**: Splitwise
+
+- 0-3s: Face to camera, casual energy — "okay so I told my friend about this…" vibe, phone in one hand
+- 3-6s: Gesturing with free hand while explaining how Splitwise handles group expenses, phone held casually
+- 6-8s: Amused expression — the friend now uses it for everything, sends payment reminders constantly
+- 8-10s: Holds phone up with a knowing look — "you're welcome" energy; Splitwise is the friend group standard now
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+## 6. The "I Forgot How I Lived Without This" Moment
+
+**Vibe**: Talking to camera about life before vs after the app — casual, no screen shown.
 
 **Example App**: Todoist
 
-- 0-3s: "Before" — sticky notes covering a monitor bezel, a chaotic Google Sheet with color-coded rows, person rubbing temples
-- 3-5s: Quick swipe transition — hand wipes across screen
-- 5-8s: "After" — same person looking at Todoist on phone, clean project boards, color-coded priorities, everything in one place
-- 8-10s: Leans back in desk chair, arms behind head, the tension completely gone from their face
+- 0-3s: Talking to camera at their desk, slight headshake — "I genuinely don't remember how I kept track of things before"
+- 3-6s: Holding phone, gesturing at it — explaining how Todoist organizes their entire life now, casually
+- 6-8s: Emphatic expression — "it just handles it for me now" — hands out, palms up, the conviction is visible
+- 8-10s: Setting phone down on desk, leaning back in chair — "can't go back" — the old way is unthinkable
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 5. Notification Storytelling
+## 7. Phone Flat on Table
 
-**Vibe**: Phone buzzes with app notification — "wait this actually works."
+**Vibe**: Phone placed on table, person reacting to what it does while their hands are free — the app works in the background.
 
-**Example App**: Mint (budgeting)
+**Example App**: Calm
 
-- 0-2s: Phone face-up on a wooden desk, notification banner slides down: "Mint: You've reached your savings goal of $5,000!"
-- 2-5s: Hand reaches over, picks up the phone, reads the notification — jaw drops slightly, eyes widen
-- 5-8s: Unlocks phone, Mint opens to the savings chart — a green line climbing steadily to the $5K target
-- 8-10s: Looks up from phone at the camera — slow blink, "wait this actually works" expression, slight disbelief
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
-
----
-
-## 6. Hidden Feature Reveal
-
-**Vibe**: "Bet you didn't know it could do this" — screen recording energy.
-
-**Example App**: Google Maps
-
-- 0-2s: Phone in hand, Google Maps already open on a restaurant search, a sly knowing smirk
-- 2-5s: Taps on a restaurant pin, scrolls past reviews, taps "Immersive View" — navigating menus with purpose
-- 5-8s: The 3D aerial flyover loads — photorealistic rooftop view of the restaurant patio, the street, the surrounding block
-- 8-10s: Mouth opens — genuine amazement; zooming in and rotating the 3D view, shaking head in disbelief
+- 0-3s: Kitchen table — person sets phone face-up, taps once to start a Calm session, then pulls hands away completely
+- 3-6s: Goes about making tea — filling kettle, reaching for a mug — while the phone sits on the table doing its thing
+- 6-8s: Glances at the phone from across the kitchen, quick satisfied nod — it's running, no babysitting needed
+- 8-10s: Picks phone up briefly with one hand, smiles, sets it back down — effortless; goes back to the tea
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 7. 60-Second Setup
+## 8. Charging Nightstand
 
-**Vibe**: Speedrun from download to first value — it's that quick.
+**Vibe**: End of day, phone going on charger, the app is the last thing used — bookending the day.
 
-**Example App**: Arc Browser
+**Example App**: Kindle (app)
 
-- 0-3s: App Store page for Arc, thumb taps the download cloud icon, progress circle fills
-- 3-6s: Opens Arc for the first time, sign-in with Apple, import bookmarks prompt — all slightly sped up (1.5x)
-- 6-10s: First real actions at normal speed — creating a Space called "Work," pinning three tabs, dragging them into a folder in the sidebar
-- 10-15s: Leans back from phone, blinks — "that was it?" expression; the entire browser is personalized and ready
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
-
----
-
-## 8. Day in My Life ft. App
-
-**Vibe**: Vlog-style day where the app appears naturally at multiple touchpoints.
-
-**Example App**: Strava
-
-- 0-3s: Morning — kitchen counter, coffee in hand, checking Strava's suggested training plan on phone, casual glance
-- 3-6s: Midday — outdoors on a running trail, phone strapped to arm showing the live tracking screen, pace and distance visible
-- 6-9s: Evening — on the couch in sweats, scrolling through the post-run stats, splits chart, elevation map, kudos from friends
-- 9-12s: Phone on nightstand, a Strava notification badge visible — tomorrow's suggested run already queued; running shoes by the bedroom door
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
-
----
-
-## 9. Rage Quit to Calm
-
-**Vibe**: Frustrated with old tool, switches to app, immediate relief.
-
-**Example App**: Calendly
-
-- 0-3s: Laptop screen showing a 15-email-deep scheduling thread, person sighing audibly, head in hands
-- 3-5s: Picks up phone with skeptical last-resort energy, thumbs open Calendly
-- 5-8s: Calendly loads — clean availability grid; taps to create a booking link, copies it, pastes in the email thread — three taps total
-- 8-10s: Closes laptop with one hand, leans back, tension completely drained, quiet "why didn't I do this sooner" expression
+- 0-3s: Nightstand scene — a hand places the phone gently on a wireless charger pad, the satisfying alignment
+- 3-6s: Person looks at the phone one last time with a content expression — done reading on Kindle for the night, the story still on their mind
+- 6-8s: Reaches for the bedside lamp and clicks it off — the room goes dim
+- 8-10s: Settling into the pillow, the phone's subtle charging light glowing softly in the dark — the day's final bookmark
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 10. Screenshot Flex
+## 9. Waiting Room Scroll
 
-**Vibe**: Showing screenshots of results/stats from the app — quiet pride.
+**Vibe**: Using the app while waiting somewhere — making dead time productive or enjoyable.
 
-**Example App**: Apple Fitness
+**Example App**: Duolingo
 
-- 0-3s: Holding phone, navigating to the Activity summary — swiping through weekly stats
-- 3-6s: Turns phone toward camera — all three rings closed every day this month, 350K monthly steps, a 45-day move streak
-- 6-8s: Slight proud smile, slow nod — no words needed, the numbers speak
-- 8-10s: Casually locks phone and sets it face-down on the table — confident, understated
+- 0-3s: Sitting in a waiting room chair — slightly bored expression, looking around at outdated magazines, fidgeting
+- 3-6s: Pulls phone from pocket, starts a Duolingo lesson — expression brightens immediately, boredom evaporates
+- 6-8s: Completely absorbed — small smiles at getting answers right, a focused squint at a tricky one, boredom fully replaced
+- 8-10s: Looks up as if their name was called — puts phone away reluctantly, mid-lesson; the five minutes flew by
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+## 10. Coffee Shop Phone Moment
+
+**Vibe**: Using the app at a coffee shop — the aesthetic of being out and connected.
+
+**Example App**: Spotify
+
+- 0-3s: Coffee shop table — a latte in one hand, phone in the other, the cafe hum in the background
+- 3-6s: Sipping coffee while scrolling through Spotify playlists, relaxed expression — the browse is unhurried
+- 6-8s: Sets the coffee down, both thumbs on the phone, leaning in — found the perfect playlist, curating the moment
+- 8-10s: Leaning back satisfied, coffee shop ambiance surrounding them — the music and the latte are the whole afternoon
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -171,58 +171,60 @@ Shot-by-shot breakdowns for all 15 mobile app UGC formats with example apps fill
 
 ---
 
-## 12. Widget Check
+## 12. The Double Tap
 
-**Vibe**: Home screen widget glance throughout the day — it's always there.
+**Vibe**: Quick, decisive interaction — open app, do the thing, close it. Under 5 seconds of actual use.
 
-**Example App**: Carrot Weather
+**Example App**: Venmo
 
-- 0-3s: Phone home screen — Carrot Weather's widget front and center, showing "72°F — Enjoy it while it lasts, human" with a snarky sun icon
-- 3-6s: Quick glance at the widget, slight smirk at the sarcasm, set phone down on kitchen counter
-- 6-8s: Hours later — pick phone up at a café, widget has updated: "Rain at 3pm — told you so" with a rain cloud icon
-- 8-10s: Glances at sky through the window, then back at phone — grabs a jacket off the chair, trusting the widget
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
-
----
-
-## 13. Duo Reaction
-
-**Vibe**: Showing a friend the app for the first time — capturing their genuine reaction.
-
-**Example App**: BeReal
-
-- 0-3s: Two friends on a couch, one handing their phone to the other — "you gotta see this app"
-- 3-6s: Friend looks at BeReal's dual-camera interface — eyebrows shoot up, "wait it takes both cameras at once?"
-- 6-8s: Scrolling through the friend feed — real, unfiltered moments from people they know, tapping through reactions
-- 8-10s: Friend looks up from phone — "why didn't you show me this sooner" face; they immediately take their first BeReal together
+- 0-3s: Person pulls phone from their back pocket confidently — mid-conversation, mid-walk, no pause in their day
+- 3-6s: Quick, purposeful taps — they know exactly where to go in Venmo; amount, person, send — three taps
+- 6-8s: Done — slips the phone back in pocket with a satisfied nod, barely broke stride
+- 8-10s: Carries on with their day, hands completely free — the payment took literally five seconds, already forgotten
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 14. The Thing That Replaced
+## 13. Bedtime Last App
 
-**Vibe**: "I used to use X, now I use this" — casual comparison, no drama.
+**Vibe**: In bed, phone propped on chest, the last app before sleep.
 
-**Example App**: Linear (replacing Jira)
+**Example App**: Reddit
 
-- 0-3s: Phone showing Jira's interface briefly — dense text, cluttered menus, a slight grimace
-- 3-6s: Swipe to close it; open Linear — the minimal keyboard-first interface loads instantly
-- 6-8s: Create an issue in two taps — title, assign, set priority — the same task that took six taps in Jira
-- 8-10s: Casual one-shoulder shrug, hint of a smile — switched six months ago, no regrets, moving on
+- 0-3s: Lying in bed, warm dim lamp light, phone held above their face — the classic bedtime posture
+- 3-6s: Gentle scrolling through Reddit, sleepy but engaged expression — a thread caught their attention
+- 6-8s: Eyes getting heavy, but still looking at the phone with a small smile at something they read — fighting sleep
+- 8-10s: Phone slowly drops to their chest as their eyes close — drifting off mid-scroll; the "just one more thread" moment
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 15. Lock Screen Peek
+## 14. Phone Face-Down Focus
 
-**Vibe**: Notification lands on lock screen, unlocking to see what it does.
+**Vibe**: Deliberately putting the phone face-down to focus, then picking it up as a reward — the app earned the break.
 
-**Example App**: Slack
+**Example App**: TikTok
 
-- 0-2s: Phone face-up on a clean wood desk, lock screen shows time; a Slack notification drops in: "Sarah: The client approved the proposal!"
-- 2-5s: Hand reaches for phone, reads the preview, small intake of breath — good news
-- 5-8s: Face ID unlocks, Slack opens to the channel — the full message thread visible, team members reacting with party emoji
-- 8-10s: Quick tap to add a party reaction, sets phone back down on desk — satisfied, back to work
+- 0-3s: Working at their desk, phone beside them screen-up — a notification flickers, tempting
+- 3-6s: Deliberately flips the phone face-down with purpose — focus time; turns attention fully to the laptop
+- 6-8s: After a beat of focused work, they flip the phone back over with reward energy — task done, break earned
+- 8-10s: Using TikTok briefly with a satisfied smile — the face-down flip is a whole ritual, and this is the payoff
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+## 15. The AirPod Tap
+
+**Vibe**: AirPod tap to interact with the app without looking at screen — audio-first experience.
+
+**Example App**: Audible
+
+- 0-3s: Standing in the kitchen, AirPods in, one hand reaches up to double-tap the right AirPod — starting the next chapter
+- 3-6s: Listening intently, expression softening — absorbed in the Audible narration, hands now doing something else entirely
+- 6-8s: Nodding along, a small smile at a passage — the book hit a moment; mouths "yes" quietly
+- 8-10s: Double-taps the AirPod again to bookmark, keeps going about their morning — hands-free, seamless; the story continues
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

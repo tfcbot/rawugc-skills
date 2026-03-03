@@ -24,13 +24,13 @@ Completed prompt examples for each fashion format. Replace brand/garment details
 
 ---
 
-## 3. 3 Ways to Style
+## 3. Fabric Close-Up
 
-**Brand**: COS (white button-down)
+**Brand**: Cos
 
-> The same COS oversized white button-down styled three completely different ways. Look 1: casual — tucked into high-waisted jeans with white sneakers. Quick transition. Look 2: dressed up — half-tucked into a midi skirt with heeled mules and gold hoops. Quick transition. Look 3: unexpected — layered open over a slip dress with combat boots. Each look is a full outfit in a mirror against a clean wall. Fast transitions, same person, same piece, three vibes. Vertical video, natural light.
+> Extreme close-up of the Cos Cashmere Crew Neck Sweater. Fingers slowly run across the soft cashmere fabric, the fine knit visible in detail. The camera captures the weave, the ribbed cuffs, the clean stitching at the seams. A hand lifts the sweater slightly to show the luxurious drape and weight. Pull back to reveal the full piece folded neatly on a wooden surface. Natural light, vertical video, tactile ASMR energy. The oatmeal color looks warm and rich in the soft light.
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -44,31 +44,31 @@ Completed prompt examples for each fashion format. Replace brand/garment details
 
 ---
 
-## 5. Fit Check Walk
+## 5. The Tag Check
 
-**Brand**: Zara
+**Brand**: Aritzia
 
-> A person walking confidently down a sunlit sidewalk toward the camera. They're wearing a Zara structured trench coat, straight-leg jeans, pointed-toe boots, and a leather crossbody bag. Each step is confident, natural. As they get closer, details become visible — the way the trench drapes, the belt loosely tied, the boots clicking on pavement. They walk past the camera with a slight backward glance. Main character energy, effortless. Natural outdoor light, vertical video.
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
-
----
-
-## 6. Unboxing Try-On
-
-**Brand**: & Other Stories
-
-> A person sitting on their bed, opening a fashion package from & Other Stories. They pull apart tissue paper and lift out a chunky wool cardigan in oatmeal. Immediate genuine reaction — eyes widening, holding it up to see the full piece. They throw it on right away, too excited to wait. Quick mirror check — pleasantly surprised by the oversized fit and how soft it looks. Unscripted, real excitement. Bedroom, natural light, vertical video. The knit texture is visible even on camera.
+> A person wearing the Aritzia Babaton Contour Bodysuit, hand reaching to the inside collar. They pull out the tag and show it to camera — the Babaton label, the size, the material blend. They let the tag drop back and smooth the fabric at the neckline. Quick adjustment of the bodysuit in the mirror, a satisfied nod — the details check out. Bedroom mirror, natural light, vertical video, detail-oriented energy. The sculpting fit is visible in the mirror reflection.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 7. Day to Night Transition
+## 6. Hanger Appeal
 
-**Brand**: Mango
+**Brand**: Sezane
 
-> Day-to-night outfit transition. Starting with a daytime look — Mango tailored blazer, simple white tee, wide-leg trousers, and loafers. Quick transition: swapping loafers for strappy heels, adding layered gold necklaces, switching the white tee for a black cami underneath the blazer. The evening look emerges — same base, elevated vibe. Final mirror check, going-out confidence. The transformation is subtle but effective. Natural to warm evening lighting transition, vertical video.
+> The Sezane Scott Jacket on a wooden hanger held against a white wall. Slowly turning the hanger to show the front — the structured silhouette, the gold buttons — then the back. Close-up of the details: the engraved buttons, the lined interior, the clean seams. Pulling it off the hanger with intention, ready to wear. Natural light, vertical video, quiet anticipation energy. The navy wool fabric has a beautiful depth of color.
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+## 7. The Fold
+
+**Brand**: Lululemon
+
+> Lululemon Align High-Rise Pant laid flat on a white bed. Hands begin a precise, satisfying fold — smoothing the buttery Nulu fabric flat, folding in the legs, rolling from waistband down into a compact shape. The fold completes into a neat, compact rectangle. Placing the folded leggings into a drawer alongside other perfectly folded activewear — everything tidy, Marie Kondo approved. Natural light, vertical video, satisfying organization energy. The dark olive color stands out in the neutral drawer.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -84,13 +84,13 @@ Completed prompt examples for each fashion format. Replace brand/garment details
 
 ---
 
-## 9. What I Actually Wore This Week
+## 9. Color Match
 
-**Brand**: Abercrombie
+**Brand**: Everlane
 
-> A week-of-outfits montage. Monday: Abercrombie tailored trousers and a black turtleneck — quick mirror shot. Tuesday: their relaxed jeans with a cropped cardigan — coffee shop energy. Wednesday: joggers and an oversized hoodie — casual day. Thursday: wool blend coat, scarf, and boots — elevated fall. Friday: satin midi skirt and blazer — the best look of the week, lingering a beat longer. Each day is a quick 2-second clip in a different setting. Rapid fire, real, not overly curated. Multiple locations, natural light, vertical video.
+> A person standing at their open closet holding the Everlane Chore Jacket in Canvas up in front of them. They hold it next to a white tee — nice. Then next to a navy striped shirt — even better. Then next to dark denim — perfect match. They hold the jacket and the denim together with a satisfied expression, draping both over their arm. Bedroom closet, natural light, vertical video, styling energy. The tan canvas looks good against everything.
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -114,11 +114,11 @@ Completed prompt examples for each fashion format. Replace brand/garment details
 
 ---
 
-## 12. Airport Outfit
+## 12. The Stretch Test
 
-**Brand**: Lululemon
+**Brand**: Girlfriend Collective
 
-> Airport outfit showcase. A person zips their suitcase, already dressed in a Lululemon Softstreme matching set in bone, with clean white New Balance 550s and a canvas tote. Quick mirror check — comfortable and stylish. Walking through the airport with a carry-on, the outfit moves well and doesn't wrinkle. Sitting at the gate — still looks put-together after hours of travel. Comfort-meets-style energy. Airport/travel settings, natural fluorescent + daylight, vertical video. AirPods in, passport in hand.
+> Close-up of the Girlfriend Collective Compressive High-Rise Legging on the leg, hands gripping the fabric at the thigh. A gentle stretch pull outward — showing the compressive four-way stretch of the recycled material. Release — the fabric snaps back perfectly to shape, zero distortion. Smoothing the fabric with a satisfied hand pass — it holds up beautifully. Natural light, vertical video, quality-test energy. The moss green color stays rich even when stretched.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -134,11 +134,11 @@ Completed prompt examples for each fashion format. Replace brand/garment details
 
 ---
 
-## 14. Accessory Stack
+## 14. The Hand Feel
 
-**Brand**: Mejuri
+**Brand**: Jenni Kayne
 
-> Close-up accessory stacking video. Starting bare — clean hands, bare neck. One by one: a Mejuri bold signet ring, then a thin chain bracelet, then layered necklaces (the croissant dome pendant + a thin herringbone chain), then small gold hoops. Each piece added in extreme close-up, satisfying layering. The camera pulls back to show the full accessory look with a simple black outfit. Minimal, intentional, each piece matters. Close-up to medium shot, soft lighting, vertical video.
+> The Jenni Kayne Cashmere Cocoon Cardigan draped across a lap on a couch. Hands run slowly over the cashmere fabric — feeling the incredible softness, the weight and drape. Bunching it slightly to show how it springs back, no pilling, just pure softness. Holding it up to cheek and pressing it in — pure cozy comfort. Living room, warm light, vertical video, sensory ASMR energy. The camel color is rich and warm against their skin.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -194,10 +194,10 @@ Completed prompt examples for each fashion format. Replace brand/garment details
 
 ---
 
-## 20. Returns vs Keeps
+## 20. The Hang
 
-**Brand**: Abercrombie (keeper piece)
+**Brand**: Toteme
 
-> A fashion haul sorting video. Multiple items from different brands laid out on a bed. The person tries each on, giving honest reactions. A fast-fashion dress goes to the return pile with a head shake — "cheap fabric." An online impulse buy, return — "weird fit." When they try on the Abercrombie Sloane tailored pant, their face lights up — immediate keeper, the drape is perfect and it fits like it was tailored. They continue through the rest. Final shot: the keep pile is curated and the Sloane pant is front and center. Honest, unsponsored energy — the product earned its spot. Bedroom, natural light, vertical video.
+> Holding the Toteme Signature Wool-Blend Coat on a wooden hanger, standing in front of an open closet. Finding the right spot on the rack — sliding hangers aside to make room. Placing the coat in its spot, adjusting the shoulders perfectly on the hanger. Stepping back to see it in context among the other pieces — it belongs here, the anchor of the wardrobe. Bedroom closet, natural light, vertical video, wardrobe curation energy. The black wool-blend has a quiet, architectural presence.
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

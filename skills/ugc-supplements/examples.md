@@ -24,21 +24,21 @@ Completed prompt examples for each supplement format. Replace brand/product deta
 
 ---
 
-## 3. Smoothie Build
+## 3. The Scoop Close-Up
 
-**Product**: Vital Proteins Collagen Peptides
+**Product**: AG1 Athletic Greens
 
-> Smoothie making scene. A kitchen counter with frozen berries, banana, almond milk, and a handful of spinach. A person drops each ingredient into a blender. Then they add two scoops of Vital Proteins Collagen Peptides — the unflavored powder dissolves instantly. They blend it, pour into a glass. First sip — genuine nod of approval, no weird taste. The supplement blends in naturally, both literally and as part of the routine. Bright kitchen, vertical video. The blue tub sits casually next to the blender.
+> Open AG1 pouch, camera close on the green powder surface. The scoop dips in, fills up completely, and lifts out — the fine green powder catching the light. A tap on the rim to level it off — clean and precise. Pouring into a glass, the powder cascading down with satisfying weight. Kitchen counter, natural light, vertical video, ASMR scoop energy. The ritual is as important as the supplement.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 4. What I Take and Why
+## 4. The Cabinet Pull
 
-**Product**: Seed DS-01 Synbiotic
+**Product**: Thorne Magnesium Bisglycinate
 
-> A person standing in front of their supplement lineup, casually explaining each one. They point at each bottle with a one-liner — "this for omega-3s," "this for vitamin D since I'm inside all day," "this for sleep." When they reach the Seed DS-01, they spend a beat longer — "this is my gut health non-negotiable, it's the only probiotic that actually survived the research rabbit hole." They finish with a casual "that's my stack." Kitchen counter, natural light, selfie angle, vertical video.
+> A hand opens a kitchen cabinet — supplements organized inside on the shelf. Thorne Magnesium Bisglycinate sits front and center, clearly the most-used bottle. Hand reaches past the others and grabs the Thorne bottle with purpose. Closes the cabinet, holds the bottle — this is the daily essential. Kitchen, natural light, vertical video, medicine cabinet reveal energy. The placement says everything about the hierarchy.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -104,11 +104,11 @@ Completed prompt examples for each supplement format. Replace brand/product deta
 
 ---
 
-## 11. Reading the Label
+## 11. The Palm Display
 
 **Product**: Nordic Naturals Ultimate Omega
 
-> A person examining Nordic Naturals Ultimate Omega. They flip the bottle to show the supplement facts panel. They point at key ingredients — "1280mg omega-3s per serving, that's actually a proper dose unlike most brands," "triglyceride form, not ethyl ester." They note what's absent — "no artificial flavors, no GMOs, third-party tested by IFOS." They flip the bottle back to the front with a satisfied expression — this passes the label test. Close-up, readable label, natural light, vertical video.
+> Open palm over a clean kitchen counter. Tipping the Nordic Naturals Ultimate Omega bottle — soft gel capsules falling into palm, one, two. Close-up of the amber soft gels in palm — the concentrated fish oil visible through the casing. Quick toss into mouth, chase with a glass of water — done, daily ritual complete. Kitchen, morning light, vertical video, supplement ritual energy. Two capsules and the omega-3s are handled for the day.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -144,10 +144,10 @@ Completed prompt examples for each supplement format. Replace brand/product deta
 
 ---
 
-## 15. Vs My Old Brand
+## 15. The Water Drop
 
-**Product**: Momentous Creatine vs generic store brand
+**Product**: LMNT Electrolytes (Citrus Salt)
 
-> Brand comparison. A person holds a generic GNC creatine in one hand and Momentous Creatine in the other. They compare — "this one has artificial sweeteners and fillers, this one is just pure Creapure monohydrate." "I was paying $25 for 60 servings of questionable quality. This is $40 but it's NSF-certified, so I know what's actually in it." They explain why they switched — honest, not brand-bashing, just facts. They set the generic aside and keep Momentous. Decision made. Good lighting for label readability, vertical video.
+> A clear glass of water on a white kitchen counter, LMNT Citrus Salt packet beside it. Tearing the packet open and pouring the powder into the water — the yellow-orange powder hitting the surface and beginning to dissolve. Watching the swirl of citrus color spread through the clear water — mesmerizing diffusion. A quick stir with a spoon, lifting the glass — ready to drink. Kitchen, bright natural light, vertical video, satisfying dissolve energy. The transformation from plain water to citrus electrolyte drink is oddly beautiful.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

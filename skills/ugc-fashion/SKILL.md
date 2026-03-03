@@ -65,22 +65,20 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 3. 3 Ways to Style
+### 3. Fabric Close-Up
 
-**Vibe**: Same piece, 3 completely different outfits — quick transitions.
+**Vibe**: Extreme close-up of fabric texture, stitching, material quality — ASMR for fashion people.
 
 **Structure**:
-- 0-2s: Look 1 — the piece styled casually (jeans + sneakers)
-- 2-5s: Quick transition cut
-- 5-7s: Look 2 — dressed up (heels + accessories)
-- 7-10s: Quick transition cut
-- 10-12s: Look 3 — unexpected styling (layered, tied differently)
-- 12-15s: All three looks in rapid succession
+- 0-3s: Close-up of [PRODUCT] fabric — fingers running across the material
+- 3-6s: Camera captures weave, texture, stitching detail
+- 6-8s: Hand lifts the garment slightly to show drape and weight
+- 8-10s: Pull back to show the full piece on a hanger or folded neatly
 
 **Prompt Template**:
-> The same [GARMENT] styled three completely different ways. Look 1: casual — paired with [CASUAL COMBO, e.g. jeans and sneakers]. Quick transition. Look 2: dressed up — [ELEVATED COMBO, e.g. heels, statement jewelry]. Quick transition. Look 3: unexpected — [CREATIVE COMBO, e.g. layered over a dress, tied at the waist]. Each look is a full outfit in a mirror or against a clean wall. Fast transitions, same person, same piece, three vibes. Vertical video, natural light. [ADDITIONAL DETAILS].
+> Extreme close-up of [GARMENT from BRAND]. Fingers slowly run across the fabric, the [FABRIC DETAIL — e.g. fine knit, weave, grain] visible in detail. The camera captures the [TEXTURE DETAILS — e.g. weave, ribbed cuffs, clean stitching at the seams]. A hand lifts the garment slightly to show the [DRAPE/WEIGHT QUALITY — e.g. luxurious drape and weight]. Pull back to reveal the full piece [DISPLAY — e.g. folded neatly on a wooden surface, hanging on a wooden hanger]. Natural light, vertical video, tactile ASMR energy. [ADDITIONAL DETAILS].
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -101,52 +99,52 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 5. Fit Check Walk
+### 5. The Tag Check
 
-**Vibe**: Walking toward camera in the outfit — street or hallway, confident energy.
+**Vibe**: Checking the tag, showing the size, the brand — the small details that matter.
 
 **Structure**:
-- 0-3s: Camera at end of hallway or sidewalk, person walking toward it
-- 3-6s: Full outfit visible as they approach, each step confident
-- 6-8s: Getting closer — details of fabric, fit, accessories visible
-- 8-10s: Walk past camera, slight turn/look back
+- 0-3s: Person wearing [PRODUCT], hand reaches to the back/inside collar
+- 3-6s: Pulling out the tag, showing it to camera — brand, size, material
+- 6-8s: Letting the tag drop back, smoothing the fabric where they checked
+- 8-10s: Quick adjustment of the piece, satisfied nod at mirror
 
 **Prompt Template**:
-> A person walking confidently down a [SETTING — hallway, sidewalk, corridor] toward the camera. They're wearing [OUTFIT DESCRIPTION]. Each step is confident, natural. As they get closer, details become visible — the way [GARMENT] drapes, the accessories, the shoes. They walk past the camera with a slight backward glance. Main character energy, effortless. Natural outdoor or indoor light, vertical video. [ADDITIONAL DETAILS].
+> A person wearing [GARMENT from BRAND], hand reaching to the [TAG LOCATION — e.g. inside collar, back neckline]. They pull out the tag and show it to camera — the [BRAND] label, the size, the material blend. They let the tag drop back and smooth the fabric at the [AREA]. Quick adjustment of the [GARMENT] in the mirror, a satisfied nod — the details check out. [SETTING — e.g. bedroom mirror], natural light, vertical video, detail-oriented energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 6. Unboxing Try-On
+### 6. Hanger Appeal
 
-**Vibe**: Opening a fashion package, holding up items, immediately putting them on.
+**Vibe**: Showing the piece on the hanger, examining it before putting it on — the anticipation.
 
 **Structure**:
-- 0-3s: Package on bed/table, tearing open, pulling out tissue paper
-- 3-5s: First garment out — holding up, genuine "oh" reaction
-- 5-8s: Immediately trying it on — no waiting, need to see it now
-- 8-10s: Mirror check with the new piece on, pleasantly surprised
+- 0-3s: [PRODUCT] on a hanger held up against a clean wall or closet door
+- 3-6s: Turning the hanger slowly, showing front and back
+- 6-8s: Close-up of details — buttons, zippers, labels, seams
+- 8-10s: Pulling it off the hanger with intention — about to put it on
 
 **Prompt Template**:
-> A person sitting on their bed, opening a fashion package from [BRAND]. They pull apart tissue paper and lift out [GARMENT]. Immediate genuine reaction — eyes widening, holding it up to see the full piece. They throw it on right away, too excited to wait. Quick mirror check — pleasantly surprised by the fit. Unscripted, real excitement. Bedroom, natural light, vertical video. [ADDITIONAL DETAILS].
+> [GARMENT from BRAND] on a [HANGER TYPE — e.g. wooden hanger, velvet hanger] held against a [BACKGROUND — e.g. white wall, closet door]. Slowly turning the hanger to show the front — [FRONT DETAILS — e.g. the structured silhouette, the buttons] — then the back. Close-up of the details: [CLOSE-UP DETAILS — e.g. the engraved buttons, the lined interior, the clean seams]. Pulling it off the hanger with intention, ready to wear. Natural light, vertical video, quiet anticipation energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 7. Day to Night Transition
+### 7. The Fold
 
-**Vibe**: Same base outfit, swap a few pieces, go from daytime to evening.
+**Vibe**: Satisfying folding or rolling technique — Marie Kondo energy for your favorite piece.
 
 **Structure**:
-- 0-3s: Daytime look — casual, clean, work-appropriate
-- 3-5s: Quick transition — swapping shoes, adding jewelry, changing a layer
-- 5-8s: Evening look — elevated, going-out energy
-- 8-10s: Confident walk out or final mirror check, ready for the night
+- 0-3s: [PRODUCT] laid flat on a clean surface
+- 3-6s: Hands begin a precise, satisfying fold — smooth movements
+- 6-8s: The fold completes into a neat, compact shape
+- 8-10s: Placing the folded piece into a drawer or stack — everything tidy
 
 **Prompt Template**:
-> Day-to-night outfit transition. Starting with a daytime look — [DAY OUTFIT, e.g. blazer, simple top, trousers, flats]. Quick transition: swapping [CHANGES — e.g. flats for heels, adding statement earrings, switching blazer for leather jacket]. The evening look emerges — same base, elevated vibe. Final mirror check, going-out confidence. The transformation is subtle but effective. Natural to warm evening lighting transition, vertical video. [ADDITIONAL DETAILS].
+> [GARMENT from BRAND] laid flat on a [SURFACE — e.g. white bed, marble counter, clean table]. Hands begin a precise, satisfying fold — smoothing the [FABRIC TYPE] flat, [FOLD STEPS — e.g. folding in the legs, rolling from waistband down] into a compact shape. The fold completes into a neat, compact [SHAPE — e.g. rectangle, square]. Placing the folded [GARMENT] into a [DESTINATION — e.g. drawer alongside other perfectly folded pieces, neat stack] — everything tidy, Marie Kondo approved. Natural light, vertical video, satisfying organization energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -169,22 +167,20 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 9. What I Actually Wore This Week
+### 9. Color Match
 
-**Vibe**: Rapid montage of real daily outfits — honest, not curated.
+**Vibe**: Holding the piece up to different items to show what it goes with — color palette moment.
 
 **Structure**:
-- 0-2s: Monday outfit — quick mirror selfie
-- 2-4s: Tuesday — different setting, different vibe
-- 4-6s: Wednesday — maybe more casual
-- 6-8s: Thursday — stepping it up
-- 8-12s: Friday — best outfit of the week
-- 12-15s: Quick flash through all five again
+- 0-3s: Person holding [PRODUCT] up in front of them, looking at it
+- 3-6s: Holding it next to other pieces from their closet — showing color combos
+- 6-8s: Finding the perfect match, holding the two pieces together
+- 8-10s: Satisfied expression, draping the combo over their arm
 
 **Prompt Template**:
-> A week-of-outfits montage. Monday: [MONDAY OUTFIT] — quick mirror shot. Tuesday: [TUESDAY OUTFIT] — different energy. Wednesday: [WEDNESDAY OUTFIT] — casual day. Thursday: [THURSDAY OUTFIT] — elevated. Friday: [FRIDAY OUTFIT] — the best look of the week, lingering a beat longer. Each day is a quick 2-second clip in a different setting. Rapid fire, real, not overly curated. All featuring pieces from [BRAND]. Multiple locations, natural light, vertical video. [ADDITIONAL DETAILS].
+> A person standing at their open closet holding [GARMENT from BRAND] up in front of them. They hold it next to [ITEM 1 — e.g. a white tee] — nice. Then next to [ITEM 2 — e.g. a navy striped shirt] — even better. Then next to [ITEM 3 — e.g. dark denim] — perfect match. They hold the [GARMENT] and the [BEST MATCH] together with a satisfied expression, draping both over their arm. [SETTING — e.g. bedroom closet], natural light, vertical video, styling energy. [ADDITIONAL DETAILS].
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -222,18 +218,18 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 12. Airport Outfit
+### 12. The Stretch Test
 
-**Vibe**: Travel OOTD — comfort meets style, real travel setting.
+**Vibe**: Testing the stretch and movement of the fabric — pulling, bending, showing flexibility.
 
 **Structure**:
-- 0-3s: Packing or zipping suitcase, dressed and ready to go
-- 3-6s: Full outfit check in hallway mirror — comfortable but put-together
-- 6-8s: Walking through airport/station, carry-on in hand
-- 8-10s: Sitting at gate or in car, outfit looks good after hours of wear
+- 0-3s: Close-up of [PRODUCT] on body, hands gripping the fabric
+- 3-6s: Gentle stretch pull — showing the four-way stretch or give of the material
+- 6-8s: Release — fabric snaps back perfectly, no distortion
+- 8-10s: Smoothing the fabric with a satisfied hand pass — it holds up
 
 **Prompt Template**:
-> Airport outfit showcase. A person zips their suitcase, already dressed in [TRAVEL OUTFIT — e.g. matching set, oversized hoodie and bike shorts, linen pants and sneakers from BRAND]. Quick mirror check — comfortable and stylish. Walking through the airport with a carry-on, the outfit moves well. Sitting at the gate — still looks put-together after hours of travel. Comfort-meets-style energy. Airport/travel settings, natural fluorescent + daylight, vertical video. [ADDITIONAL DETAILS].
+> Close-up of [GARMENT from BRAND] on the [BODY AREA — e.g. leg, torso, arm], hands gripping the fabric at the [GRIP POINT — e.g. thigh, waist, sleeve]. A gentle stretch pull outward — showing the [STRETCH TYPE — e.g. four-way stretch, natural give] of the [MATERIAL]. Release — the fabric snaps back perfectly to shape, zero distortion. Smoothing the fabric with a satisfied hand pass — it holds up beautifully. Natural light, vertical video, quality-test energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -256,18 +252,18 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 14. Accessory Stack
+### 14. The Hand Feel
 
-**Vibe**: Building a look from accessories up — rings, chains, bags, close-ups.
+**Vibe**: Running hands over the piece, feeling the quality — tactile, sensory, cozy.
 
 **Structure**:
-- 0-2s: Clean hands/neck, bare starting point
-- 2-5s: Adding pieces one by one — ring, then bracelet, then chain
-- 5-8s: Each addition in close-up, satisfying stacking
-- 8-10s: Full accessory look assembled, pulling back to show the complete outfit
+- 0-3s: [PRODUCT] draped over lap or across a surface
+- 3-6s: Hands running slowly over the fabric — feeling the texture, the weight
+- 6-8s: Bunching it slightly, showing the softness and recovery
+- 8-10s: Holding it up to cheek or pressing it — pure comfort
 
 **Prompt Template**:
-> Close-up accessory stacking video. Starting bare — clean hands, bare neck. One by one: [ACCESSORIES — e.g. gold ring, then chain bracelet, then layered necklaces, then watch, then bag from BRAND]. Each piece added in extreme close-up, satisfying layering. The camera pulls back to show the full accessory look with the outfit. Minimal, intentional, each piece matters. Close-up to medium shot, soft lighting, vertical video. [ADDITIONAL DETAILS].
+> [GARMENT from BRAND] draped across a [SURFACE — e.g. lap on a couch, bed, chair arm]. Hands run slowly over the [FABRIC TYPE] — feeling the [TEXTURE QUALITY — e.g. incredible softness, the weight and drape]. Bunching it slightly to show how it [RECOVERY — e.g. springs back, no pilling, just pure softness]. Holding it up to cheek and pressing it in — pure cozy comfort. [SETTING — e.g. living room, bedroom], warm light, vertical video, sensory ASMR energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -359,18 +355,17 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 20. Returns vs Keeps
+### 20. The Hang
 
-**Vibe**: Trying on multiple items, sorting honestly into keep and return piles.
+**Vibe**: Hanging the piece in its spot in the closet — it's earned its place.
 
 **Structure**:
-- 0-2s: Multiple packages or items laid out on bed
-- 2-5s: First item try-on — honest reaction, sort into keep or return
-- 5-8s: Second item — same process, genuine evaluation
-- 8-11s: Third item from [BRAND] — clearly a keeper, face lights up
-- 11-15s: Final tally — showing the keep pile, [BRAND] piece prominently there
+- 0-3s: Holding [PRODUCT] on a hanger, standing in front of open closet
+- 3-6s: Finding the right spot on the rack, sliding hangers aside
+- 6-8s: Placing it in its spot, adjusting the shoulders on the hanger
+- 8-10s: Stepping back to see it in context — it belongs here
 
 **Prompt Template**:
-> A fashion haul sorting video. Multiple items from different brands laid out on a bed. The person tries each on, giving honest reactions. Some go to the return pile with a head shake. When they try on [GARMENT from BRAND], their face lights up — immediate keeper. They continue through the rest. Final shot: the keep pile is curated and [BRAND] piece is front and center. Honest, unsponsored energy — the product earned its spot. Bedroom, natural light, vertical video. [ADDITIONAL DETAILS].
+> Holding [GARMENT from BRAND] on a [HANGER TYPE — e.g. wooden hanger, velvet hanger], standing in front of an open closet. Finding the right spot on the rack — sliding hangers aside to make room. Placing the [GARMENT] in its spot, adjusting the shoulders perfectly on the hanger. Stepping back to see it in context among the other pieces — it belongs here, [WARDROBE ROLE — e.g. the anchor of the wardrobe, the statement piece]. [SETTING — e.g. bedroom closet], natural light, vertical video, wardrobe curation energy. [ADDITIONAL DETAILS].
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

@@ -3,8 +3,10 @@ name: ugc-saas
 description: >-
   UGC video format templates for SaaS products. Contains 15 TikTok-native,
   lofi video formats with shot-by-shot structure and AI video generation prompts.
-  Use when the user wants to create SaaS UGC content — product demos, workflow showcases,
-  founder stories, or results-driven content.
+  Focused on people talking about, reacting to, and advocating for SaaS tools —
+  never showing screens, dashboards, or UI. Use when the user wants to create
+  SaaS UGC content — passionate recommendations, founder stories, or personal
+  reactions to tools they love.
 requires:
   env:
     - RAWUGC_API_KEY
@@ -17,7 +19,7 @@ source: https://github.com/tfcbot/rawugc-skills
 
 # SaaS UGC Video Formats
 
-15 lofi, TikTok-native video formats for SaaS products. Raw, authentic, easy to produce. No hard CTAs — these feel like real professionals sharing tools they actually use in their workflow.
+15 lofi, TikTok-native video formats for SaaS products. Raw, authentic, easy to produce. No hard CTAs — these feel like real professionals sharing tools they actually use. All formats focus on the PERSON — talking to camera, reacting, gesturing, celebrating — never showing actual screens, dashboards, or UI recordings. Think "founder talking about their stack" not "screen recording walkthrough."
 
 ## How to Use These Formats
 
@@ -31,86 +33,86 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ## Formats
 
-### 1. Emotional Hook + Demo
+### 1. The Tool I Won't Shut Up About
 
-**Vibe**: Face to camera sharing a frustration, then flipping to screen demo of the fix.
+**Vibe**: Talking to camera about the one SaaS tool you keep recommending — passionate, genuine advocacy.
 
 **Structure**:
-- 0-3s: Close-up face, relatable frustration — "I was so tired of doing X manually"
-- 3-5s: Transition to screen — opening [PRODUCT] dashboard
-- 5-8s: Quick demo of the feature that solves the pain point
-- 8-10s: Back to face — relieved, satisfied expression
+- 0-3s: Face to camera, sitting at desk — "my coworkers are sick of me talking about this"
+- 3-6s: Holding up phone/gesturing — explaining what it does in plain terms
+- 6-8s: Getting more animated — the specific thing that makes it special
+- 8-10s: Leaning in — "seriously just try it" — genuine conviction
 
 **Prompt Template**:
-> A person talking directly to camera with genuine frustration — "I was spending hours on [PAIN POINT]." Their expression is relatable and tired. Quick cut to their laptop screen showing [PRODUCT] dashboard. They click through [KEY FEATURE] — the problem gets solved in seconds. Cut back to their face — visible relief and satisfaction. The contrast between pain and solution tells the story. Desk setting, natural light, selfie angle, vertical video. [ADDITIONAL DETAILS].
+> A person sitting at their desk, face to camera — "my [AUDIENCE, e.g. coworkers, team, friends] are genuinely sick of me talking about this." Holding up phone or gesturing while explaining what [PRODUCT] does in plain terms. Getting more animated about [KEY DIFFERENTIATOR] — the specific thing that makes it special. Leaning in with genuine conviction — "seriously just try it." Home office, natural light, vertical video, passionate recommendation energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 2. Desk Setup ft. Product
+### 2. Desk Tour Namecheck
 
-**Vibe**: Aesthetic desk tour — product dashboard visible on screen, soft mention.
+**Vibe**: Casual desk tour, namecheck each tool in the stack — the SaaS product gets the hero spot.
 
 **Structure**:
-- 0-3s: Wide shot of a clean, aesthetic desk setup — monitor, keyboard, plant
-- 3-6s: Camera pans across the desk, landing on the monitor
-- 6-8s: [PRODUCT] dashboard is open on screen, data/charts visible
-- 8-10s: Person sits down, starts working, product is just part of the setup
+- 0-3s: Camera panning across a clean desk setup — monitor, keyboard, coffee
+- 3-6s: Hand pointing at different things casually, naming them
+- 6-8s: Hand gestures toward the laptop/screen — "[PRODUCT] lives here"
+- 8-10s: Leaning back in chair, hands behind head — the setup is complete
 
 **Prompt Template**:
-> An aesthetic desk tour. Clean workspace — monitor, mechanical keyboard, coffee, a small plant. The camera pans slowly across the setup, settling on the monitor where [PRODUCT] dashboard is open — showing [DASHBOARD CONTENT, e.g. analytics, project boards, pipelines]. A person sits down and starts working naturally. [PRODUCT] isn't the focus — it's just part of a well-curated workspace. Warm lighting, vertical video, aesthetic productivity vibes. [ADDITIONAL DETAILS].
+> Camera panning across a clean [SETTING, e.g. home office, studio] desk — monitor, keyboard, [DESK ITEMS]. Hand pointing at items casually, naming the tools in the stack. Hand gestures toward the laptop — "and [PRODUCT] basically lives here permanently." Leaning back in the chair, hands behind head — the setup is dialed. Natural light, vertical video, desk tour energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 3. Workflow ASMR
+### 3. The Laptop Close
 
-**Vibe**: Satisfying screen recording of clicking through a clean UI — no voiceover, pure flow.
+**Vibe**: End of workday — closing the laptop lid with satisfaction because the tool handled everything.
 
 **Structure**:
-- 0-3s: Cursor moving smoothly through [PRODUCT] interface
-- 3-6s: Clicking through actions — creating, organizing, completing tasks
-- 6-8s: Drag-and-drop or automation triggering, satisfying visual feedback
-- 8-10s: Final state — everything organized, clean, done
+- 0-3s: Person at desk, typing final keystrokes, looking satisfied
+- 3-6s: Leaning back, stretching, glancing at the time — done early
+- 6-8s: Reaching forward and slowly closing the laptop lid — satisfying click
+- 8-10s: Standing up, grabbing coffee mug, walking away — day is done
 
 **Prompt Template**:
-> A satisfying screen recording of [PRODUCT] in action. A cursor moves smoothly through the clean interface — clicking, dragging, organizing. [WORKFLOW — e.g. moving cards on a kanban board, triggering an automation sequence, completing a batch of tasks]. Each click is satisfying, each transition smooth. No voiceover, no music — just the zen of a well-designed tool doing its job. The final state is clean and organized. Screen recording style, vertical video. [ADDITIONAL DETAILS].
+> A person at their desk, typing final keystrokes with a satisfied expression. Leaning back and stretching, glancing at the clock — done earlier than expected thanks to [PRODUCT] keeping everything on track. Reaching forward and slowly closing the laptop lid — satisfying click. Standing up and grabbing their [ITEM, e.g. coffee mug, jacket], heading out. [SETTING], [LIGHTING], vertical video, end-of-day satisfaction energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 4. The 5pm Dashboard
+### 4. The "Before This Tool" Rant
 
-**Vibe**: End of day, looking at results — genuine "wow, we did that" reaction.
+**Vibe**: Talking to camera about how bad things were before this SaaS tool — relatable frustration turned relief.
 
 **Structure**:
-- 0-3s: Person leaning back in chair, end-of-day energy, checking laptop
-- 3-6s: [PRODUCT] dashboard showing impressive daily/weekly metrics
-- 6-8s: Close-up of specific numbers or charts that stand out
-- 8-10s: Satisfied expression, closing laptop, work well done
+- 0-3s: Face to camera, exasperated expression — "before I found [PRODUCT]…"
+- 3-6s: Counting frustrations on fingers, animated storytelling
+- 6-8s: Expression shifts to relief — "and then I found this"
+- 8-10s: Relaxed, leaning back — "haven't thought about that problem since"
 
 **Prompt Template**:
-> End of workday. A person leans back in their desk chair, stretching, then glances at their laptop. [PRODUCT] dashboard is open showing [METRICS — e.g. deals closed, tasks completed, revenue tracked, emails sent]. The numbers are impressive. Close-up of the dashboard, key metrics highlighted. They lean back with a satisfied, quiet "we did that" expression. Closes the laptop. Natural office/home office lighting, golden hour, vertical video. [ADDITIONAL DETAILS].
+> A person face to camera with an exasperated expression — recounting [PAIN POINT] before [PRODUCT]. Counting frustrations on their fingers — [FRUSTRATIONS, e.g. the manual process, the errors, the wasted time]. Expression shifts to visible relief — "and then I found [PRODUCT]." Relaxed, leaning back — "haven't thought about [PROBLEM] since." Home office, natural light, vertical video, before-and-after storytelling energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 5. Before This I Was Using Spreadsheets
+### 5. The Stack Ranking
 
-**Vibe**: Cringe flashback to the old way, cut to clean dashboard — instant upgrade energy.
+**Vibe**: Casually ranking your SaaS tools — the product gets top billing.
 
 **Structure**:
-- 0-3s: Showing a messy, color-coded spreadsheet — overwhelmed expression
-- 3-5s: Dramatic close of laptop or tab, "never again" energy
-- 5-8s: Opens [PRODUCT] — same data but organized, visual, clean
-- 8-10s: Peaceful expression, the chaos is over
+- 0-3s: Sitting at desk, talking to camera — "my top 3 tools right now"
+- 3-6s: Counting: "#3 is good, #2 is great…"
+- 6-8s: "#1 — and it's not even close" — naming [PRODUCT] with emphasis
+- 8-10s: Nodding definitively — the ranking is final
 
 **Prompt Template**:
-> A person grimacing at a chaotic spreadsheet on their screen — messy rows, confusing color codes, too many tabs. They dramatically close the tab. Opens [PRODUCT] instead — the same information but clean, visual, organized. [DASHBOARD VIEW — e.g. charts, kanban boards, clean tables]. Their expression shifts from stressed to peaceful. The spreadsheet era is over. Split between laptop screen and face reactions, natural light, vertical video. [ADDITIONAL DETAILS].
+> A person sitting at their desk, talking to camera — "my top [NUMBER] tools right now." Counting on fingers: "[TOOL #3] — solid. [TOOL #2] — really great." Then with emphasis — "Number one, and it's not close — [PRODUCT]." Nodding definitively, the ranking is final. Home office, natural light, vertical video, hot take energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -150,52 +152,52 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 8. Automations Running
+### 8. The Meeting That Could've Been
 
-**Vibe**: Screen recording of automations firing — satisfying domino effect.
+**Vibe**: Talking about time saved — the meeting/process [PRODUCT] eliminated entirely.
 
 **Structure**:
-- 0-3s: Automation trigger — a form submitted, a deal moved, a task completed
-- 3-6s: Chain reaction — automated actions firing in sequence
-- 6-8s: Results populating — emails sent, tasks created, data synced
-- 8-10s: Final state — everything updated automatically, zero manual work
+- 0-3s: Person at desk, gesturing at an empty calendar/notebook — "we used to have a whole meeting for this"
+- 3-6s: Shaking head at the absurdity, leaning forward
+- 6-8s: Holding up phone — "[PRODUCT] just does it automatically now"
+- 8-10s: Shrug, satisfied smile — "got an hour of my life back every week"
 
 **Prompt Template**:
-> A satisfying screen recording of [PRODUCT]'s automation in action. It starts with a trigger — [TRIGGER, e.g. a new form submission, a deal stage change]. Then automations cascade: [CHAIN — e.g. email sends, task creates, data syncs, notification fires]. Each step happens automatically, one after another like dominoes. The final state shows everything updated — zero manual intervention. Clean, efficient, mesmerizing. Screen recording, vertical video. [ADDITIONAL DETAILS].
+> A person at their desk, gesturing at an empty [PROP, e.g. notebook, calendar] — "we used to have a whole meeting for [TASK]." Shaking their head at the absurdity, leaning forward. Holding up their phone — "[PRODUCT] just handles it automatically now." Satisfied shrug and smile — "got [TIME SAVED] back every week." Home office, natural light, vertical video, time-saved celebration energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 9. Onboarding Speedrun
+### 9. The Walk-Away Test
 
-**Vibe**: Sign up to first value in under 60 seconds — it's that smooth.
+**Vibe**: Talking about how the tool works even when you're not paying attention — set it and forget it.
 
 **Structure**:
-- 0-3s: Landing page, clicking "Sign Up" or "Get Started"
-- 3-7s: Quick onboarding flow — sped up slightly, clean steps
-- 7-12s: First meaningful action — creating something, seeing first data
-- 12-15s: "Done" moment — leaning back, impressed by how fast that was
+- 0-3s: Person at desk, gesturing at closed laptop — "I set this up on Monday"
+- 3-6s: "Haven't touched it since" — hands up, backing away slightly
+- 6-8s: "And it's been running perfectly" — impressed with their own setup
+- 8-10s: Finger guns at camera — "that's how you know it's the right tool"
 
 **Prompt Template**:
-> Speedrun of [PRODUCT] onboarding. Starting from the landing page — clicking sign up. The onboarding flow is quick and clean — [ONBOARDING STEPS, e.g. name, workspace, first project]. Slightly sped up. Within moments they're doing their first real action — [FIRST VALUE MOMENT]. They lean back, genuinely impressed by how fast they went from zero to productive. Screen recording mixed with face reactions, vertical video. [ADDITIONAL DETAILS].
+> A person at their desk, gesturing at their closed laptop — "I set this up on [TIME]." Hands up, backing away slightly — "haven't touched it since." Impressed expression — "and [PRODUCT]'s been [RUNNING TASK] perfectly." Finger guns at camera — "that's how you know it's the right tool." Home office, natural light, vertical video, set-it-and-forget-it energy. [ADDITIONAL DETAILS].
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 10. Slack Notification Moment
+### 10. The Coffee Machine Pitch
 
-**Vibe**: Integration notification pops in — genuine "oh nice" excitement.
+**Vibe**: Casually explaining [PRODUCT] like you're pitching it to a coworker at the coffee machine — informal, persuasive.
 
 **Structure**:
-- 0-2s: Working at desk, Slack/Teams open in background
-- 2-5s: Notification pops in from [PRODUCT] integration — a result, alert, or update
-- 5-8s: Reading the notification, expression shifts to impressed/pleased
-- 8-10s: Quick click through to [PRODUCT] to see the full detail, satisfied
+- 0-3s: Person standing, holding coffee, casual posture — "okay so basically…"
+- 3-6s: Hand gestures while explaining simply — no jargon, plain language
+- 6-8s: "And the best part is…" — the killer feature, delivered casually
+- 8-10s: Sips coffee, shrugs — "just works"
 
 **Prompt Template**:
-> A person working at their desk. A Slack notification pops up from [PRODUCT] — "[NOTIFICATION — e.g. 'New deal closed: $X', 'Report ready', 'Automation complete']". They read it, eyebrows raise — genuinely impressed. They click through to [PRODUCT] to see the full detail. Satisfied nod. The integration works silently in the background and surfaces wins. Natural desk setting, screen visible, vertical video. [ADDITIONAL DETAILS].
+> A person standing in their [SETTING, e.g. kitchen, break room] holding a coffee mug, casual posture — "okay so basically…" Hand gestures while explaining [PRODUCT] in plain terms — no jargon, just simple language. "And the best part is [KILLER FEATURE]." Sips coffee with a shrug — "just works." [SETTING], [LIGHTING], vertical video, watercooler pitch energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -218,18 +220,18 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 12. Side by Side
+### 12. The Whiteboard Moment
 
-**Vibe**: Split screen of old way vs new way — no commentary needed, the visuals speak.
+**Vibe**: Scribbling on a whiteboard/notebook about the tool's impact — visual thinking, casual.
 
 **Structure**:
-- 0-3s: Left/top: the old way — spreadsheet, manual process, cluttered
-- 3-5s: Right/bottom: [PRODUCT] — same task, clean, visual, fast
-- 5-8s: Both running simultaneously, the contrast is stark
-- 8-10s: Old way still loading/processing, [PRODUCT] already done
+- 0-3s: Person standing at a whiteboard or holding a notebook, marker in hand
+- 3-6s: Scribbling a quick before/after — rough, casual, not polished
+- 6-8s: Pointing at the "after" side, tapping it — "[PRODUCT] did this"
+- 8-10s: Stepping back, capping the marker — the proof is simple
 
 **Prompt Template**:
-> Split-screen comparison. On one side: the old way of doing [TASK] — [OLD METHOD, e.g. messy spreadsheet, manual email chains, paper files]. On the other side: [PRODUCT] handling the same task — clean interface, organized data, fast execution. The contrast speaks for itself. The old method is still processing while [PRODUCT] is already done. No voiceover needed. Clean split-screen composition, vertical video. [ADDITIONAL DETAILS].
+> A person standing at a [SURFACE, e.g. small whiteboard, notebook] in their office, marker in hand. Scribbling a quick rough sketch — "before" on one side, "after" on the other showing [BEFORE/AFTER CONTRAST]. Pointing at the after side and tapping it — "[PRODUCT] did this." Stepping back and capping the marker — the proof is simple and visual. Home office, natural light, vertical video, visual thinker energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -252,34 +254,34 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ---
 
-### 14. The Tab I Never Close
+### 14. The Group Chat Moment
 
-**Vibe**: Showing browser tabs — this one's always open, casual flex.
+**Vibe**: Talking about how you introduced [PRODUCT] to your team/group chat — the viral spread.
 
 **Structure**:
-- 0-3s: Browser with multiple tabs open, cursor moving across them
-- 3-6s: Landing on [PRODUCT] tab — it's pinned, always there
-- 6-8s: Quick peek at what's on the dashboard right now
-- 8-10s: Moving on to other work, but that tab stays open
+- 0-3s: Face to camera, amused — "I sent this to our team Slack…"
+- 3-6s: "…and within a week everyone was using it"
+- 6-8s: Counting on fingers the people who switched
+- 8-10s: Proud expression — "I'm basically their sales team at this point"
 
 **Prompt Template**:
-> Close-up of a browser with multiple tabs open. The cursor moves across them — email, docs, calendar. Then it lands on [PRODUCT] — pinned tab, always open. Quick glance at the dashboard showing [CURRENT VIEW]. The person moves on to other work, but [PRODUCT] stays pinned. It's the tab that never closes — always running, always useful. Screen recording style with slight face cam, vertical video. [ADDITIONAL DETAILS].
+> A person face to camera, amused — "I sent [PRODUCT] to our [CHANNEL, e.g. team Slack, group chat]." Expression shifts — "within a week [ADOPTION DETAIL, e.g. every single person had switched]." Counting on fingers the converts. Proud expression — "I'm basically their sales team at this point and they're not paying me." Home office, natural light, vertical video, grassroots evangelism energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-### 15. Team Sync Moment
+### 15. The Solo Celebration
 
-**Vibe**: Quick collaboration moment showing shared workspace — natural, not staged.
+**Vibe**: Small private celebration at desk — fist pump, chair spin — because the tool just saved the day.
 
 **Structure**:
-- 0-3s: Two people at a desk or screen, casually looking at [PRODUCT] together
-- 3-6s: One pointing at something on screen, the other nodding
-- 6-8s: Quick interaction in [PRODUCT] — assigning a task, leaving a comment, updating status
-- 8-10s: Both nodding, aligned, moving on to execute
+- 0-3s: Person at desk, looking at laptop screen, tension on their face
+- 3-6s: Expression shifts to relief, then excitement — it worked
+- 6-8s: Small fist pump, maybe a chair spin — private celebration
+- 8-10s: Composing themselves, leaning back cool — "all under control"
 
 **Prompt Template**:
-> Two coworkers casually looking at [PRODUCT] on a laptop screen together. One points at [FEATURE — e.g. a task, a pipeline stage, a report]. The other nods. A quick action — [ACTION, e.g. assigning a task, updating a status, leaving a comment]. They're aligned in seconds. The vibe is efficient collaboration, not a formal meeting. Natural office or coworking space, candid energy, vertical video. [ADDITIONAL DETAILS].
+> A person at their desk, looking at their laptop with tension on their face. Expression shifts to relief, then excitement — [SUCCESS MOMENT, e.g. the deployment went through, the report generated, the campaign launched] thanks to [PRODUCT]. Small fist pump, a quick chair spin — private victory celebration. Composing themselves and leaning back cool — "all under control." Home office, natural light, vertical video, small-win celebration energy. [ADDITIONAL DETAILS].
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

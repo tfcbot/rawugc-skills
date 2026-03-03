@@ -36,20 +36,18 @@ Shot-by-shot breakdowns for all 20 fashion UGC formats with example brands fille
 
 ---
 
-## 3. 3 Ways to Style
+## 3. Fabric Close-Up
 
-**Vibe**: Same piece, 3 completely different outfits — quick transitions.
+**Vibe**: Extreme close-up of fabric texture, stitching, material quality — ASMR for fashion people.
 
-**Example Brand**: COS (white oversized button-down)
+**Example Brand**: Cos
 
-- 0-2s: Look 1 — COS button-down tucked into high-waisted jeans with white Converse, sleeves rolled, casual weekend
-- 2-5s: Quick snap transition
-- 5-7s: Look 2 — same shirt half-tucked into a black midi skirt with heeled mules and gold hoops, going-out energy
-- 7-10s: Quick snap transition
-- 10-12s: Look 3 — shirt unbuttoned and layered open over a black slip dress with combat boots, unexpected edge
-- 12-15s: Rapid flash: Look 1, Look 2, Look 3 — one shirt, three lives
+- 0-3s: Extreme close-up of the Cos Cashmere Crew Neck Sweater fabric — fingers slowly running across the soft cashmere, the fine knit visible in detail
+- 3-6s: Camera captures the weave pattern, the ribbed cuffs, the clean stitching at the seams — every textile detail in sharp focus
+- 6-8s: A hand lifts the sweater slightly to show the luxurious drape and weight — the cashmere falls with gravity, quality you can see
+- 8-10s: Pull back to reveal the full piece folded neatly on a wooden surface — the oatmeal color looks warm and rich in the soft natural light
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -68,46 +66,46 @@ Shot-by-shot breakdowns for all 20 fashion UGC formats with example brands fille
 
 ---
 
-## 5. Fit Check Walk
+## 5. The Tag Check
 
-**Vibe**: Walking toward camera in the outfit — street or hallway, confident energy.
+**Vibe**: Checking the tag, showing the size, the brand — the small details that matter.
 
-**Example Brand**: Zara
+**Example Brand**: Aritzia
 
-- 0-3s: Camera positioned at the end of a sunlit sidewalk; person appears at the far end walking toward it in a Zara structured trench, straight-leg jeans, pointed-toe boots
-- 3-6s: Each step is measured and confident; as they approach, the trench's belt sways loosely, the fabric drapes with each stride
-- 6-8s: Close enough now to see details — the leather crossbody bag, the boot shape, the way the collar sits
-- 8-10s: Walk past the camera, slight backward glance over the shoulder — main character moment, then they're gone
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
-
----
-
-## 6. Unboxing Try-On
-
-**Vibe**: Opening a fashion package, holding up items, immediately putting them on.
-
-**Example Brand**: & Other Stories
-
-- 0-3s: Brown package on white duvet, pulling at the branded tape, unfolding tissue paper
-- 3-5s: Lifting out a chunky oatmeal wool cardigan — eyes widen, touching the knit, genuine "oh" at the softness
-- 5-8s: Pulling it on right there over a tank top — can't wait, need to see it immediately
-- 8-10s: Mirror check — the oversized fit drapes perfectly, the texture is visible even on camera; pleasantly surprised smile
+- 0-3s: Person wearing the Aritzia Babaton Contour Bodysuit, hand reaching casually to the inside collar — about to check the details
+- 3-6s: Pulling out the tag and showing it to camera — the Babaton label, the size, the material blend all visible in close-up
+- 6-8s: Letting the tag drop back into place, smoothing the fabric at the neckline where they checked — everything back in order
+- 8-10s: Quick adjustment of the bodysuit in the mirror, a satisfied nod — the details check out; the sculpting fit is visible in the reflection
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 7. Day to Night Transition
+## 6. Hanger Appeal
 
-**Vibe**: Same base outfit, swap a few pieces, go from daytime to evening.
+**Vibe**: Showing the piece on the hanger, examining it before putting it on — the anticipation.
 
-**Example Brand**: Mango
+**Example Brand**: Sezane
 
-- 0-3s: Daytime look in the hallway mirror — Mango tailored blazer, white tee, wide-leg trousers, tan loafers; office-ready
-- 3-5s: Quick transition: kick off loafers, step into strappy heels; pull off the tee, reveal a black cami underneath; add layered gold necklaces
-- 5-8s: Evening look — same blazer and trousers but now it reads cocktail bar; the gold jewelry and heels change everything
-- 8-10s: Confident final check, grab a clutch from the shelf, heading out the door — transformation took 30 seconds
+- 0-3s: The Sezane Scott Jacket on a wooden hanger held up against a white wall — the structured silhouette immediately visible
+- 3-6s: Slowly turning the hanger to show the front — the gold buttons, the tailored shape — then rotating to reveal the back
+- 6-8s: Close-up of the details: the engraved buttons, the lined interior fabric, the clean seams — craftsmanship in every stitch
+- 8-10s: Pulling it off the hanger with intention, ready to wear — the navy wool fabric has a beautiful depth of color in the natural light
+
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+
+---
+
+## 7. The Fold
+
+**Vibe**: Satisfying folding or rolling technique — Marie Kondo energy for your favorite piece.
+
+**Example Brand**: Lululemon
+
+- 0-3s: Lululemon Align High-Rise Pant laid flat on a white bed — the buttery Nulu fabric spread smooth, dark olive color rich against the white
+- 3-6s: Hands begin a precise, satisfying fold — smoothing the fabric flat, folding in the legs, rolling from waistband down with smooth movements
+- 6-8s: The fold completes into a neat, compact rectangle — perfectly tight, no wrinkles, a satisfying finished shape
+- 8-10s: Placing the folded leggings into a drawer alongside other perfectly folded activewear — everything tidy, Marie Kondo approved; the dark olive stands out in the neutral drawer
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -128,20 +126,18 @@ Shot-by-shot breakdowns for all 20 fashion UGC formats with example brands fille
 
 ---
 
-## 9. What I Actually Wore This Week
+## 9. Color Match
 
-**Vibe**: Rapid montage of real daily outfits — honest, not curated.
+**Vibe**: Holding the piece up to different items to show what it goes with — color palette moment.
 
-**Example Brand**: Abercrombie
+**Example Brand**: Everlane
 
-- 0-2s: Monday — Abercrombie tailored trousers and a black turtleneck, office mirror selfie
-- 2-4s: Tuesday — relaxed jeans with a cropped cardigan, coffee shop doorway
-- 4-6s: Wednesday — joggers and an oversized hoodie, honest couch day energy
-- 6-8s: Thursday — wool blend coat layered over a knit, boots, elevated fall
-- 8-12s: Friday — satin midi skirt and a blazer, the best look of the week; the shot lingers a beat longer
-- 12-15s: Rapid flash through all five — Mon-Tue-Wed-Thu-Fri — a week of real outfits
+- 0-3s: Person standing at their open closet holding the Everlane Chore Jacket in Canvas up in front of them — examining the tan canvas color
+- 3-6s: Holding it next to a white tee — nice. Then next to a navy striped shirt — even better. Then next to dark denim — perfect match
+- 6-8s: Finding the winner — holding the jacket and the dark denim together, the color combination clicks immediately
+- 8-10s: Satisfied expression, draping both pieces over their arm — the tan canvas looks good against everything; styling energy in the bedroom closet
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -175,16 +171,16 @@ Shot-by-shot breakdowns for all 20 fashion UGC formats with example brands fille
 
 ---
 
-## 12. Airport Outfit
+## 12. The Stretch Test
 
-**Vibe**: Travel OOTD — comfort meets style, real travel setting.
+**Vibe**: Testing the stretch and movement of the fabric — pulling, bending, showing flexibility.
 
-**Example Brand**: Lululemon
+**Example Brand**: Girlfriend Collective
 
-- 0-3s: Zipping a carry-on suitcase, already dressed in a Lululemon Softstreme matching set in bone with clean white New Balance 550s
-- 3-6s: Quick mirror check in the hallway — the matching set drapes relaxed, the sneakers are clean, a canvas tote over one shoulder
-- 6-8s: Walking through an airport terminal, carry-on rolling behind — the outfit moves well, doesn't wrinkle, looks effortless among the crowds
-- 8-10s: Sitting at the gate, AirPods in, legs crossed — four hours in and the outfit still looks fresh and put-together
+- 0-3s: Close-up of the Girlfriend Collective Compressive High-Rise Legging on the leg — hands gripping the fabric at the thigh, ready to test
+- 3-6s: A gentle stretch pull outward — showing the compressive four-way stretch of the recycled material; the fabric extends smoothly
+- 6-8s: Release — the fabric snaps back perfectly to shape, zero distortion, no bagging; the compression is legit
+- 8-10s: Smoothing the fabric with a satisfied hand pass — it holds up beautifully; the moss green color stays rich even when stretched
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -205,16 +201,16 @@ Shot-by-shot breakdowns for all 20 fashion UGC formats with example brands fille
 
 ---
 
-## 14. Accessory Stack
+## 14. The Hand Feel
 
-**Vibe**: Building a look from accessories up — rings, chains, bags, close-ups.
+**Vibe**: Running hands over the piece, feeling the quality — tactile, sensory, cozy.
 
-**Example Brand**: Mejuri
+**Example Brand**: Jenni Kayne
 
-- 0-2s: Bare hands on a marble tray, bare neck — the clean starting point
-- 2-5s: Sliding on a Mejuri bold signet ring, then a thin chain bracelet — each click against skin satisfying in close-up
-- 5-8s: Layering necklaces — first a croissant dome pendant, then a thin herringbone chain on top; small gold hoops go in last
-- 8-10s: Camera pulls back to show the full look with a simple black crew neck — minimal, intentional, every piece catching light at different angles
+- 0-3s: The Jenni Kayne Cashmere Cocoon Cardigan draped across a lap on a couch — the camel color warm against the neutral living room
+- 3-6s: Hands running slowly over the cashmere fabric — feeling the incredible softness, the weight and drape; fingers tracing the knit pattern
+- 6-8s: Bunching it slightly to show how it springs back — no pilling, just pure softness and recovery; the quality is visible
+- 8-10s: Holding it up to cheek and pressing it in — pure cozy comfort; the camel color is rich and warm against their skin
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -296,16 +292,15 @@ Shot-by-shot breakdowns for all 20 fashion UGC formats with example brands fille
 
 ---
 
-## 20. Returns vs Keeps
+## 20. The Hang
 
-**Vibe**: Trying on multiple items, sorting honestly into keep and return piles.
+**Vibe**: Hanging the piece in its spot in the closet — it's earned its place.
 
-**Example Brand**: Abercrombie (keeper piece)
+**Example Brand**: Toteme
 
-- 0-2s: Five items from different brands spread on the bed — tags still on, tissue paper nearby
-- 2-5s: First item: a fast-fashion dress — try on, head shake, "the fabric feels cheap"; toss to the return pile
-- 5-8s: Second item: an online impulse buy jacket — "weird fit in the shoulders"; return pile. Third: try on the Abercrombie Sloane tailored pant — face lights up, the drape is perfect, the waist sits exactly right
-- 8-11s: Two more items tried — one keep, one return. The sorting is honest and quick.
-- 11-15s: Final shot: the keep pile — three items, the Abercrombie Sloane pant front and center; the returns stacked in the shipping bag; product earned its spot
+- 0-3s: Holding the Toteme Signature Wool-Blend Coat on a wooden hanger, standing in front of an open closet — the black coat has a quiet, architectural presence
+- 3-6s: Finding the right spot on the rack — sliding hangers aside to make room, deliberate placement
+- 6-8s: Placing the coat in its spot, adjusting the shoulders perfectly on the hanger — the silhouette hangs clean and structured
+- 8-10s: Stepping back to see it in context among the other pieces — it belongs here, the anchor of the wardrobe; natural light in the bedroom closet
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`

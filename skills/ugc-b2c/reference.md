@@ -21,31 +21,31 @@ Shot-by-shot breakdowns for all 15 B2C UGC formats with example products filled 
 
 ---
 
-## 2. A Day With This
+## 2. The Desk Companion
 
-**Vibe**: The product follows you through a normal day — it's a background character in your life.
+**Vibe**: Product sitting on your desk while you work — it's just always there, part of the setup.
 
-**Example Product**: AirPods Pro
+**Example Product**: Yeti Rambler 20oz Tumbler
 
-- 0-3s: Morning — popping AirPods in while scrambling eggs, a podcast playing, the spatial audio adjusting as they turn their head toward the stove
-- 3-6s: Midday — sitting in a busy coffee shop, tapping the stem to switch to Active Noise Cancellation, the ambient chaos melting away, focus mode
-- 6-9s: Evening — walking the dog at sunset, Transparency Mode on, hearing the neighborhood sounds mixed with music, one earbud out for safety
-- 9-12s: End of day — AirPods case sitting on the nightstand, the small LED light glowing as it charges; they've been everywhere today without being noticed
+- 0-3s: Clean desk setup — mechanical keyboard, monitor, a small plant, and the Yeti Rambler 20oz Tumbler in Charcoal sitting naturally to the right of the keyboard
+- 3-6s: Person working, typing away, hand casually reaches for the Yeti without breaking focus, takes a sip through the straw lid — no pause in workflow
+- 6-8s: Sets it back down without looking, continues typing — completely seamless, the Rambler is muscle memory at this point
+- 8-10s: Wide shot of the full desk — the Rambler belongs in this workspace just as much as the keyboard does; it's been sitting there all day and it's still ice cold
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 3. The Comparison
+## 3. The First Touch
 
-**Vibe**: Your product vs the obvious alternative — honest, no-script take.
+**Vibe**: First time holding/touching the product — genuine tactile discovery, quality check.
 
-**Example Product**: Yeti Rambler vs Hydro Flask
+**Example Product**: Apple AirPods Max
 
-- 0-3s: Both bottles on a clean counter — Yeti Rambler 26oz on the left, Hydro Flask 24oz on the right, same-ish color, both full of ice water
-- 3-6s: Picking up each one — comparing the powder coat finish (Yeti's is grippier), the lid mechanism (Yeti's chug cap vs Hydro's flex cap), the weight in hand
-- 6-8s: Eight hours later — same shot, checking both; the Yeti still has ice clinking, the Hydro has mostly melted; tipping both to demonstrate
-- 8-10s: Setting the Yeti forward — "two extra hours of ice and the lid doesn't leak in my bag"; the comparison was fair, the result is honest
+- 0-3s: Apple AirPods Max sitting on a desk in their Smart Case, hands approaching from below frame — the anticipation of first contact
+- 3-6s: Picking them up for the first time — feeling the weight of the aluminum ear cups, running a thumb across the mesh headband, testing the tension of the adjustment mechanism
+- 6-8s: Turning them over in hands, examining the Digital Crown, the anodized finish, the way light catches the metal — an impressed nod, the build quality is unmistakable
+- 8-10s: Setting them down with care on the desk — first impression locked in; the premium weight told the whole story before a single note played
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -81,18 +81,18 @@ Shot-by-shot breakdowns for all 15 B2C UGC formats with example products filled 
 
 ---
 
-## 6. Setup Timelapse
+## 6. The One Detail
 
-**Vibe**: Unbox to fully set up in a satisfying sped-up sequence.
+**Vibe**: Zeroing in on one specific design detail that makes the product special — the little thing.
 
-**Example Product**: IKEA KALLAX Shelf Unit
+**Example Product**: Bellroy Classic Backpack
 
-- 0-3s: The flat-pack IKEA box on the living room floor, box cutter slicing the tape, pulling out the panels, hardware bag, and the instruction sheet
-- 3-7s: Assembly sped up 3x — laying out all panels by size, hammering in wooden dowels, connecting the first two cubes, each screw going in with a satisfying spin
-- 7-10s: The shelf stands upright — video slows to normal speed; sliding storage bins into the cubes, stacking books, placing a plant on top
-- 10-15s: Step back to admire — the finished KALLAX against the wall, fully styled with books, bins, and a framed photo; the flat-pack box is gone, the room is transformed
+- 0-3s: The Bellroy Classic Backpack sitting on a bench, full bag visible at normal distance — clean design, muted color, understated
+- 3-6s: Camera pushes in close to the magnetic clasp closure — the satisfying snap mechanism, the way the magnets guide it into place with precision
+- 6-8s: A finger presses the clasp open and closed, demonstrating the smooth magnetic connection — open, snap, open, snap — "this right here" energy; the engineering is felt
+- 8-10s: Pull back to the full backpack — but now the clever clasp is all you notice; the small things separate good products from great ones
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -126,16 +126,16 @@ Shot-by-shot breakdowns for all 15 B2C UGC formats with example products filled 
 
 ---
 
-## 9. Family Test
+## 9. The Friend Text
 
-**Vibe**: Giving it to family members, collecting their genuine reactions.
+**Vibe**: Talking to camera about texting a friend to recommend this — word-of-mouth moment.
 
 **Example Product**: Dyson Airwrap
 
-- 0-2s: Setting up the Dyson Airwrap on the bathroom counter — "I'm letting my mom and sister try this"
-- 2-5s: Mom goes first — wrapping a section of hair around the barrel, watching it coil automatically; mouth drops open — "it's doing it by itself?"
-- 5-8s: Sister's turn — completely different hair type, trying the smoothing brush attachment; running it through, watching the frizz disappear in one pass — "okay I need my own"
-- 8-10s: All three in the mirror — mom touching her bouncy curls, sister feeling her smooth strands, original person grinning — the family test is the ultimate credibility check
+- 0-3s: Face to camera, holding the Dyson Airwrap in one hand and phone in the other — "I literally just texted my best friend about this"; the excitement is fresh and unscripted
+- 3-6s: Holding the Airwrap up, explaining what makes it worth every penny — the attachments that actually work, the salon results at home, the time saved every morning
+- 6-8s: Gesturing at their phone screen — "she's already ordering one"; the recommendation landed instantly because the enthusiasm was real
+- 8-10s: Satisfied expression, holding the Airwrap — the genuine word-of-mouth moment; when you find something this good, you share it before anyone even asks
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -171,16 +171,16 @@ Shot-by-shot breakdowns for all 15 B2C UGC formats with example products filled 
 
 ---
 
-## 12. Durability Check
+## 12. The Restock Click
 
-**Vibe**: Showing the product after heavy use — "still going strong" or honest wear report.
+**Vibe**: The moment you rebuy without hesitation — loyalty confirmed, no research needed.
 
 **Example Product**: Patagonia Better Sweater
 
-- 0-3s: Holding up the Patagonia Better Sweater — clearly worn for two years: weekend hikes, camping trips, daily fall/winter wear; the fleece has a soft lived-in look
-- 3-6s: Pointing at specific areas — "no pilling on the chest or arms," "the zipper still works perfectly, no snags," "the color hasn't faded — this navy is the same as day one"
-- 6-8s: Running a hand across the fleece — "it's actually softer now than when I bought it"; pulling the zipper up and down to demonstrate it's still smooth
-- 8-10s: Putting it on — the fit still holds, the shoulders haven't stretched — "built to last, and it actually looks better with age"; the Patagonia guarantee feels earned
+- 0-3s: Person holding their well-worn Patagonia Better Sweater — clearly loved, the fleece softened from years of wear, the kind of garment that's been everywhere
+- 3-6s: Glancing at it with an immediate decision — "yep, getting another one"; no deliberation, no weighing alternatives, the verdict was instant
+- 6-8s: Casually tapping their phone to reorder — no browsing competitors, no reading reviews, no comparing prices; they know exactly what they want and where to get it
+- 8-10s: Setting the sweater down with a satisfied nod — the loyalty is automatic; when it's this good, research is unnecessary
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -201,16 +201,16 @@ Shot-by-shot breakdowns for all 15 B2C UGC formats with example products filled 
 
 ---
 
-## 14. POV You Own This
+## 14. The Nightstand Essential
 
-**Vibe**: First-person POV of daily life with the product — you're living it.
+**Vibe**: Product on the nightstand — the last thing you see at night or first thing in the morning.
 
-**Example Product**: Aeropress Coffee Maker
+**Example Product**: Kindle Paperwhite
 
-- 0-3s: POV — hands reach across the kitchen counter and pick up the Aeropress from its spot next to the kettle, the morning light hitting the clear chamber
-- 3-6s: Scooping coffee grounds in, placing it on a mug, pouring hot water — the camera is the person's eyes watching the water darken through the chamber
-- 6-8s: Pressing down — the slow, satisfying resistance of the plunge, the hiss at the bottom; lifting the Aeropress off, a concentrated shot of coffee in the mug below
-- 8-10s: Adding hot water for an Americano, steam rising — picking up the mug and walking toward the window; the morning ritual took 90 seconds
+- 0-3s: Nightstand scene — warm lamp casting a soft glow, a half-read book, phone on its charger, and the Kindle Paperwhite sitting naturally among the essentials
+- 3-6s: A hand reaches for the Kindle, picks it up, opens the cover — the screen illuminates with a soft backlight, the page right where it was left off
+- 6-8s: A moment of reading, comfortable and settled — then sets it back on the nightstand within arm's reach, the cover closing with a gentle magnetic snap
+- 8-10s: Settling back into the pillows — the Kindle is the last thing before sleep; the e-reader has permanently replaced the phone for bedtime
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 

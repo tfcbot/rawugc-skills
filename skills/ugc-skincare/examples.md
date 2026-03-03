@@ -34,13 +34,13 @@ Completed prompt examples for each skincare format. Replace brand/product detail
 
 ---
 
-## 4. Morning Routine Speedrun
+## 4. Product on Wet Skin
 
-**Product**: La Roche-Posay Anthelios SPF 50
+**Product**: Drunk Elephant Lala Retro Whipped Cream
 
-> A person speedrunning their morning skincare routine in a bright bathroom. Everything is slightly sped up — splashing water, applying cleanser, patting on toner. When they reach the La Roche-Posay Anthelios sunscreen, the video slows to normal speed, highlighting the application moment. They look fresh and glowing. The energy is fun, efficient, relatable. Smartphone quality, vertical, natural light. They shake the bottle before squeezing it out — the classic sunscreen moment.
+> A person in a steamy bathroom, face freshly washed and still damp. They squeeze Drunk Elephant Lala Retro Whipped Cream onto their fingertips — the rich, whipped texture visible. They pat and press it into their damp face, the cream melting instantly into wet skin. Close-up of the dewy, hydrated finish — the skin drinks it up completely. Warm bathroom light, vertical video, post-shower glow energy. The lilac-tinted cream disappears into a luminous sheen.
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -94,23 +94,23 @@ Completed prompt examples for each skincare format. Replace brand/product detail
 
 ---
 
-## 10. Ingredient Decoded
+## 10. Skincare Stash Close-Up
 
-**Product**: Good Molecules Discoloration Correcting Serum (Tranexamic Acid)
+**Product**: Herbivore Prism Exfoliating Glow Serum
 
-> A person holding Good Molecules Discoloration Correcting Serum and flipping it around to show the ingredient list on the back. They point at a specific ingredient — tranexamic acid — tapping it with their finger and nodding knowingly. They flip the bottle back to the front and start applying the product. The vibe is casual education, like telling a friend a secret. Natural light, vertical video, close-up. They squeeze the dropper and show the lightweight serum texture.
+> Overhead flat-lay shot of a curated skincare collection on a white marble surface — toner, moisturizer, SPF, and Herbivore Prism Exfoliating Glow Serum arranged naturally. A hand enters the frame and nudges the Herbivore bottle toward the center. The camera slowly pushes in toward the rainbow-tinted serum bottle. The hand picks it up and holds it above the flat-lay — the clear winner. Natural light, vertical video, aesthetic flat-lay energy. The iridescent liquid inside catches every ray of light.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
-## 11. 3-Step Only
+## 11. The Double Cleanse
 
-**Product**: Kiehl's Ultra Facial Cream
+**Product**: Fresh Soy Face Cleanser
 
-> Three skincare products lined up neatly on a clean bathroom counter. A person picks up each one in sequence and applies it quickly — CeraVe cleanser, then Thayers toner, then Kiehl's Ultra Facial Cream. The application of the Kiehl's cream lingers slightly longer, the hero of the routine. They finish and look at the camera with a fresh, glowing face. The message is simplicity — this is all you need. Minimal, clean aesthetic, vertical video, natural light.
+> A person at their bathroom sink pumping an oil cleanser into their palm. They massage it into their face — close-up of the oil breaking down and dissolving. They rinse, then pump Fresh Soy Face Cleanser and work up a gentle lather. Soft circular motions, the gel-to-foam texture visible. They pat their face dry with a towel — bare, clean, fresh skin. Bathroom setting, natural light, vertical video, satisfying cleansing ritual energy. The soothing cucumber and rosewater scent practically comes through the screen.
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -124,13 +124,13 @@ Completed prompt examples for each skincare format. Replace brand/product detail
 
 ---
 
-## 13. Skin Diary
+## 13. The Pat-In Technique
 
-**Product**: Versed Dew Point Moisturizing Gel-Cream
+**Product**: SK-II Facial Treatment Essence
 
-> A skin transformation diary. Close-up of a person's bare face on Day 1 — natural light, no makeup, honest. The same shot repeats for Day 7, Day 14, and Day 30, each time showing gradual improvement in skin clarity and glow. The framing stays consistent. On the final frame, the person touches their face and smiles. Versed Dew Point Gel-Cream is visible on the bathroom counter in the background — never the focus, just present. Vertical video, documentary style. Their dry patches have smoothed out noticeably.
+> A person dispensing SK-II Facial Treatment Essence into their palm, looking at the camera with a knowing expression. They press their palms together to warm the essence, then press it into their face. Close-up of fingertips gently patting the watery essence into their cheeks and forehead — rhythmic, satisfying tapping sounds. Pull back to show the glowing, absorbed finish — the technique makes all the difference. Bathroom vanity, natural light, vertical video, K-beauty energy. The crystal-clear essence absorbs without a trace.
 
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "15"`
+**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
 ---
 
@@ -144,11 +144,11 @@ Completed prompt examples for each skincare format. Replace brand/product detail
 
 ---
 
-## 15. Unpacking Haul
+## 15. Vanity Shelfie Restock
 
-**Product**: Youth To The People Superfood Cleanser
+**Product**: Glossier Milky Jelly Cleanser
 
-> A person sitting on their bed opening a skincare delivery package. They pull products out one by one, holding each up to the camera. When they get to the Youth To The People Superfood Cleanser, their face lights up — they immediately open it, smell it, and swatch it on the back of their hand. Genuine excitement, not performative. Natural bedroom lighting, vertical video, real unboxing energy. The green gel texture and herbal scent get an audible reaction.
+> A bathroom vanity counter with a visible gap where a product used to live, other skincare products flanking the empty spot. A hand places a fresh Glossier Milky Jelly Cleanser into the gap — it fits perfectly. They adjust the surrounding products to frame it beautifully, organizing the vanity with intention. Step back to admire the restocked, curated counter — everything in its place. Soft bathroom lighting, vertical video, satisfying organization energy. The translucent pink gel bottle looks right at home.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 

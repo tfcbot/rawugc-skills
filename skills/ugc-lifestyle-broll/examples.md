@@ -34,11 +34,11 @@ Completed prompt examples for each lifestyle b-roll format. Replace brand/produc
 
 ---
 
-## 4. Walk and Carry
+## 4. Desk Drop
 
 **Product**: Stanley Quencher Tumbler
 
-> Tracking shot of a person walking down a tree-lined sidewalk in a residential neighborhood. They're casually carrying a Stanley Quencher Tumbler in one hand. Close-up of their hand holding the tumbler while walking, background blurred with natural motion. Relaxed pace, natural stride, golden hour lighting. The vibe is effortless — this tumbler is just part of their day. Vertical video, cinematic handheld feel. The sage green color catches the warm light.
+> Clean wooden desk surface with soft natural light from a nearby window. A hand enters the frame from above, placing the Stanley Quencher Tumbler in Sage down with a deliberate, satisfying thud. The large tumbler settles on the wooden surface, the handle resting naturally. The camera holds — hero still moment. The hand pulls away and the Stanley owns the frame, the desk is its stage. Vertical video, natural light, satisfying product-drop energy. The sage green finish catches a warm highlight from the window.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
@@ -94,11 +94,11 @@ Completed prompt examples for each lifestyle b-roll format. Replace brand/produc
 
 ---
 
-## 10. Grocery Run
+## 10. Lap Blanket Cozy
 
 **Product**: Burt's Bees Beeswax Lip Balm
 
-> POV shot of someone walking through a pharmacy aisle. A hand reaches out and confidently grabs Burt's Bees Beeswax Lip Balm from the shelf without hesitation. They drop it into their shopping basket. The camera lingers on the yellow tube sitting in the basket next to a few other items as they continue walking. Casual, decisive, "I know what I came for" energy. Warm pharmacy lighting, vertical video. The iconic yellow packaging stands out immediately.
+> A soft cream knit blanket draped over a lap on a couch, warm evening lamp light. Burt's Bees Beeswax Lip Balm resting naturally on the blanket, the yellow tube bright against the cream knit. A hand gently picks it up, uncaps it, applies to lips. Sets it back down on the blanket — intimate, personal, part of the cozy evening. Vertical video, warm tones, comfort energy. The iconic yellow packaging looks like a tiny beacon of warmth.
 
 **Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
 
