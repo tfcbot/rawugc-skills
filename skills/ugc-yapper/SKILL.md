@@ -1,9 +1,12 @@
 ---
 name: ugc-yapper
 description: >-
-  UGC video format templates for Yapper-style ads. Contains 15 TikTok-native,
-  lofi video formats with shot-by-shot structure and AI video generation prompts.
-  Focused on authentic, single-take, talking-head videos with high personality and no production value. Use when the user wants to create UGC content that feels like a real person sharing their unfiltered thoughts.
+  UGC video format templates for Yapper-style ads, also known as "ugly ads."
+  Contains 15 TikTok-native, lofi video formats focused on a raw, imperfect
+  aesthetic. These formats prioritize authenticity and a genuine, unscripted
+  feel by providing light talking points instead of strict dialogue. Use when
+  the user wants to create UGC that feels like a real person sharing their
+  unfiltered thoughts.
 requires:
   env:
     - RAWUGC_API_KEY
@@ -14,17 +17,17 @@ homepage: https://github.com/tfcbot/rawugc-skills
 source: https://github.com/tfcbot/rawugc-skills
 ---
 
-# Yapper UGC Video Formats
+# Yapper UGC Video Formats (Ugly Ads)
 
-15 lofi, TikTok-native video formats for Yapper-style ads. Raw, authentic, single-take, talking-head videos with high personality and no production value. These formats are designed to feel like a real person sharing their unfiltered thoughts and experiences.
+15 lofi, TikTok-native video formats for Yapper-style ads. These formats are designed to have a raw, imperfect aesthetic that builds credibility and trust with viewers. The goal is to create content that feels like a real person sharing their unfiltered thoughts, not a polished advertisement.
 
 ## How to Use These Formats
 
-1.  Identify the user's goal (e.g., product recommendation, brand story, relatable experience).
-2.  Select the format below that best matches the desired vibe and context.
-3.  Use the **Prompt Template** to compose the `prompt` field for `POST /videos/generate`. Replace `[BRACKETED]` placeholders with details from the user.
-4.  Default to `aspectRatio: "portrait"` (9:16) and `nFrames: "10"` unless the format specifies otherwise.
-5.  Emphasize a casual, unscripted, and authentic tone. The goal is to avoid anything that feels like a polished advertisement.
+1.  **Embrace the "Idea + Freestyle" Brief**: Instead of a rigid script, provide the creator with a core idea and a set of talking points. The goal is to guide them, not to dictate their every word. This allows their genuine personality to shine through.
+2.  **Prioritize Authenticity Over Production**: Avoid professional tripods, slick editing, and background music. The best Yapper ads are often filmed handheld, with minimal cuts, and in a setting that is believable for the product.
+3.  **Avoid the "Middle Ground"**: Ads fail when they try to look organic but contain obvious production elements. Either go for a "super ugly" and raw aesthetic or a high-production, direct-response ad. This skill focuses on the former.
+4.  **Use the Talking Points**: For each format, use the **Talking Points** to build a loose narrative. These are suggestions to keep the creator on track while allowing for spontaneous, unscripted moments.
+5.  **Leverage Authenticity Cues**: Each format includes **Authenticity Cues**—small details that make the video feel more genuine. Encourage the creator to incorporate these to enhance the raw, imperfect feel.
 
 ---
 
@@ -32,253 +35,327 @@ source: https://github.com/tfcbot/rawugc-skills
 
 ### 1. The Car Rant
 
-**Vibe**: Person ranting in their car, either driving or parked, with the engine running. Passionate, unfiltered, and direct.
+**Vibe**: Passionate, unfiltered, and direct. Someone ranting in their car, either driving or parked, with the engine running.
 
-**Structure**:
-- 0-3s: Close-up on the person's face, looking directly at the camera (phone mounted on the dash).
-- 3-6s: Animated hand gestures while talking, emphasizing a point.
-- 6-8s: A moment of self-awareness or a sigh, as if they can't believe what they're saying.
-- 8-10s: A final, definitive statement, looking directly into the camera with conviction.
+**Talking Points**:
+- Start with a strong, emotional statement about [THE PROBLEM].
+- Explain how you used to struggle with this and what you tried before.
+- Introduce [THE PRODUCT] and how it changed everything for you.
+- Share a specific, personal benefit you've experienced.
+- End with a passionate, almost out-of-breath final thought.
+
+**Authenticity Cues**:
+- Glance at the road or your mirrors as if you're actually driving.
+- Use animated, slightly chaotic hand gestures.
+- Let your voice crack with emotion.
+- Stumble over a word or two.
 
 **Prompt Template**:
-> A person in their car, ranting to the camera. They are passionate and unfiltered, using animated hand gestures to emphasize their points. The camera is mounted on the dashboard, creating a close-up shot. The person is talking about [TOPIC] and how [PRODUCT] has changed their perspective. The lighting is natural, and the energy is high. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person in their car, ranting to the camera about [THE PROBLEM]. They are passionate and unfiltered, speaking from the heart. The camera is handheld or propped on the dash. The lighting is natural, and the energy is high. They are sharing their personal journey and how [THE PRODUCT] has been a game-changer. [ADDITIONAL DETAILS].
 
 ---
 
 ### 2. The Mid-Meal Monologue
 
-**Vibe**: Someone talking to the camera while eating, completely engrossed in their story. Casual, relatable, and slightly messy.
+**Vibe**: Casual, relatable, and slightly messy. Someone talking to the camera while eating, completely engrossed in their story.
 
-**Structure**:
-- 0-3s: The person takes a bite of food and then starts talking, mid-chew.
-- 3-6s: They use their fork or spoon to gesture while explaining something.
-- 6-8s: A moment of realization or a pause to take another bite.
-- 8-10s: They finish their thought with a satisfied look, as if the food and the conversation are equally enjoyable.
+**Talking Points**:
+- Start talking mid-chew, as if you just had a thought you had to share.
+- Talk about how [THE PRODUCT] fits into your daily life, even during meals.
+- Use your food or utensils to gesture as you make a point.
+- Share a relatable struggle that [THE PRODUCT] helps you solve.
+- End with a satisfied look, as if both the food and your thought were delicious.
+
+**Authenticity Cues**:
+- Actually eat on camera. Don't fake it.
+- Drop a little bit of food. It's okay to be messy.
+- Get lost in your thought and pause to take another bite.
+- Talk with your mouth slightly full (but not grossly so).
 
 **Prompt Template**:
-> A person eating a meal and talking to the camera. They are completely engrossed in their story about [TOPIC], using their utensils to gesture. They are eating [FOOD] and talking about how [PRODUCT] fits into their daily routine. The setting is a casual dining environment, like a kitchen or a cafe. The tone is relatable and authentic. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person eating [FOOD] and talking to the camera about [TOPIC]. They are completely engrossed in their story, using their utensils to gesture. The setting is a casual dining environment. They are explaining how [THE PRODUCT] is a seamless part of their routine. The tone is relatable and authentic. [ADDITIONAL DETAILS].
 
 ---
 
 ### 3. The Cooking Confessional
 
-**Vibe**: Someone cooking and talking to the camera, sharing a personal story or a secret. Intimate, messy, and genuine.
+**Vibe**: Intimate, messy, and genuine. Someone cooking and talking to the camera, sharing a personal story or a secret.
 
-**Structure**:
-- 0-3s: The person is in the middle of a cooking task, like chopping vegetables or stirring a pot.
-- 3-6s: They look up at the camera and start sharing a story, as if they just remembered something.
-- 6-8s: They get distracted by their cooking for a moment, then return to their story with renewed energy.
-- 8-10s: They finish their story with a smile or a laugh, as if sharing a secret with a friend.
+**Talking Points**:
+- Start by talking about the dish you're making and why you love it.
+- Transition into a personal story related to [THE TOPIC].
+- Casually mention how [THE PRODUCT] is part of your cooking process.
+- Share a "secret" tip or trick related to the product or the recipe.
+- End with a warm smile, as if sharing a moment with a friend.
+
+**Authenticity Cues**:
+- Make a bit of a mess. Spill something.
+- Get distracted by what you're cooking and look away from the camera.
+- Use your hands to talk, even if they're covered in flour.
+- Let the sounds of cooking (sizzling, chopping) be part of the audio.
 
 **Prompt Template**:
-> A person cooking in their kitchen and talking to the camera. They are sharing a personal story about [TOPIC] while preparing [DISH]. They get distracted by their cooking but always return to the camera with a genuine expression. They are using [PRODUCT] as part of their cooking process. The lighting is warm and inviting. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person cooking [DISH] in their kitchen and sharing a personal story with the camera. They are using [THE PRODUCT] as part of their process. The lighting is warm and inviting, and the atmosphere is genuine and intimate. They get distracted by their cooking but always return to the camera with a smile. [ADDITIONAL DETAILS].
 
 ---
 
 ### 4. The Distracted Diatribe
 
-**Vibe**: Someone trying to tell a story but getting constantly distracted by their surroundings. Chaotic, funny, and very real.
+**Vibe**: Chaotic, funny, and very real. Someone trying to tell a story but getting constantly distracted by their surroundings.
 
-**Structure**:
-- 0-3s: The person starts to tell a story but is immediately distracted by something off-camera.
-- 3-6s: They try to get back on track but are distracted again, this time by something else.
-- 6-8s: They laugh at their own inability to focus and apologize to the camera.
-- 8-10s: They finally manage to get their point across, but in a rushed and chaotic way.
+**Talking Points**:
+- Start your story, but get immediately sidetracked by something in your environment.
+- Try to get back on topic, but get distracted again by something else.
+- Laugh at your own inability to focus and apologize to the camera.
+- Finally, deliver your main point about [THE PRODUCT] in a rushed, chaotic, but genuine way.
+
+**Authenticity Cues**:
+- Let your eyes dart around as you get distracted.
+- Physically turn your head or body towards the distraction.
+- Use phrases like "Wait, what was I saying?" or "Oh, squirrel!"
+- Have a pet or a child interrupt you.
 
 **Prompt Template**:
-> A person trying to talk about [TOPIC] but getting constantly distracted by their surroundings. They are in a busy environment, like a park or a city street. They are trying to explain the benefits of [PRODUCT] but keep getting sidetracked. The tone is chaotic and funny, and the person is laughing at themselves. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person trying to talk about [TOPIC] but getting constantly distracted. They are in a busy, chaotic environment. They are trying to explain the benefits of [THE PRODUCT] but keep getting sidetracked. The tone is chaotic and funny, and the person is laughing at themselves. [ADDITIONAL DETAILS].
 
 ---
 
 ### 5. The Walking and Talking Head
 
-**Vibe**: Someone walking down the street, holding their phone and talking to the camera. Energetic, fast-paced, and in-the-moment.
+**Vibe**: Energetic, fast-paced, and in-the-moment. Someone walking down the street, holding their phone and talking to the camera.
 
-**Structure**:
-- 0-3s: The person is walking and talking, with the background moving behind them.
-- 3-6s: They pause for a moment to emphasize a point, then continue walking.
-- 6-8s: They interact with something in their environment, like a street sign or a storefront.
-- 8-10s: They end their thought with a call to action or a question for the viewer.
+**Talking Points**:
+- Start talking as you're already in motion, as if you just had to share this thought right now.
+- Connect your movement to [THE PRODUCT] (e.g., "I'm walking to work, and it made me think about...").
+- Point out something in your environment that relates to your topic.
+- Share a quick, actionable tip related to [THE PRODUCT].
+- End with a quick goodbye as you arrive at your destination.
+
+**Authenticity Cues**:
+- Let the camera shake a bit as you walk.
+- Get slightly out of breath.
+- Let the natural sounds of the street (traffic, people) be your soundtrack.
+- Squint or shield your eyes from the sun.
 
 **Prompt Template**:
-> A person walking down a busy street and talking to the camera. They are holding their phone and walking at a brisk pace. They are talking about [TOPIC] and how [PRODUCT] helps them stay productive on the go. The background is a blur of city life. The tone is energetic and engaging. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person walking down a busy street and talking to the camera. They are holding their phone and walking at a brisk pace. They are talking about [TOPIC] and how [THE PRODUCT] helps them stay productive on the go. The background is a blur of city life. The tone is energetic and engaging. [ADDITIONAL DETAILS].
 
 ---
 
 ### 6. The Bathroom Mirror Monologue
 
-**Vibe**: Someone getting ready in the bathroom, talking to their reflection in the mirror. Introspective, personal, and raw.
+**Vibe**: Introspective, personal, and raw. Someone getting ready in the bathroom, talking to their reflection in the mirror.
 
-**Structure**:
-- 0-3s: The person is looking at their reflection, in the middle of their morning or evening routine.
-- 3-6s: They start talking to themselves, sharing their thoughts and feelings about [TOPIC].
-- 6-8s: They use a product, like a face wash or a moisturizer, while continuing to talk.
-- 8-10s: They make eye contact with their reflection, as if having a moment of self-realization.
+**Talking Points**:
+- Start by looking at your reflection and sharing a vulnerable thought about [A PERSONAL STRUGGLE].
+- Talk about your journey with self-care and how it has evolved.
+- Introduce [THE PRODUCT] as a key part of your routine.
+- Explain not just what the product does, but how it makes you *feel*.
+- End with a moment of quiet self-acceptance.
+
+**Authenticity Cues**:
+- Film in a slightly steamy mirror after a shower.
+- Have wet hair or a towel wrapped around you.
+- Let your voice be a little quiet and raspy.
+- Make genuine eye contact with your own reflection.
 
 **Prompt Template**:
-> A person in their bathroom, talking to their reflection in the mirror. They are going through their [ROUTINE] and sharing their thoughts on [TOPIC]. They are using [PRODUCT] and talking about its effect on their skin/hair/etc. The lighting is soft, and the tone is introspective and personal. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person in their bathroom, talking to their reflection in the mirror. They are going through their [ROUTINE] and sharing their thoughts on [TOPIC]. They are using [THE PRODUCT] and talking about its effect on their skin/hair/etc. The lighting is soft, and the tone is introspective and personal. [ADDITIONAL DETAILS].
 
 ---
 
 ### 7. The Late-Night Thoughts
 
-**Vibe**: Someone in bed, talking to the camera in a hushed voice. Sleepy, intimate, and unfiltered.
+**Vibe**: Sleepy, intimate, and unfiltered. Someone in bed, talking to the camera in a hushed voice.
 
-**Structure**:
-- 0-3s: The person is lying in bed, with only a small lamp on.
-- 3-6s: They start talking in a quiet, sleepy voice about something that's on their mind.
-- 6-8s: They yawn or rub their eyes, showing that they are tired but can't sleep.
-- 8-10s: They end their thought with a whisper, as if sharing a secret with the viewer.
+**Talking Points**:
+- Start with a yawn or a stretch, as if you're about to fall asleep.
+- Share a random, late-night thought that's been keeping you awake.
+- Connect that thought to [THE PRODUCT] and how it helps you unwind.
+- Talk about the importance of your evening routine.
+- End with a whispered "goodnight" to the camera.
+
+**Authenticity Cues**:
+- Film in a dark room with only your phone screen or a small lamp for light.
+- Speak in a quiet, hushed tone.
+- Rub your eyes or yawn naturally.
+- Let your hair be messy.
 
 **Prompt Template**:
-> A person in bed at night, talking to the camera in a hushed voice. They are sharing their late-night thoughts on [TOPIC] and how [PRODUCT] helps them relax and unwind. The room is dark, with only a single lamp providing light. The tone is sleepy and intimate. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person in bed at night, talking to the camera in a hushed voice. They are sharing their late-night thoughts on [TOPIC] and how [THE PRODUCT] helps them relax and unwind. The room is dark, with only a single lamp providing light. The tone is sleepy and intimate. [ADDITIONAL DETAILS].
 
 ---
 
 ### 8. The "Just Got Out of the Shower" Rant
 
-**Vibe**: Someone with a towel on their head, fresh out of the shower, ranting about something they just realized. Fresh, energetic, and spontaneous.
+**Vibe**: Fresh, energetic, and spontaneous. Someone with a towel on their head, fresh out of the shower, ranting about something they just realized.
 
-**Structure**:
-- 0-3s: The person is in their bathroom, with a towel wrapped around their head.
-- 3-6s: They start ranting about a sudden realization they had in the shower.
-- 6-8s: They gesture wildly with their hands, still full of energy from their epiphany.
-- 8-10s: They end their rant with a look of triumph, as if they've just solved a major problem.
+**Talking Points**:
+- Start with a burst of energy, as if you just had an epiphany in the shower.
+- Announce your "shower thought" to the camera.
+- Explain how this realization connects to [THE PRODUCT].
+- Share your excitement and passion for this new perspective.
+- End with a challenge to the viewer to try it for themselves.
+
+**Authenticity Cues**:
+- Have a towel wrapped around your head or body.
+- Be slightly damp or have water droplets on your skin.
+- Let the bathroom be a little steamy.
+- Use big, excited gestures.
 
 **Prompt Template**:
-> A person fresh out of the shower, with a towel on their head, ranting to the camera. They are full of energy and excitement about a sudden realization they had about [TOPIC]. They are talking about how [PRODUCT] played a role in their epiphany. The bathroom is steamy, and the lighting is bright. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person fresh out of the shower, with a towel on their head, ranting to the camera. They are full of energy and excitement about a sudden realization they had about [TOPIC]. They are talking about how [THE PRODUCT] played a role in their epiphany. The bathroom is steamy, and the lighting is bright. [ADDITIONAL DETAILS].
 
 ---
 
 ### 9. The "I'm So Over This" Complaint
 
-**Vibe**: Someone complaining about a common frustration, with a tone of exasperation and humor. Relatable, funny, and a little bit dramatic.
+**Vibe**: Relatable, funny, and a little bit dramatic. Someone complaining about a common frustration, with a tone of exasperation and humor.
 
-**Structure**:
-- 0-3s: The person starts with a heavy sigh and an eye-roll.
-- 3-6s: They launch into a complaint about [FRUSTRATION], using dramatic hand gestures.
-- 6-8s: They pause for a moment, as if to catch their breath, then continue their rant.
-- 8-10s: They end with a rhetorical question, as if asking the viewer for validation.
+**Talking Points**:
+- Start with a dramatic sigh or an eye-roll directed at the camera.
+- Vent about a common, relatable frustration ([THE FRUSTRATION]).
+- Explain how [THE PRODUCT] is your secret weapon against this problem.
+- Share a funny anecdote about a time the frustration got the best of you.
+- End with a rhetorical question to the audience, like "You know what I mean, right?"
+
+**Authenticity Cues**:
+- Use over-the-top, dramatic gestures.
+- Let your voice get high-pitched with frustration.
+- Shake your head in disbelief.
+- Throw your hands up in the air.
 
 **Prompt Template**:
-> A person complaining to the camera about a common frustration. They are being dramatic and humorous, using exaggerated gestures and facial expressions. They are talking about how [PRODUCT] is the only thing that helps them deal with [FRUSTRATION]. The setting is a relatable environment, like a messy room or a crowded bus. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person complaining to the camera about a common frustration. They are being dramatic and humorous, using exaggerated gestures and facial expressions. They are talking about how [THE PRODUCT] is the only thing that helps them deal with [THE FRUSTRATION]. The setting is a relatable environment, like a messy room or a crowded bus. [ADDITIONAL DETAILS].
 
 ---
 
 ### 10. The "I Can't Believe I'm Admitting This" Confession
 
-**Vibe**: Someone confessing a guilty pleasure or an embarrassing story. Secretive, funny, and vulnerable.
+**Vibe**: Secretive, funny, and vulnerable. Someone confessing a guilty pleasure or an embarrassing story.
 
-**Structure**:
-- 0-3s: The person looks around to make sure no one is listening, then leans in to the camera.
-- 3-6s: They start confessing their secret in a hushed voice, with a mix of shame and amusement.
-- 6-8s: They cover their face with their hands for a moment, as if they can't believe they are sharing this.
-- 8-10s: They end with a nervous laugh, as if relieved to have gotten it off their chest.
+**Talking Points**:
+- Lean into the camera and whisper, "Okay, I have to admit something..."
+- Share a funny or embarrassing story about your [GUILTY PLEASURE].
+- Reveal that [THE PRODUCT] is your partner in crime for this guilty pleasure.
+- Justify your guilty pleasure with a humorous excuse.
+- End by asking the audience to share their own confessions.
+
+**Authenticity Cues**:
+- Look around nervously as if you're afraid of getting caught.
+- Cover your mouth or face in mock shame.
+- Let out a nervous giggle.
+- Use a hushed, conspiratorial tone.
 
 **Prompt Template**:
-> A person confessing a guilty pleasure to the camera. They are being secretive and funny, using hushed tones and nervous laughter. They are talking about how [PRODUCT] is their secret indulgence. The setting is a private space, like a bedroom or a closet. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person confessing a guilty pleasure to the camera. They are being secretive and funny, using hushed tones and nervous laughter. They are talking about how [THE PRODUCT] is their secret indulgence. The setting is a private space, like a bedroom or a closet. [ADDITIONAL DETAILS].
 
 ---
 
 ### 11. The "Hot Take" Debate
 
-**Vibe**: Someone passionately arguing a controversial opinion. Bold, opinionated, and engaging.
+**Vibe**: Bold, opinionated, and engaging. Someone passionately arguing a controversial opinion.
 
-**Structure**:
-- 0-3s: The person starts with a bold, controversial statement.
-- 3-6s: They defend their position with passionate arguments and evidence.
-- 6-8s: They challenge the viewer to disagree with them, using a confident and assertive tone.
-- 8-10s: They end with a final, powerful statement that leaves the viewer thinking.
+**Talking Points**:
+- Start with a bold, controversial statement that will grab attention.
+- Acknowledge the opposing viewpoint, then immediately dismantle it.
+- Use [THE PRODUCT] as a key piece of evidence in your argument.
+- Share a personal experience that solidified your opinion.
+- End by confidently challenging the audience to change your mind.
+
+**Authenticity Cues**:
+- Use strong, decisive hand gestures.
+- Maintain intense eye contact with the camera.
+- Speak with conviction and passion.
+- Don't be afraid to be a little bit polarizing.
 
 **Prompt Template**:
-> A person passionately arguing a controversial opinion about [TOPIC]. They are bold and opinionated, using strong language and confident gestures. They are arguing that [PRODUCT] is the best in its category, and they are challenging the viewer to prove them wrong. The setting is a simple, uncluttered background that keeps the focus on the person. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person passionately arguing a controversial opinion about [TOPIC]. They are bold and opinionated, using strong language and confident gestures. They are arguing that [THE PRODUCT] is the best in its category, and they are challenging the viewer to prove them wrong. The setting is a simple, uncluttered background that keeps the focus on the person. [ADDITIONAL DETAILS].
 
 ---
 
 ### 12. The "I'm a Genius" Hack
 
-**Vibe**: Someone sharing a clever hack or a life-changing tip. Proud, excited, and helpful.
+**Vibe**: Proud, excited, and helpful. Someone sharing a clever hack or a life-changing tip.
 
-**Structure**:
-- 0-3s: The person starts with a look of smug satisfaction, as if they've discovered something amazing.
-- 3-6s: They share their hack with excitement, demonstrating how it works.
-- 6-8s: They show the amazing results of their hack, with a look of pride on their face.
-- 8-10s: They end with a confident smile, as if to say, "You're welcome."
+**Talking Points**:
+- Start by saying, "I just discovered the most amazing hack, and I have to share it."
+- Explain the common problem that this hack solves.
+- Demonstrate the hack, showing how [THE PRODUCT] is used in a new or clever way.
+- Show off the incredible results of your hack.
+- End with a confident smile and a "You're welcome."
+
+**Authenticity Cues**:
+- Show genuine excitement and pride in your discovery.
+- Use a "before and after" to highlight the effectiveness of the hack.
+- Keep the demonstration quick and easy to follow.
+- Act like you're letting the viewer in on a secret.
 
 **Prompt Template**:
-> A person sharing a clever hack for [TASK] using [PRODUCT]. They are excited and proud, demonstrating the hack with clear and simple steps. They show the amazing results of their hack, with a look of smug satisfaction. The setting is a clean and organized space that highlights the effectiveness of the hack. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person sharing a clever hack for [TASK] using [THE PRODUCT]. They are excited and proud, demonstrating the hack with clear and simple steps. They show the amazing results of their hack, with a look of smug satisfaction. The setting is a clean and organized space that highlights the effectiveness of the hack. [ADDITIONAL DETAILS].
 
 ---
 
 ### 13. The "Unboxing Gone Wrong" Story
 
-**Vibe**: Someone telling a funny story about a disastrous unboxing experience. Humorous, self-deprecating, and relatable.
+**Vibe**: Humorous, self-deprecating, and relatable. Someone telling a funny story about a disastrous unboxing experience.
 
-**Structure**:
-- 0-3s: The person starts with a look of disappointment or frustration.
-- 3-6s: They tell the story of their unboxing disaster, with a mix of humor and self-pity.
-- 6-8s: They show the broken or damaged product, with a look of disbelief on their face.
-- 8-10s: They end with a funny or ironic comment about their bad luck.
+**Talking Points**:
+- Start by showing the damaged or disappointing product from a competitor.
+- Tell the funny, frustrating story of your previous unboxing experience.
+- Contrast that with the amazing unboxing experience of [THE PRODUCT].
+- Highlight the thoughtful details of the packaging and presentation.
+- End with a sigh of relief and a smile.
+
+**Authenticity Cues**:
+- Show the actual damaged product if possible.
+- Reenact your frustration in a humorous way.
+- Show genuine delight and surprise during the new unboxing.
+- Let the sounds of the packaging (tearing paper, opening a box) be part of the ad.
 
 **Prompt Template**:
-> A person telling a funny story about a disastrous unboxing experience with a product that is NOT [PRODUCT]. They are being humorous and self-deprecating, with a look of disbelief on their face. They then show how easy and satisfying it is to unbox [PRODUCT]. The setting is a typical home environment, with packages and boxes around. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person telling a funny story about a disastrous unboxing experience with a product that is NOT [THE PRODUCT]. They are being humorous and self-deprecating. They then show how easy and satisfying it is to unbox [THE PRODUCT]. The setting is a typical home environment, with packages and boxes around. [ADDITIONAL DETAILS].
 
 ---
 
 ### 14. The "I'm Obsessed" Rave Review
 
-**Vibe**: Someone gushing about a product they are absolutely in love with. Enthusiastic, passionate, and convincing.
+**Vibe**: Enthusiastic, passionate, and convincing. Someone gushing about a product they are absolutely in love with.
 
-**Structure**:
-- 0-3s: The person starts with a look of pure adoration on their face.
-- 3-6s: They gush about all the things they love about the product, using superlatives and exclamation points.
-- 6-8s: They hold the product up to the camera, as if it's a precious treasure.
-- 8-10s: They end with a heartfelt recommendation, urging the viewer to try it for themselves.
+**Talking Points**:
+- Start with an audible gasp or a look of pure joy as you hold up [THE PRODUCT].
+- List three specific things you are obsessed with about the product.
+- Share a personal story about how the product has made your life better.
+- Urge the viewer to "just trust you" and try it for themselves.
+- End with a final, over-the-top declaration of your love for the product.
+
+**Authenticity Cues**:
+- Speak quickly and with a lot of energy.
+- Use superlatives like "best," "amazing," and "life-changing."
+- Hold the product close to your face as if you're about to kiss it.
+- Let your passion feel almost a little bit crazy.
 
 **Prompt Template**:
-> A person gushing about [PRODUCT] to the camera. They are enthusiastic and passionate, using superlatives and exclamation points. They are holding the product and talking about all the reasons they are obsessed with it. The setting is a bright and cheerful environment that reflects the person's positive mood. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A person gushing about [THE PRODUCT] to the camera. They are enthusiastic and passionate, using superlatives and exclamation points. They are holding the product and talking about all the reasons they are obsessed with it. The setting is a bright and cheerful environment that reflects the person's positive mood. [ADDITIONAL DETAILS].
 
 ---
 
 ### 15. The "A Day in the Life" Montage
 
-**Vibe**: A quick montage of a person's day, with the product making a subtle appearance in each scene. Authentic, aspirational, and lifestyle-focused.
+**Vibe**: Authentic, aspirational, and lifestyle-focused. A quick montage of a person's day, with the product making a subtle appearance in each scene.
 
-**Structure**:
-- 0-3s: A quick shot of the person waking up, with the product on their nightstand.
-- 3-6s: A shot of them at work or school, with the product on their desk.
-- 6-8s: A shot of them at the gym or a cafe, with the product in their bag.
-- 8-10s: A final shot of them relaxing at home, with the product in hand.
+**Talking Points**:
+- This format is less about talking and more about showing.
+- The "script" is a series of quick, candid moments from your day.
+- Show [THE PRODUCT] in its natural habitat: on your nightstand, in your gym bag, on your desk.
+- The focus should be on your life and your activities, with the product as a natural extension of that.
+- Use a trending audio clip on TikTok or Instagram Reels as the soundtrack.
+
+**Authenticity Cues**:
+- Use quick cuts and a fast pace.
+- Don't pose or stage the shots. Keep them candid and in-the-moment.
+- Show a variety of locations and activities.
+- Let the product be a subtle part of the scene, not the main focus.
 
 **Prompt Template**:
-> A quick montage of a person's day, showing how [PRODUCT] is a natural part of their lifestyle. The product is subtly featured in each scene, from their morning routine to their evening relaxation. The tone is aspirational and authentic, and the focus is on the person's life, not the product itself. [ADDITIONAL DETAILS].
-
-**Settings**: `aspectRatio: "portrait"`, `nFrames: "10"`
+> A quick montage of a person's day, showing how [THE PRODUCT] is a natural part of their lifestyle. The product is subtly featured in each scene, from their morning routine to their evening relaxation. The tone is aspirational and authentic, and the focus is on the person's life, not the product itself. Use a trending audio clip as the soundtrack. [ADDITIONAL DETAILS].

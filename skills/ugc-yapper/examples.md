@@ -6,8 +6,12 @@
 
 **Product**: Athletic Greens
 
-**Prompt**:
-> A person in their car, ranting to the camera. They are passionate and unfiltered, using animated hand gestures to emphasize their points. The camera is mounted on the dashboard, creating a close-up shot. The person is talking about how they finally feel energized throughout the day and how Athletic Greens has changed their perspective on nutrition. The lighting is natural, and the energy is high.
+**Talking Points Brief**:
+- **Hook**: Start with a raw, relatable feeling of exhaustion. "I am so sick of being tired all the time."
+- **The Struggle**: Talk about the afternoon crashes, the reliance on coffee, and feeling like you were running on empty.
+- **The Shift**: Mention how you were skeptical but started taking Athletic Greens after a friend recommended it.
+- **The Feeling**: Describe the clean, sustained energy you have now. No jitters, no crash. Just feeling human again.
+- **CTA (soft)**: End with something unscripted like, "I don't know, it's just... my energy is back. It's wild."
 
 ---
 
@@ -15,8 +19,12 @@
 
 **Product**: Magic Spoon Cereal
 
-**Prompt**:
-> A person eating a bowl of Magic Spoon cereal and talking to the camera. They are completely engrossed in their story about their fitness journey, using their spoon to gesture. They are talking about how Magic Spoon fits into their daily routine as a healthy and delicious breakfast. The setting is a casual kitchen environment. The tone is relatable and authentic.
+**Talking Points Brief**:
+- **Hook**: Take a bite of cereal and say, "I could literally eat this for every meal."
+- **The Problem**: Talk about loving cereal but hating the sugar and the crash. It's a childhood favorite that feels off-limits as an adult.
+- **The Solution**: Introduce Magic Spoon as the answer. High protein, no sugar, still tastes amazing.
+- **The Feeling**: Gush about how you can eat a whole bowl and feel great afterwards. It feels like a cheat code for breakfast.
+- **CTA (soft)**: "Seriously, if you miss cereal, you have to try this."
 
 ---
 
@@ -24,8 +32,12 @@
 
 **Product**: Our Place Always Pan
 
-**Prompt**:
-> A person cooking in their kitchen and talking to the camera. They are sharing a personal story about learning to cook while preparing a simple pasta dish. They get distracted by their cooking but always return to the camera with a genuine expression. They are using the Our Place Always Pan and talking about how it has made cooking so much easier and more enjoyable. The lighting is warm and inviting.
+**Talking Points Brief**:
+- **Hook**: Start cooking and say, "I used to be so intimidated by cooking."
+- **The Mess**: Talk about the chaos of using a million different pots and pans, the cleanup nightmare.
+- **The Discovery**: Mention how you saw the Always Pan everywhere and finally decided to try it.
+- **The Simplicity**: Show how you're using it for everything. Sautéing, steaming, whatever. It's just one pan.
+- **CTA (soft)**: End with a genuine, "It just makes me feel like I can actually cook, you know?"
 
 ---
 
@@ -33,8 +45,12 @@
 
 **Product**: Notion
 
-**Prompt**:
-> A person trying to talk about their content creation workflow but getting constantly distracted by their cat. They are in their home office, trying to explain the benefits of Notion for organizing their ideas. The tone is chaotic and funny, and the person is laughing at themselves and their cat.
+**Talking Points Brief**:
+- **Hook**: "Okay, I'm trying to explain my content workflow, but my brain is like a million tabs open..."
+- **The Chaos**: Try to explain your process, but get distracted by your cat, a notification, or something off-camera. Show the chaos.
+- **The Anchor**: Bring it back to Notion. "This is why I need Notion. It's the only thing that keeps all this... *gestures wildly*... organized."
+- **One Feature**: Mention one specific thing you love, like the databases or the to-do lists.
+- **CTA (soft)**: End with a laugh, "Anyway, Notion. It's my brain. Now, what was I saying?"
 
 ---
 
@@ -42,8 +58,12 @@
 
 **Product**: Allbirds
 
-**Prompt**:
-> A person walking down a busy city street and talking to the camera. They are holding their phone and walking at a brisk pace. They are talking about their commitment to sustainability and how Allbirds shoes help them live a more eco-friendly lifestyle. The background is a blur of city life. The tone is energetic and engaging.
+**Talking Points Brief**:
+- **Hook**: While walking, say, "I'm on my third walk of the day, and my feet don't hate me."
+- **The Old Way**: Talk about how you used to wear uncomfortable shoes and just accepted that your feet would hurt.
+- **The Comfort**: Gush about how comfortable your Allbirds are. They feel like slippers.
+- **The Look**: Mention that they actually look good, too. You can wear them anywhere.
+- **CTA (soft)**: "I'm just saying, my feet have never been happier."
 
 ---
 
@@ -51,8 +71,12 @@
 
 **Product**: CeraVe
 
-**Prompt**:
-> A person in their bathroom, talking to their reflection in the mirror. They are going through their nightly skincare routine and sharing their thoughts on the importance of self-care. They are using CeraVe cleanser and talking about its effect on their sensitive skin. The lighting is soft, and the tone is introspective and personal.
+**Talking Points Brief**:
+- **Hook**: While washing your face, say, "My skin used to be my biggest enemy."
+- **The Struggle**: Talk about having sensitive skin, trying a million expensive products, and nothing working.
+- **The Simple Fix**: Mention how your dermatologist (or a friend) recommended CeraVe, and you were shocked at how affordable it was.
+- **The Result**: Talk about how your skin has calmed down. It's not perfect, but it's healthy.
+- **CTA (soft)**: "It's just... simple, and it works. That's all I wanted."
 
 ---
 
@@ -60,8 +84,12 @@
 
 **Product**: Headspace
 
-**Prompt**:
-> A person in bed at night, talking to the camera in a hushed voice. They are sharing their late-night thoughts on anxiety and how Headspace helps them relax and unwind. The room is dark, with only a single lamp providing light. The tone is sleepy and intimate.
+**Talking Points Brief**:
+- **Hook**: In bed, whisper to the camera, "My brain will not shut up tonight."
+- **The Anxiety**: Talk about late-night anxiety and how your mind races when you're trying to sleep.
+- **The Ritual**: Mention that the only thing that helps is putting on a Headspace sleepcast.
+- **The Voice**: Talk about Andy's voice and how it's so calming. You don't even know how the stories end because you're already asleep.
+- **CTA (soft)**: Yawn and say, "Okay, time for Andy. Goodnight."
 
 ---
 
@@ -69,8 +97,12 @@
 
 **Product**: Prose Haircare
 
-**Prompt**:
-> A person fresh out of the shower, with a towel on their head, ranting to the camera. They are full of energy and excitement about a sudden realization they had about their hair. They are talking about how Prose has transformed their hair. The bathroom is steamy, and the lighting is bright.
+**Talking Points Brief**:
+- **Hook**: With a towel on your head, say, "Shower thought: I can't believe I used to use generic shampoo."
+- **The Problem**: Talk about your specific hair problems (frizz, oiliness, etc.) and how nothing ever seemed to work.
+- **The Customization**: Explain how you took the Prose quiz and got a custom formula.
+- **The Epiphany**: Gush about how your hair has never felt better. It's like it was made for you... because it was.
+- **CTA (soft)**: "Custom everything. That's the future. My hair is proof."
 
 ---
 
@@ -78,8 +110,12 @@
 
 **Product**: TUSHY Bidet
 
-**Prompt**:
-> A person complaining to the camera about the rising cost of toilet paper. They are being dramatic and humorous, using exaggerated gestures and facial expressions. They are talking about how their TUSHY bidet is the best investment they've ever made. The setting is a relatable bathroom environment.
+**Talking Points Brief**:
+- **Hook**: Start with a dramatic sigh, "Can we talk about how expensive toilet paper is getting?"
+- **The Rant**: Complain about the cost, the waste, and the fact that you always run out at the worst times.
+- **The Upgrade**: Introduce your TUSHY bidet as the best upgrade you've ever made.
+- **The Feeling**: Talk about how clean you feel. It's a spa-like experience every time.
+- **CTA (soft)**: "I'm telling you, you will not regret it. Your life will be changed."
 
 ---
 
@@ -87,8 +123,12 @@
 
 **Product**: Crumbl Cookies
 
-**Prompt**:
-> A person confessing their love for Crumbl Cookies to the camera. They are being secretive and funny, using hushed tones and nervous laughter. They are talking about how Crumbl is their secret indulgence. The setting is a private space, like a car or a bedroom.
+**Talking Points Brief**:
+- **Hook**: Whisper to the camera, "I have a confession to make... I have a problem."
+- **The Addiction**: Talk about your obsession with Crumbl Cookies. You check the flavors every week. You plan your errands around it.
+- **The Justification**: Justify it by saying it's your one little treat. You deserve it.
+- **The Bite**: Take a huge, dramatic bite of a cookie and make an exaggerated face of pure bliss.
+- **CTA (soft)**: "Don't tell my trainer. Just... go get one."
 
 ---
 
@@ -96,8 +136,12 @@
 
 **Product**: Oatly
 
-**Prompt**:
-> A person passionately arguing that oat milk is the best plant-based milk. They are bold and opinionated, using strong language and confident gestures. They are arguing that Oatly is the best oat milk on the market and challenging the viewer to prove them wrong. The setting is a simple, uncluttered background that keeps the focus on the person.
+**Talking Points Brief**:
+- **Hook**: Start with a bold statement: "Hot take: Almond milk is trash."
+- **The Argument**: Argue that it's watery and tasteless. Then go after another milk if you're feeling spicy.
+- **The Champion**: Declare that oat milk is the undisputed champion, and Oatly is the king of oat milks.
+- **The Proof**: Take a sip of your Oatly latte and give a look of pure satisfaction.
+- **CTA (soft)**: "I will not be taking questions at this time. The debate is over."
 
 ---
 
@@ -105,8 +149,12 @@
 
 **Product**: The Ordinary
 
-**Prompt**:
-> A person sharing a clever hack for using The Ordinary's Niacinamide 10% + Zinc 1% serum. They are excited and proud, demonstrating the hack with clear and simple steps. They show the amazing results of their hack, with a look of smug satisfaction. The setting is a clean and organized vanity.
+**Talking Points Brief**:
+- **Hook**: "Okay, I just discovered the most genius way to use this stuff."
+- **The Product**: Hold up The Ordinary's Niacinamide serum.
+- **The Hack**: Explain that you mix a drop of it in with your foundation.
+- **The Result**: Show how it makes your makeup look smooth and non-greasy all day. It's a game-changer for oily skin.
+- **CTA (soft)**: End with a smug smile, "You're welcome."
 
 ---
 
@@ -114,8 +162,12 @@
 
 **Product**: Away Luggage
 
-**Prompt**:
-> A person telling a funny story about a disastrous unboxing experience with a cheap suitcase. They are being humorous and self-deprecating, with a look of disbelief on their face. They then show how easy and satisfying it is to unbox their new Away luggage. The setting is a typical home environment, with packages and boxes around.
+**Talking Points Brief**:
+- **Hook**: Start by showing a broken, cheap suitcase. "This is why we can't have nice things."
+- **The Story**: Tell a funny story about how your old suitcase exploded on the baggage claim carousel.
+- **The Upgrade**: Unbox your new Away luggage, highlighting the quality and thoughtful features.
+- **The Contrast**: Compare the smooth wheels and sturdy handle to your old, busted suitcase.
+- **CTA (soft)**: "It's an investment in not having your underwear all over the airport floor."
 
 ---
 
@@ -123,8 +175,12 @@
 
 **Product**: Stanley Quencher
 
-**Prompt**:
-> A person gushing about their Stanley Quencher to the camera. They are enthusiastic and passionate, using superlatives and exclamation points. They are holding the tumbler and talking about all the reasons they are obsessed with it. The setting is a bright and cheerful environment that reflects the person's positive mood.
+**Talking Points Brief**:
+- **Hook**: Hold up your Stanley cup and say, "I get it now. I get the hype."
+- **The Obsession**: Talk about how you take it everywhere. It's your emotional support water bottle.
+- **Key Features**: Mention the handle, the fact that it fits in your car's cup holder, and how it keeps your water cold for hours.
+- **The Vibe**: Explain that it's more than a cup; it's a lifestyle accessory.
+- **CTA (soft)**: "I'm officially in the cult. No regrets."
 
 ---
 
@@ -132,5 +188,11 @@
 
 **Product**: Apple Watch
 
-**Prompt**:
-> A quick montage of a person's day, showing how their Apple Watch is a natural part of their lifestyle. The watch is subtly featured in each scene, from their morning run to their evening workout. The tone is aspirational and authentic, and the focus is on the person's life, not the product itself.
+**Talking Points Brief**:
+- **Concept**: This is a visual format with minimal talking. Use a trending TikTok audio.
+- **Shot 1**: Waking up, your Apple Watch on the nightstand.
+- **Shot 2**: On a morning run, checking your pace on the watch.
+- **Shot 3**: At your desk, a notification pops up on the watch.
+- **Shot 4**: Paying for coffee using Apple Pay on your watch.
+- **Shot 5**: In the evening, closing your rings with a final workout.
+- **Text Overlay**: "My day, powered by this thing."
