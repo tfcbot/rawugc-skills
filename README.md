@@ -3,7 +3,7 @@
   <br />
   Agent skills for <a href="https://rawugc.com">RawUGC</a> — the AI UGC generation platform
   <br />
-  <sub>API integration · 155+ UGC video formats · 10 industry verticals · content grading</sub>
+  <sub>API integration · 150 UGC video formats · 10 industry verticals · content grading</sub>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Give your AI agent procedural knowledge to generate TikTok-native, lofi UGC vide
 
 | | Skill | Formats | Type | What it does |
 |---|---|:---:|---|---|
-| 🔌 | [rawugc-api](#rawugc-api) | — | API | Generate, poll, and list AI videos via REST API |
+| 🔌 | [rawugc-api](#rawugc-api) | — | API | Generate AI videos, images & music; manage content; schedule social posts; research TikTok |
 | 💧 | [ugc-skincare](#ugc-skincare) | 20 | Formats | Routines, texture shots, ingredient education, shelfie tours |
 | 👗 | [ugc-fashion](#ugc-fashion) | 20 | Formats | OOTDs, try-on hauls, fit checks, styling challenges |
 | 📱 | [ugc-mobile](#ugc-mobile) | 15 | Formats | Phone reactions, morning rituals, couch scrolls, word-of-mouth moments |
@@ -40,7 +40,7 @@ Give your AI agent procedural knowledge to generate TikTok-native, lofi UGC vide
 | 🎬 | [ugc-lifestyle-broll](#ugc-lifestyle-broll) | 20 | B-Roll | Ambient mood footage, golden hour, rain windows, product-in-context |
 | 📊 | [ugc-content-grader](#ugc-content-grader) | 3 rubrics | Scoring | Quality, complexity, and nativeness auditing for UGC scripts |
 
-> **Total: 170 video formats + 3 scoring rubrics across 11 skills**
+> **Total: 150 video formats + 3 scoring rubrics across 11 skills**
 
 ---
 
@@ -93,40 +93,64 @@ The agent will use these skills when the user:
 
 ### rawugc-api
 
-> Call the RawUGC Video Generation API to create and manage AI videos.
+> Call the full RawUGC API to generate AI videos, images & music, manage content, schedule social posts, and research TikTok.
 
 ```bash
 npx skills add tfcbot/rawugc-skills --skill rawugc-api
 ```
 
-Procedural knowledge for the full RawUGC REST API. Supports multiple AI video models and a generate-then-poll workflow.
+Procedural knowledge for the full RawUGC REST API. Covers video, image, and music generation; content management (personas, products, styles, messaging, characters); social scheduling (TikTok, Instagram, YouTube); TikTok research and viral library; and file upload.
 
 **Supported models:**
 
-| Model | Input | Description |
-|---|---|---|
-| `sora-2-text-to-video` | Text prompt | OpenAI Sora 2 text-to-video generation |
-| `sora-2-image-to-video` | Image URLs | OpenAI Sora 2 image-to-video generation |
-| `kling-2.6/motion-control` | Image + video URLs | Kling 2.6 with motion control |
-| `veo3` | Text prompt | Google Veo 3 text-to-video |
-| `veo3_fast` | Text prompt | Google Veo 3 fast mode |
+| Type | Model | Input | Description |
+|---|---|---|---|
+| Video | `sora-2-text-to-video` | Text prompt | OpenAI Sora 2 text-to-video |
+| Video | `sora-2-image-to-video` | Image URLs | OpenAI Sora 2 image-to-video |
+| Video | `kling-2.6/motion-control` | Image + video URLs | Kling 2.6 with motion control |
+| Video | `veo3` | Text prompt | Google Veo 3 text-to-video |
+| Video | `veo3_fast` | Text prompt | Google Veo 3 fast mode |
+| Image | `nano-banana-2` | Text prompt + optional images | Text-to-image generation |
+| Image | `google/nano-banana-edit` | Image + text | AI image editing |
+| Music | `V5` (default), `V4_5`, `V4`, `V3_5` | Text prompt | Suno music generation |
 
 **Endpoints:**
 
 | Method | Path | Description |
 |---|---|---|
-| `POST` | `/videos/generate` | Initiate video generation with prompt, model, aspect ratio, character |
-| `GET` | `/videos/:taskId` | Poll generation status and retrieve the result URL |
+| `POST` | `/videos/generate` | Initiate video generation |
+| `GET` | `/videos/:videoId` | Poll video status and retrieve result URL |
 | `GET` | `/videos` | List videos with status filtering and pagination |
+| `POST` | `/videos/captions` | Add styled captions to a completed video (1 credit) |
+| `POST` | `/videos/overlay` | Add text overlay to a completed video |
+| `POST` | `/images/generate` | Generate AI images |
+| `GET` | `/images/:imageId` | Poll image generation status |
+| `GET` | `/images` | List images |
+| `POST` | `/music/generate` | Generate AI music (3 credits) |
+| `GET` | `/music/:musicId` | Poll music generation status |
+| `GET` | `/music` | List music tracks |
+| `POST` | `/upload` | Upload a video or image file (max 100MB) |
+| `GET` | `/characters` | List available AI characters |
+| `GET/POST/PATCH/DELETE` | `/personas` | CRUD for target audience personas |
+| `GET/POST/PATCH/DELETE` | `/products` | CRUD for products |
+| `GET/POST/PATCH/DELETE` | `/messaging` | CRUD for brand messaging templates |
+| `GET/POST/PATCH/DELETE` | `/styles` | CRUD for creative styles |
+| `GET/POST/DELETE` | `/social/accounts` | Manage connected social accounts |
+| `GET/POST/PATCH/DELETE` | `/social/posts` | Schedule, draft, or publish social posts |
+| `GET` | `/viral-library/videos/:videoId` | Get viral video with AI analysis |
+| `GET` | `/viral-library/search` | Semantic search across viral videos |
+| `POST` | `/scrape-tiktok` | Scrape TikTok videos by keyword/hashtag (3 credits) |
+| `POST/GET` | `/content-plans` | Generate content plans from scraped TikTok data |
+| `POST` | `/analyze-video` | Analyze any video URL with AI (1 credit) |
 
-**Workflow:** Generate a video → receive `taskId` → poll until `status === 'completed'` → use `resultUrl`. Supports characters (`selectedCharacter`), resolution modes (720p/1080p), and portrait/landscape aspect ratios.
+**Workflow:** Generate → receive an ID (`videoId`/`imageId`/`musicId`) → poll until `status === 'completed'` → use the result URL. Supports characters (`selectedCharacter`), resolution modes (720p/1080p), and portrait/landscape aspect ratios.
 
 **Includes:** Full request/response schemas, error handling (RFC 7807), rate limiting guidance, and authentication setup.
 
 | File | Description |
 |---|---|
-| [SKILL.md](skills/rawugc-api/SKILL.md) | Endpoint docs, authentication, request/response schemas, workflow guidance |
-| [reference.md](skills/rawugc-api/reference.md) | Full request/response shapes, status codes, error formats |
+| [SKILL.md](skills/rawugc-api/SKILL.md) | All endpoints, authentication, request/response schemas, workflow guidance |
+| [reference.md](skills/rawugc-api/reference.md) | Condensed request/response shapes, status codes, error formats |
 
 ---
 
