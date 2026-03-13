@@ -3,7 +3,7 @@
   <br />
   Agent skills for <a href="https://rawugc.com">RawUGC</a> — the AI UGC generation platform
   <br />
-  <sub>API integration · 155+ UGC video formats · 10 industry verticals · content grading</sub>
+  <sub>API integration · 150 UGC video formats · 10 industry verticals · content grading</sub>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Give your AI agent procedural knowledge to generate TikTok-native, lofi UGC vide
 
 | | Skill | Formats | Type | What it does |
 |---|---|:---:|---|---|
-| 🔌 | [rawugc-api](#rawugc-api) | — | API | Generate, poll, and list AI videos via REST API |
+| 🔌 | [rawugc-api](#rawugc-api) | — | API | Generate AI videos, images & music; manage content; schedule social posts; research TikTok |
 | 💧 | [ugc-skincare](#ugc-skincare) | 20 | Formats | Routines, texture shots, ingredient education, shelfie tours |
 | 👗 | [ugc-fashion](#ugc-fashion) | 20 | Formats | OOTDs, try-on hauls, fit checks, styling challenges |
 | 📱 | [ugc-mobile](#ugc-mobile) | 15 | Formats | Phone reactions, morning rituals, couch scrolls, word-of-mouth moments |
@@ -40,7 +40,7 @@ Give your AI agent procedural knowledge to generate TikTok-native, lofi UGC vide
 | 🎬 | [ugc-lifestyle-broll](#ugc-lifestyle-broll) | 20 | B-Roll | Ambient mood footage, golden hour, rain windows, product-in-context |
 | 📊 | [ugc-content-grader](#ugc-content-grader) | 3 rubrics | Scoring | Quality, complexity, and nativeness auditing for UGC scripts |
 
-> **Total: 170 video formats + 3 scoring rubrics across 11 skills**
+> **Total: 150 video formats + 3 scoring rubrics across 11 skills**
 
 ---
 
@@ -93,40 +93,20 @@ The agent will use these skills when the user:
 
 ### rawugc-api
 
-> Call the RawUGC Video Generation API to create and manage AI videos.
+> Call the full RawUGC API to generate AI videos, images & music, manage content, schedule social posts, and research TikTok.
 
 ```bash
 npx skills add tfcbot/rawugc-skills --skill rawugc-api
 ```
 
-Procedural knowledge for the full RawUGC REST API. Supports multiple AI video models and a generate-then-poll workflow.
+Procedural knowledge for the full RawUGC REST API. Covers video, image, and music generation; content management (personas, products, styles, messaging, characters); social scheduling (TikTok, Instagram, YouTube); TikTok research and viral library; and file upload.
 
-**Supported models:**
-
-| Model | Input | Description |
-|---|---|---|
-| `sora-2-text-to-video` | Text prompt | OpenAI Sora 2 text-to-video generation |
-| `sora-2-image-to-video` | Image URLs | OpenAI Sora 2 image-to-video generation |
-| `kling-2.6/motion-control` | Image + video URLs | Kling 2.6 with motion control |
-| `veo3` | Text prompt | Google Veo 3 text-to-video |
-| `veo3_fast` | Text prompt | Google Veo 3 fast mode |
-
-**Endpoints:**
-
-| Method | Path | Description |
-|---|---|---|
-| `POST` | `/videos/generate` | Initiate video generation with prompt, model, aspect ratio, character |
-| `GET` | `/videos/:taskId` | Poll generation status and retrieve the result URL |
-| `GET` | `/videos` | List videos with status filtering and pagination |
-
-**Workflow:** Generate a video → receive `taskId` → poll until `status === 'completed'` → use `resultUrl`. Supports characters (`selectedCharacter`), resolution modes (720p/1080p), and portrait/landscape aspect ratios.
-
-**Includes:** Full request/response schemas, error handling (RFC 7807), rate limiting guidance, and authentication setup.
+**Includes:** Full endpoint docs, request/response schemas, error handling (RFC 7807), rate limiting guidance, and authentication setup.
 
 | File | Description |
 |---|---|
-| [SKILL.md](skills/rawugc-api/SKILL.md) | Endpoint docs, authentication, request/response schemas, workflow guidance |
-| [reference.md](skills/rawugc-api/reference.md) | Full request/response shapes, status codes, error formats |
+| [SKILL.md](skills/rawugc-api/SKILL.md) | All endpoints, authentication, request/response schemas, workflow guidance |
+| [reference.md](skills/rawugc-api/reference.md) | Condensed request/response shapes, status codes, error formats |
 
 ---
 
