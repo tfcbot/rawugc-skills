@@ -101,51 +101,7 @@ npx skills add tfcbot/rawugc-skills --skill rawugc-api
 
 Procedural knowledge for the full RawUGC REST API. Covers video, image, and music generation; content management (personas, products, styles, messaging, characters); social scheduling (TikTok, Instagram, YouTube); TikTok research and viral library; and file upload.
 
-**Supported models:**
-
-| Type | Model | Input | Description |
-|---|---|---|---|
-| Video | `sora-2-text-to-video` | Text prompt | OpenAI Sora 2 text-to-video |
-| Video | `sora-2-image-to-video` | Image URLs | OpenAI Sora 2 image-to-video |
-| Video | `kling-2.6/motion-control` | Image + video URLs | Kling 2.6 with motion control |
-| Video | `veo3` | Text prompt | Google Veo 3 text-to-video |
-| Video | `veo3_fast` | Text prompt | Google Veo 3 fast mode |
-| Image | `nano-banana-2` | Text prompt + optional images | Text-to-image generation |
-| Image | `google/nano-banana-edit` | Image + text | AI image editing |
-| Music | `V5` (default), `V4_5`, `V4`, `V3_5` | Text prompt | Suno music generation |
-
-**Endpoints:**
-
-| Method | Path | Description |
-|---|---|---|
-| `POST` | `/videos/generate` | Initiate video generation |
-| `GET` | `/videos/:videoId` | Poll video status and retrieve result URL |
-| `GET` | `/videos` | List videos with status filtering and pagination |
-| `POST` | `/videos/captions` | Add styled captions to a completed video (1 credit) |
-| `POST` | `/videos/overlay` | Add text overlay to a completed video |
-| `POST` | `/images/generate` | Generate AI images |
-| `GET` | `/images/:imageId` | Poll image generation status |
-| `GET` | `/images` | List images |
-| `POST` | `/music/generate` | Generate AI music (3 credits) |
-| `GET` | `/music/:musicId` | Poll music generation status |
-| `GET` | `/music` | List music tracks |
-| `POST` | `/upload` | Upload a video or image file (max 100MB) |
-| `GET` | `/characters` | List available AI characters |
-| `GET/POST/PATCH/DELETE` | `/personas` | CRUD for target audience personas |
-| `GET/POST/PATCH/DELETE` | `/products` | CRUD for products |
-| `GET/POST/PATCH/DELETE` | `/messaging` | CRUD for brand messaging templates |
-| `GET/POST/PATCH/DELETE` | `/styles` | CRUD for creative styles |
-| `GET/POST/DELETE` | `/social/accounts` | Manage connected social accounts |
-| `GET/POST/PATCH/DELETE` | `/social/posts` | Schedule, draft, or publish social posts |
-| `GET` | `/viral-library/videos/:videoId` | Get viral video with AI analysis |
-| `GET` | `/viral-library/search` | Semantic search across viral videos |
-| `POST` | `/scrape-tiktok` | Scrape TikTok videos by keyword/hashtag (3 credits) |
-| `POST/GET` | `/content-plans` | Generate content plans from scraped TikTok data |
-| `POST` | `/analyze-video` | Analyze any video URL with AI (1 credit) |
-
-**Workflow:** Generate → receive an ID (`videoId`/`imageId`/`musicId`) → poll until `status === 'completed'` → use the result URL. Supports characters (`selectedCharacter`), resolution modes (720p/1080p), and portrait/landscape aspect ratios.
-
-**Includes:** Full request/response schemas, error handling (RFC 7807), rate limiting guidance, and authentication setup.
+**Includes:** Full endpoint docs, request/response schemas, error handling (RFC 7807), rate limiting guidance, and authentication setup.
 
 | File | Description |
 |---|---|
